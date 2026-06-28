@@ -1,0 +1,14 @@
+{
+    "_version": 1782658736146,
+    "merchant_id": 300001,
+    "username": "nalshi",
+    "store_name": "نالش | nalsh..",
+    "store_type": "مطاعم ومأكولات",
+    "phone": "770094456",
+    "settings": {
+        "location": "https:\/\/www.google.com\/maps?q=15.3383512,44.2186084",
+        "phone": null,
+        "push_notifications": true,
+        "welcome_message": "اهليييييننه"
+    }
+}
