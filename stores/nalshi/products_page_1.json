@@ -1,5 +1,5 @@
 {
-    "_version": 1782750115264,
+    "_version": 1782751320680,
     "page": 1,
     "total_pages": 1,
     "data": [
@@ -13,7 +13,7 @@
             "type": "احذية",
             "options": [],
             "quantity": 9999,
-            "quantity_type": "tracked",
+            "quantity_type": "unlimited",
             "is_available": 1
         }
     ]
