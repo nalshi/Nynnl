@@ -1,5 +1,5 @@
 {
-    "_version": 1782749843125,
+    "_version": 1782750115264,
     "page": 1,
     "total_pages": 1,
     "data": [
@@ -10,7 +10,7 @@
             "price": 2500,
             "discount": 0,
             "image": "https:\/\/i.ibb.co\/CcyT9P7\/product.webp",
-            "type": "اكل",
+            "type": "احذية",
             "options": [],
             "quantity": 9999,
             "quantity_type": "tracked",
