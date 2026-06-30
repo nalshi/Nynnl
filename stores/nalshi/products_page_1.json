@@ -1,1 +1,21 @@
-{"_version":1782852966366,"page":1,"total_pages":1,"data":[{"id":"prod_306240e9-16f2-4aa6-a2a7-7a96c866731c","name":",igbbbbvvvvvvvvv","mainDescription":"G,gxkbbbb","price":600,"discount":0,"image":"https:\/\/i.ibb.co\/7th4TmBP\/product.webp","type":"شنط نسائية","options":[],"quantity":9999,"quantity_type":"unlimited","is_available":1}]}
+{
+    "_version": 1782855444255,
+    "page": 1,
+    "total_pages": 1,
+    "data": [
+        {
+            "id": "prod_306240e9-16f2-4aa6-a2a7-7a96c866731c",
+            "name": ",igbbbbvvvvvvvvv",
+            "mainDescription": "G,gxkbbbb",
+            "price": 600,
+            "currency": "SAR",
+            "discount": 0,
+            "image": "https:\/\/i.ibb.co\/7th4TmBP\/product.webp",
+            "type": "اكل",
+            "options": [],
+            "quantity": 9999,
+            "quantity_type": "unlimited",
+            "is_available": 1
+        }
+    ]
+}
