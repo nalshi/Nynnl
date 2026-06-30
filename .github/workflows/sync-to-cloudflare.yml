@@ -19,4 +19,4 @@ jobs:
         # قم بتغيير الدومين إلى الدومين الخاص بك
         with:
           args: |
-            --files 'https://json.nalsh.nalsh.dpdns.org/stores/nalshi/manifest.json'
+            --files 'https://json.nalsh.nalsh.dpdns.org/'
