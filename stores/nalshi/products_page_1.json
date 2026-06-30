@@ -1,5 +1,5 @@
 {
-    "_version": 1782857913859,
+    "_version": 1782858362944,
     "page": 1,
     "total_pages": 1,
     "data": [
@@ -12,8 +12,8 @@
             "image": "https:\/\/i.ibb.co\/7th4TmBP\/product.webp",
             "type": "اكل",
             "options": [],
-            "quantity": 1,
-            "quantity_type": "tracked",
+            "quantity": 9999,
+            "quantity_type": "unlimited",
             "is_available": 1
         },
         {
