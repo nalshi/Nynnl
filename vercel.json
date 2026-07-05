@@ -1,0 +1,17 @@
+{
+  "headers": [
+    {
+      "source": "/stores/(.*).json",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, s-maxage=31536000"
+        },
+        {
+          "key": "Access-Control-Allow-Origin",
+          "value": "*"
+        }
+      ]
+    }
+  ]
+}
