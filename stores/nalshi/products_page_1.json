@@ -1,5 +1,5 @@
 {
-    "_version": 1783274369197,
+    "_version": 1783275801819,
     "page": 1,
     "total_pages": 1,
     "data": [
@@ -7,10 +7,10 @@
             "id": "prod_09299916-89e8-4aa0-996b-38eb4e1061c3",
             "name": "تتتgggg",
             "mainDescription": "تااا",
-            "price": 7500,
+            "price": 100000,
             "discount": 0,
             "image": "https:\/\/i.ibb.co\/7th4TmBP\/product.webp",
-            "type": "J",
+            "type": "احذية",
             "options": [],
             "quantity": 9999,
             "quantity_type": "unlimited",
