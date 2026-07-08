@@ -1,11 +1,13 @@
 {
-    "_version": 1783541731013,
-    "merchant_id": "390001",
+    "_version": 1783542456082,
+    "merchant_id": 390001,
     "username": "daile",
     "store_name": "دايل كو",
     "store_type": "متنوع",
     "phone": "773434349",
     "settings": {
-        "location": "https:\/\/www.google.com\/maps?q=15.3383642,44.2186118"
+        "location": "https:\/\/www.google.com\/maps?q=15.3383642,44.2186118",
+        "phone": null,
+        "push_notifications": true
     }
 }
