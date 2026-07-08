@@ -1,6 +1,13 @@
 {
-    "version": 1783541731013,
+    "version": 1783542193565,
+    "total_products": 1,
+    "total_pages": 1,
     "files": {
-        "info": 1783541731013
+        "search": 1783542193565,
+        "categories": 1783542193565,
+        "info": 1783542193565,
+        "pages": {
+            "page_1": 1783542193565
+        }
     }
 }
