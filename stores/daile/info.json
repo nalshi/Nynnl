@@ -1,5 +1,5 @@
 {
-    "_version": 1783542456082,
+    "_version": 1783542471660,
     "merchant_id": 390001,
     "username": "daile",
     "store_name": "دايل كو",
@@ -8,6 +8,7 @@
     "settings": {
         "location": "https:\/\/www.google.com\/maps?q=15.3383642,44.2186118",
         "phone": null,
-        "push_notifications": true
+        "push_notifications": true,
+        "welcome_message": "دايل كو يرحب بكم"
     }
 }
