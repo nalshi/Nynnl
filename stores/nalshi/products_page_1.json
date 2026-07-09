@@ -1,5 +1,5 @@
 {
-    "_version": 1783634670321,
+    "_version": 1783635154779,
     "page": 1,
     "total_pages": 1,
     "data": [
@@ -36,7 +36,7 @@
             "price": 500000,
             "discount": 0,
             "image": "https:\/\/i.ibb.co\/Nnj8hRpG\/product.webp",
-            "type": "حقائب",
+            "type": "330001::ه",
             "options": [],
             "quantity": 9999,
             "quantity_type": "unlimited",
