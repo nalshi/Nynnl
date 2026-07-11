@@ -1,0 +1,20 @@
+{
+    "_version": 1783766797038,
+    "page": 1,
+    "total_pages": 1,
+    "data": [
+        {
+            "id": "prod_4f285c7c-527b-4a3e-aea3-cc63bed56dfc",
+            "name": "شوايهو",
+            "mainDescription": "وؤوؤو",
+            "price": 2000,
+            "discount": 0,
+            "image": "https:\/\/i.ibb.co\/21v3zmL7\/product.webp",
+            "type": "اكل",
+            "options": [],
+            "quantity": 9999,
+            "quantity_type": "unlimited",
+            "is_available": 1
+        }
+    ]
+}
