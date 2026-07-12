@@ -1,5 +1,5 @@
 {
-    "_version": 1783888601553,
+    "_version": 1783889052731,
     "page": 1,
     "total_pages": 1,
     "data": {
@@ -55,8 +55,8 @@
             "price": 6500,
             "discount": 10,
             "image": "https:\/\/i.ibb.co\/FLZQvQ7V\/product.webp",
-            "type": "30001::تت",
-            "category_id": null,
+            "type": "تتتو",
+            "category_id": 390013,
             "options": [],
             "features": [],
             "quantity": 9999,
