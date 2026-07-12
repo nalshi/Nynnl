@@ -1,5 +1,5 @@
 {
-    "_version": 1783893446993,
+    "_version": 1783894921152,
     "page": 1,
     "total_pages": 1,
     "data": {
@@ -12,21 +12,6 @@
             "image": "https:\/\/i.ibb.co\/7th4TmBP\/product.webp",
             "type": "مجوهرات",
             "category_id": null,
-            "options": [],
-            "features": [],
-            "quantity": 9999,
-            "quantity_type": "unlimited",
-            "is_available": 1
-        },
-        "prod_14e4545b-f17d-4005-90fc-26e40fca4a04": {
-            "id": "prod_14e4545b-f17d-4005-90fc-26e40fca4a04",
-            "name": "Bbxbxbd",
-            "mainDescription": "Hdhdhdh",
-            "price": 6500,
-            "discount": 0,
-            "image": "https:\/\/i.ibb.co\/fzT1TNcw\/product.webp",
-            "type": "تتتو",
-            "category_id": 390013,
             "options": [],
             "features": [],
             "quantity": 9999,

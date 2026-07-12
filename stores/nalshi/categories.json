@@ -1,5 +1,5 @@
 {
-    "_version": 1783893446993,
+    "_version": 1783894921152,
     "data": [
         {
             "id": 360002,
@@ -66,13 +66,7 @@
                             "id": 390013,
                             "name": "تتتو",
                             "parent_id": 390006,
-                            "products": [
-                                {
-                                    "id": "prod_14e4545b-f17d-4005-90fc-26e40fca4a04",
-                                    "n": "Bbxbxbd",
-                                    "pg": 1
-                                }
-                            ],
+                            "products": [],
                             "children": [
                                 {
                                     "id": 390015,
