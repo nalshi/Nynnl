@@ -1,5 +1,5 @@
 {
-    "_version": 1783892756280,
+    "_version": 1783892759157,
     "page": 1,
     "total_pages": 1,
     "data": {
@@ -27,21 +27,6 @@
             "image": "https:\/\/i.ibb.co\/7th4TmBP\/product.webp",
             "type": "احذية",
             "category_id": null,
-            "options": [],
-            "features": [],
-            "quantity": 9999,
-            "quantity_type": "unlimited",
-            "is_available": 1
-        },
-        "prod_7ad95b92-9c27-46d7-9753-181786ba33cc": {
-            "id": "prod_7ad95b92-9c27-46d7-9753-181786ba33cc",
-            "name": "تنتيتي",
-            "mainDescription": "ةؤدؤىظلن",
-            "price": 500000,
-            "discount": 0,
-            "image": "https:\/\/i.ibb.co\/Nnj8hRpG\/product.webp",
-            "type": "ااغ",
-            "category_id": 390002,
             "options": [],
             "features": [],
             "quantity": 9999,
