@@ -1,23 +1,8 @@
 {
-    "_version": 1783894921152,
+    "_version": 1783894925180,
     "page": 1,
     "total_pages": 1,
     "data": {
-        "prod_09299916-89e8-4aa0-996b-38eb4e1061c3": {
-            "id": "prod_09299916-89e8-4aa0-996b-38eb4e1061c3",
-            "name": "تتتgggg",
-            "mainDescription": "تااا",
-            "price": 100000,
-            "discount": 0,
-            "image": "https:\/\/i.ibb.co\/7th4TmBP\/product.webp",
-            "type": "مجوهرات",
-            "category_id": null,
-            "options": [],
-            "features": [],
-            "quantity": 9999,
-            "quantity_type": "unlimited",
-            "is_available": 1
-        },
         "prod_306240e9-16f2-4aa6-a2a7-7a96c866731c": {
             "id": "prod_306240e9-16f2-4aa6-a2a7-7a96c866731c",
             "name": ",igbbbbvvvvvvvvv",
@@ -31,21 +16,6 @@
             "features": [],
             "quantity": 9999,
             "quantity_type": "unlimited",
-            "is_available": 1
-        },
-        "prod_f2f8e05a-14b8-46ef-ad18-9ab28af6eb97": {
-            "id": "prod_f2f8e05a-14b8-46ef-ad18-9ab28af6eb97",
-            "name": "بنبنءل",
-            "mainDescription": "ملؤمؤاماامكاؤ",
-            "price": 60000,
-            "discount": 0,
-            "image": "https:\/\/i.ibb.co\/gFfyBnBv\/product.webp",
-            "type": "باقات",
-            "category_id": null,
-            "options": [],
-            "features": [],
-            "quantity": 1,
-            "quantity_type": "tracked",
             "is_available": 1
         }
     }
