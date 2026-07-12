@@ -1,5 +1,5 @@
 {
-    "_version": 1783891537765,
+    "_version": 1783892756280,
     "page": 1,
     "total_pages": 1,
     "data": {
@@ -42,21 +42,6 @@
             "image": "https:\/\/i.ibb.co\/Nnj8hRpG\/product.webp",
             "type": "ااغ",
             "category_id": 390002,
-            "options": [],
-            "features": [],
-            "quantity": 9999,
-            "quantity_type": "unlimited",
-            "is_available": 1
-        },
-        "prod_7d07d466-811e-4ff8-8941-ba42fcf085f5": {
-            "id": "prod_7d07d466-811e-4ff8-8941-ba42fcf085f5",
-            "name": "ىظءءبؤنل",
-            "mainDescription": "بزلز",
-            "price": 6500,
-            "discount": 10,
-            "image": "https:\/\/i.ibb.co\/FLZQvQ7V\/product.webp",
-            "type": "تبتقا",
-            "category_id": 390015,
             "options": [],
             "features": [],
             "quantity": 9999,
