@@ -1,22 +1,6 @@
 {
-    "_version": 1783894925180,
+    "_version": 1783894926663,
     "page": 1,
     "total_pages": 1,
-    "data": {
-        "prod_306240e9-16f2-4aa6-a2a7-7a96c866731c": {
-            "id": "prod_306240e9-16f2-4aa6-a2a7-7a96c866731c",
-            "name": ",igbbbbvvvvvvvvv",
-            "mainDescription": "G,gxkbbbb",
-            "price": 600,
-            "discount": 0,
-            "image": "https:\/\/i.ibb.co\/7th4TmBP\/product.webp",
-            "type": "احذية",
-            "category_id": null,
-            "options": [],
-            "features": [],
-            "quantity": 9999,
-            "quantity_type": "unlimited",
-            "is_available": 1
-        }
-    }
+    "data": []
 }
