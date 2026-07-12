@@ -1,9 +1,9 @@
 {
-    "_version": 1783635306993,
+    "_version": 1783888601553,
     "page": 1,
     "total_pages": 1,
-    "data": [
-        {
+    "data": {
+        "prod_09299916-89e8-4aa0-996b-38eb4e1061c3": {
             "id": "prod_09299916-89e8-4aa0-996b-38eb4e1061c3",
             "name": "تتتgggg",
             "mainDescription": "تااا",
@@ -11,12 +11,14 @@
             "discount": 0,
             "image": "https:\/\/i.ibb.co\/7th4TmBP\/product.webp",
             "type": "مجوهرات",
+            "category_id": null,
             "options": [],
+            "features": [],
             "quantity": 9999,
             "quantity_type": "unlimited",
             "is_available": 1
         },
-        {
+        "prod_306240e9-16f2-4aa6-a2a7-7a96c866731c": {
             "id": "prod_306240e9-16f2-4aa6-a2a7-7a96c866731c",
             "name": ",igbbbbvvvvvvvvv",
             "mainDescription": "G,gxkbbbb",
@@ -24,25 +26,29 @@
             "discount": 0,
             "image": "https:\/\/i.ibb.co\/7th4TmBP\/product.webp",
             "type": "احذية",
+            "category_id": null,
             "options": [],
+            "features": [],
             "quantity": 9999,
             "quantity_type": "unlimited",
             "is_available": 1
         },
-        {
+        "prod_7ad95b92-9c27-46d7-9753-181786ba33cc": {
             "id": "prod_7ad95b92-9c27-46d7-9753-181786ba33cc",
             "name": "تنتيتي",
             "mainDescription": "ةؤدؤىظلن",
             "price": 500000,
             "discount": 0,
             "image": "https:\/\/i.ibb.co\/Nnj8hRpG\/product.webp",
-            "type": "330001::ه",
+            "type": "ااغ",
+            "category_id": 390002,
             "options": [],
+            "features": [],
             "quantity": 9999,
             "quantity_type": "unlimited",
             "is_available": 1
         },
-        {
+        "prod_7d07d466-811e-4ff8-8941-ba42fcf085f5": {
             "id": "prod_7d07d466-811e-4ff8-8941-ba42fcf085f5",
             "name": "ىظءءبؤنل",
             "mainDescription": "بزلز",
@@ -50,12 +56,14 @@
             "discount": 10,
             "image": "https:\/\/i.ibb.co\/FLZQvQ7V\/product.webp",
             "type": "30001::تت",
+            "category_id": null,
             "options": [],
+            "features": [],
             "quantity": 9999,
             "quantity_type": "unlimited",
             "is_available": 1
         },
-        {
+        "prod_f2f8e05a-14b8-46ef-ad18-9ab28af6eb97": {
             "id": "prod_f2f8e05a-14b8-46ef-ad18-9ab28af6eb97",
             "name": "بنبنءل",
             "mainDescription": "ملؤمؤاماامكاؤ",
@@ -63,10 +71,12 @@
             "discount": 0,
             "image": "https:\/\/i.ibb.co\/gFfyBnBv\/product.webp",
             "type": "باقات",
+            "category_id": null,
             "options": [],
+            "features": [],
             "quantity": 1,
             "quantity_type": "tracked",
             "is_available": 1
         }
-    ]
+    }
 }

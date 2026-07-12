@@ -1,10 +1,233 @@
 {
-    "_version": 1783635306993,
+    "_version": 1783888601553,
     "data": [
-        "مجوهرات",
-        "احذية",
-        "330001::ه",
-        "30001::تت",
-        "باقات"
+        {
+            "id": 360002,
+            "name": "30001::تت",
+            "parent_id": 0,
+            "products": [],
+            "children": []
+        },
+        {
+            "id": 360001,
+            "name": "330001::ه",
+            "parent_id": 0,
+            "products": [],
+            "children": []
+        },
+        {
+            "id": 300001,
+            "name": "J",
+            "parent_id": 0,
+            "products": [],
+            "children": []
+        },
+        {
+            "id": 240001,
+            "name": "ا",
+            "parent_id": 0,
+            "products": [],
+            "children": []
+        },
+        {
+            "id": 240004,
+            "name": "ا",
+            "parent_id": 0,
+            "products": [],
+            "children": []
+        },
+        {
+            "id": 240003,
+            "name": "ا",
+            "parent_id": 0,
+            "products": [],
+            "children": [
+                {
+                    "id": 390002,
+                    "name": "ااغ",
+                    "parent_id": 240003,
+                    "products": [
+                        {
+                            "id": "prod_7ad95b92-9c27-46d7-9753-181786ba33cc",
+                            "n": "تنتيتي",
+                            "pg": 1
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "id": 390005,
+                    "name": "ااغ",
+                    "parent_id": 240003,
+                    "products": [],
+                    "children": []
+                },
+                {
+                    "id": 390006,
+                    "name": "ااغ",
+                    "parent_id": 240003,
+                    "products": [],
+                    "children": [
+                        {
+                            "id": 390013,
+                            "name": "تتتو",
+                            "parent_id": 390006,
+                            "products": [],
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": 390004,
+                    "name": "ااغ",
+                    "parent_id": 240003,
+                    "products": [],
+                    "children": []
+                },
+                {
+                    "id": 390003,
+                    "name": "ااغ",
+                    "parent_id": 240003,
+                    "products": [],
+                    "children": []
+                },
+                {
+                    "id": 390001,
+                    "name": "ااغ",
+                    "parent_id": 240003,
+                    "products": [],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": 240002,
+            "name": "ا",
+            "parent_id": 0,
+            "products": [],
+            "children": []
+        },
+        {
+            "id": 150001,
+            "name": "احذية",
+            "parent_id": 0,
+            "products": [],
+            "children": []
+        },
+        {
+            "id": 180001,
+            "name": "باقات",
+            "parent_id": 0,
+            "products": [],
+            "children": []
+        },
+        {
+            "id": 120004,
+            "name": "حقائب",
+            "parent_id": 0,
+            "products": [],
+            "children": []
+        },
+        {
+            "id": 120003,
+            "name": "حقائب",
+            "parent_id": 0,
+            "products": [],
+            "children": []
+        },
+        {
+            "id": 120002,
+            "name": "حقائب",
+            "parent_id": 0,
+            "products": [],
+            "children": []
+        },
+        {
+            "id": 120001,
+            "name": "حقائب",
+            "parent_id": 0,
+            "products": [],
+            "children": []
+        },
+        {
+            "id": 90001,
+            "name": "حقائب",
+            "parent_id": 0,
+            "products": [],
+            "children": []
+        },
+        {
+            "id": 60001,
+            "name": "حقائب",
+            "parent_id": 0,
+            "products": [],
+            "children": []
+        },
+        {
+            "id": 270001,
+            "name": "غغغغ",
+            "parent_id": 0,
+            "products": [],
+            "children": []
+        },
+        {
+            "id": 30001,
+            "name": "مجوهرات",
+            "parent_id": 0,
+            "products": [],
+            "children": []
+        },
+        {
+            "id": 390008,
+            "name": "تتت",
+            "parent_id": 0,
+            "products": [],
+            "children": [
+                {
+                    "id": 390009,
+                    "name": "نتن",
+                    "parent_id": 390008,
+                    "products": [],
+                    "children": [
+                        {
+                            "id": 390010,
+                            "name": "ززززززز",
+                            "parent_id": 390009,
+                            "products": [],
+                            "children": [
+                                {
+                                    "id": 390011,
+                                    "name": "اا",
+                                    "parent_id": 390010,
+                                    "products": [],
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 390012,
+            "name": "حقائبى",
+            "parent_id": 0,
+            "products": [],
+            "children": []
+        },
+        {
+            "id": 390014,
+            "name": "خ",
+            "parent_id": 0,
+            "products": [],
+            "children": []
+        },
+        {
+            "id": 390007,
+            "name": "غع",
+            "parent_id": 330003,
+            "products": [],
+            "children": []
+        }
     ]
 }

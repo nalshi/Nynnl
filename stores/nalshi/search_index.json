@@ -1,50 +1,30 @@
 {
-    "_version": 1783635306993,
+    "_version": 1783888601553,
     "data": [
         {
             "id": "prod_09299916-89e8-4aa0-996b-38eb4e1061c3",
             "n": "تتتgggg",
-            "p": 100000,
-            "d": 0,
-            "i": "https:\/\/i.ibb.co\/7th4TmBP\/product.webp",
-            "t": "مجوهرات",
-            "a": 1
+            "pg": 1
         },
         {
             "id": "prod_306240e9-16f2-4aa6-a2a7-7a96c866731c",
             "n": ",igbbbbvvvvvvvvv",
-            "p": 600,
-            "d": 0,
-            "i": "https:\/\/i.ibb.co\/7th4TmBP\/product.webp",
-            "t": "احذية",
-            "a": 1
+            "pg": 1
         },
         {
             "id": "prod_7ad95b92-9c27-46d7-9753-181786ba33cc",
             "n": "تنتيتي",
-            "p": 500000,
-            "d": 0,
-            "i": "https:\/\/i.ibb.co\/Nnj8hRpG\/product.webp",
-            "t": "330001::ه",
-            "a": 1
+            "pg": 1
         },
         {
             "id": "prod_7d07d466-811e-4ff8-8941-ba42fcf085f5",
             "n": "ىظءءبؤنل",
-            "p": 6500,
-            "d": 10,
-            "i": "https:\/\/i.ibb.co\/FLZQvQ7V\/product.webp",
-            "t": "30001::تت",
-            "a": 1
+            "pg": 1
         },
         {
             "id": "prod_f2f8e05a-14b8-46ef-ad18-9ab28af6eb97",
             "n": "بنبنءل",
-            "p": 60000,
-            "d": 0,
-            "i": "https:\/\/i.ibb.co\/gFfyBnBv\/product.webp",
-            "t": "باقات",
-            "a": 1
+            "pg": 1
         }
     ]
 }
