@@ -1,6 +1,22 @@
 {
-    "_version": 1783894931545,
+    "_version": 1784071255120,
     "page": 1,
     "total_pages": 1,
-    "data": []
+    "data": {
+        "prod_c11ccd7f-a925-4ba3-bbd7-127d88a77329": {
+            "id": "prod_c11ccd7f-a925-4ba3-bbd7-127d88a77329",
+            "name": "دوكا ما",
+            "mainDescription": "ووو",
+            "price": 600,
+            "discount": 0,
+            "image": "https:\/\/i.ibb.co\/pBGPn7Qh\/product.webp",
+            "type": "نن",
+            "category_id": 420001,
+            "options": [],
+            "features": [],
+            "quantity": 9999,
+            "quantity_type": "unlimited",
+            "is_available": 1
+        }
+    }
 }
