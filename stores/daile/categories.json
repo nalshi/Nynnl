@@ -1,8 +1,61 @@
 {
-    "_version": 1783543370676,
+    "_version": 1784215980583,
     "data": [
-        "سماعة طبية",
-        "اسكسورات اجهزة كهربائية",
-        "ميزااتات"
+        {
+            "id": 330001,
+            "name": "اسكسورات اجهزة كهربائية",
+            "parent_id": 0,
+            "products": [],
+            "children": []
+        },
+        {
+            "id": 330002,
+            "name": "اسكسورات اجهزة كهربائية",
+            "parent_id": 0,
+            "products": [],
+            "children": []
+        },
+        {
+            "id": 330003,
+            "name": "اسكسورات اجهزة كهربائية",
+            "parent_id": 0,
+            "products": [],
+            "children": []
+        },
+        {
+            "id": 330006,
+            "name": "اسكسورات اجهزة كهربائية",
+            "parent_id": 0,
+            "products": [],
+            "children": []
+        },
+        {
+            "id": 330007,
+            "name": "اسكسورات اجهزة كهربائية",
+            "parent_id": 0,
+            "products": [],
+            "children": []
+        },
+        {
+            "id": 330008,
+            "name": "اسكسورات اجهزة كهربائية",
+            "parent_id": 0,
+            "products": [],
+            "children": []
+        },
+        {
+            "id": 330004,
+            "name": "سماعة طبية",
+            "parent_id": 0,
+            "products": [],
+            "children": []
+        },
+        {
+            "id": 330005,
+            "name": "ميزااتات",
+            "parent_id": 0,
+            "products": [],
+            "children": []
+        }
     ]
 }
