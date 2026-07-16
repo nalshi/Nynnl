@@ -3,184 +3,5763 @@
     "p1": {
       "id": "p1",
       "merchant_id": 1,
-      "name": "موبايل سامسونج جالاكسي A55",
-      "description": "موبايل بمواصفات قوية وكاميرا احترافية",
-      "mainDescription": "موبايل سامسونج جالاكسي A55 بشاشة 6.6 إنش، ذاكرة 128 جيجا، كاميرا ثلاثية بدقة 50 ميجابكسل، وبطارية تدوم طويلاً مع دعم الشحن السريع.",
-      "price": 45000,
-      "cost_price": 38000,
-      "discount": 10,
-      "image": "https://picsum.photos/seed/p1/600/600",
-      "type": "موبايلات",
-      "options": [
-        { "name": "أسود - 128 جيجا", "custom_price": 45000, "image": "" },
-        { "name": "أزرق - 256 جيجا", "custom_price": 52000, "image": "" }
-      ],
-      "features": ["شاشة 6.6 إنش", "ذاكرة 128GB", "كاميرا 50MP"],
-      "quantity": 15,
-      "quantity_type": "tracked",
-      "is_available": 1,
-      "currency": "YER",
-      "category_id": 2,
-      "department": "إلكترونيات",
-      "keywords": "موبايل سامسونج جالاكسي هاتف"
-    },
-    "p2": {
-      "id": "p2",
-      "merchant_id": 1,
-      "name": "آيفون 13 مستعمل بحالة ممتازة",
-      "description": "آيفون 13 بطارية 90%",
-      "mainDescription": "آيفون 13 نظيف جداً، ذاكرة 128 جيجا، بطارية بحالة 90%، مع جميع الملحقات الأصلية.",
-      "price": 95000,
-      "cost_price": 80000,
-      "discount": 0,
-      "image": "https://picsum.photos/seed/p2/600/600",
-      "type": "موبايلات",
-      "options": [],
-      "features": ["ذاكرة 128GB", "بطارية 90%"],
-      "quantity": 3,
-      "quantity_type": "tracked",
-      "is_available": 1,
-      "currency": "YER",
-      "category_id": 2,
-      "department": "إلكترونيات",
-      "keywords": "آيفون ابل هاتف مستعمل"
-    },
-    "p3": {
-      "id": "p3",
-      "merchant_id": 1,
       "name": "سماعة بلوتوث JBL",
-      "description": "سماعة لاسلكية بجودة صوت عالية",
-      "mainDescription": "سماعة بلوتوث JBL مقاومة للماء، عمر بطارية يصل إلى 12 ساعة، صوت قوي ووضوح عالي.",
-      "price": 8500,
-      "cost_price": 6000,
-      "discount": 15,
-      "image": "https://picsum.photos/seed/p3/600/600",
+      "description": "سماعة بلوتوث JBL بجودة عالية وسعر مناسب",
+      "mainDescription": "سماعة بلوتوث JBL من فئة سماعات، مقاومة للماء، بلوتوث 5.0، بطارية طويلة العمر. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 10900,
+      "cost_price": 7600,
+      "discount": 0,
+      "image": "https://picsum.photos/seed/p1/600/600",
       "type": "سماعات",
       "options": [
-        { "name": "أسود", "custom_price": 8500, "image": "" },
-        { "name": "أحمر", "custom_price": 8500, "image": "" },
-        { "name": "أبيض", "custom_price": 8900, "image": "" }
+        {
+          "name": "فضي",
+          "custom_price": 10700,
+          "image": ""
+        },
+        {
+          "name": "أخضر",
+          "custom_price": 10800,
+          "image": ""
+        },
+        {
+          "name": "أحمر",
+          "custom_price": 11200,
+          "image": ""
+        }
       ],
-      "features": ["مقاومة للماء", "بلوتوث 5.0", "بطارية 12 ساعة"],
-      "quantity": 40,
+      "features": [
+        "مقاومة للماء",
+        "بلوتوث 5.0",
+        "بطارية طويلة العمر"
+      ],
+      "quantity": 10,
       "quantity_type": "tracked",
       "is_available": 1,
       "currency": "YER",
       "category_id": 3,
       "department": "إلكترونيات",
-      "keywords": "سماعة بلوتوث جي بي ال"
+      "keywords": "سماعة بلوتوث JBL سماعات إلكترونيات"
+    },
+    "p2": {
+      "id": "p2",
+      "merchant_id": 1,
+      "name": "لابتوب اسوس إصدار محدود",
+      "description": "لابتوب اسوس بجودة عالية وسعر مناسب",
+      "mainDescription": "لابتوب اسوس من فئة لابتوبات، شاشة عالية الدقة، معالج سريع. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 293900,
+      "cost_price": 218700,
+      "discount": 10,
+      "image": "https://picsum.photos/seed/p2/600/600",
+      "type": "لابتوبات",
+      "options": [],
+      "features": [
+        "شاشة عالية الدقة",
+        "معالج سريع"
+      ],
+      "quantity": 74,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 7,
+      "department": "إلكترونيات",
+      "keywords": "لابتوب اسوس لابتوبات إلكترونيات"
+    },
+    "p3": {
+      "id": "p3",
+      "merchant_id": 1,
+      "name": "ساعة ذكية",
+      "description": "ساعة ذكية بجودة عالية وسعر مناسب",
+      "mainDescription": "ساعة ذكية من فئة اكسسوارات إلكترونية، جودة عالية، متوافق مع أغلب الأجهزة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 1300,
+      "cost_price": 1000,
+      "discount": 0,
+      "image": "https://picsum.photos/seed/p3/600/600",
+      "type": "اكسسوارات إلكترونية",
+      "options": [
+        {
+          "name": "ذهبي",
+          "custom_price": 1100,
+          "image": ""
+        },
+        {
+          "name": "أسود",
+          "custom_price": 1400,
+          "image": ""
+        }
+      ],
+      "features": [
+        "جودة عالية",
+        "متوافق مع أغلب الأجهزة"
+      ],
+      "quantity": 80,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 8,
+      "department": "إلكترونيات",
+      "keywords": "ساعة ذكية اكسسوارات إلكترونية إلكترونيات"
     },
     "p4": {
       "id": "p4",
       "merchant_id": 1,
-      "name": "قميص رجالي قطن",
-      "description": "قميص كاجوال قطن 100%",
-      "mainDescription": "قميص رجالي مصنوع من القطن الطبيعي 100%، مريح ومناسب للاستخدام اليومي، متوفر بعدة مقاسات.",
-      "price": 3500,
-      "cost_price": 2200,
-      "discount": 0,
+      "name": "بنطلون قماش رجالي",
+      "description": "بنطلون قماش رجالي بجودة عالية وسعر مناسب",
+      "mainDescription": "بنطلون قماش رجالي من فئة ملابس رجالي، قطن 100%، خامة متينة، قصة عصرية. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 3600,
+      "cost_price": 2400,
+      "discount": 20,
       "image": "https://picsum.photos/seed/p4/600/600",
       "type": "ملابس رجالي",
       "options": [
-        { "name": "مقاس M", "custom_price": 3500, "image": "" },
-        { "name": "مقاس L", "custom_price": 3500, "image": "" },
-        { "name": "مقاس XL", "custom_price": 3700, "image": "" }
+        {
+          "name": "ذهبي - XXL",
+          "custom_price": 3800,
+          "image": ""
+        },
+        {
+          "name": "أبيض - S",
+          "custom_price": 4100,
+          "image": ""
+        }
       ],
-      "features": ["قطن 100%", "قصة كاجوال"],
+      "features": [
+        "قطن 100%",
+        "خامة متينة",
+        "قصة عصرية"
+      ],
+      "quantity": 26,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 4,
+      "department": "ملابس",
+      "keywords": "بنطلون قماش رجالي ملابس رجالي ملابس"
+    },
+    "p5": {
+      "id": "p5",
+      "merchant_id": 1,
+      "name": "بلوزة حريمي",
+      "description": "بلوزة حريمي بجودة عالية وسعر مناسب",
+      "mainDescription": "بلوزة حريمي من فئة ملابس حريمي، متوفر بألوان متعددة، تصميم عصري، خامة خفيفة وأنيقة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 18200,
+      "cost_price": 12500,
+      "discount": 5,
+      "image": "https://picsum.photos/seed/p5/600/600",
+      "type": "ملابس حريمي",
+      "options": [],
+      "features": [
+        "متوفر بألوان متعددة",
+        "تصميم عصري",
+        "خامة خفيفة وأنيقة"
+      ],
+      "quantity": 71,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 5,
+      "department": "ملابس",
+      "keywords": "بلوزة حريمي ملابس حريمي ملابس"
+    },
+    "p6": {
+      "id": "p6",
+      "merchant_id": 1,
+      "name": "فستان بناتي نسخة برو",
+      "description": "فستان بناتي بجودة عالية وسعر مناسب",
+      "mainDescription": "فستان بناتي من فئة ملابس أطفال، ألوان زاهية، قماش ناعم على البشرة، مقاسات متعددة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 2200,
+      "cost_price": 1600,
+      "discount": 20,
+      "image": "https://picsum.photos/seed/p6/600/600",
+      "type": "ملابس أطفال",
+      "options": [
+        {
+          "name": "أزرق - S",
+          "custom_price": 2400,
+          "image": ""
+        },
+        {
+          "name": "فضي - XL",
+          "custom_price": 2100,
+          "image": ""
+        },
+        {
+          "name": "أزرق - L",
+          "custom_price": 2500,
+          "image": ""
+        }
+      ],
+      "features": [
+        "ألوان زاهية",
+        "قماش ناعم على البشرة",
+        "مقاسات متعددة"
+      ],
+      "quantity": 17,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 9,
+      "department": "ملابس",
+      "keywords": "فستان بناتي ملابس أطفال ملابس"
+    },
+    "p7": {
+      "id": "p7",
+      "merchant_id": 1,
+      "name": "طقم أواني مطبخ 10 قطع",
+      "description": "طقم أواني مطبخ 10 قطع بجودة عالية وسعر مناسب",
+      "mainDescription": "طقم أواني مطبخ 10 قطع من فئة أدوات مطبخ، ستانلس ستيل عالي الجودة، سهل التنظيف. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 24500,
+      "cost_price": 16900,
+      "discount": 25,
+      "image": "https://picsum.photos/seed/p7/600/600",
+      "type": "أدوات مطبخ",
+      "options": [],
+      "features": [
+        "ستانلس ستيل عالي الجودة",
+        "سهل التنظيف"
+      ],
+      "quantity": 50,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 6,
+      "department": "منزل ومطبخ",
+      "keywords": "طقم أواني مطبخ 10 قطع أدوات مطبخ منزل ومطبخ"
+    },
+    "p8": {
+      "id": "p8",
+      "merchant_id": 1,
+      "name": "طاولة طعام خشبية بحالة ممتازة",
+      "description": "طاولة طعام خشبية بجودة عالية وسعر مناسب",
+      "mainDescription": "طاولة طعام خشبية من فئة أثاث منزلي، خامة متينة، تصميم عصري، سهل التركيب. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 148100,
+      "cost_price": 100700,
+      "discount": 8,
+      "image": "https://picsum.photos/seed/p8/600/600",
+      "type": "أثاث منزلي",
+      "options": [],
+      "features": [
+        "خامة متينة",
+        "تصميم عصري",
+        "سهل التركيب"
+      ],
+      "quantity": 30,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 10,
+      "department": "منزل ومطبخ",
+      "keywords": "طاولة طعام خشبية أثاث منزلي منزل ومطبخ"
+    },
+    "p9": {
+      "id": "p9",
+      "merchant_id": 1,
+      "name": "واقي شمس",
+      "description": "واقي شمس بجودة عالية وسعر مناسب",
+      "mainDescription": "واقي شمس من فئة العناية بالبشرة، مناسب لجميع أنواع البشرة، نتائج ملحوظة، خالي من الكحول. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 4500,
+      "cost_price": 3100,
+      "discount": 20,
+      "image": "https://picsum.photos/seed/p9/600/600",
+      "type": "العناية بالبشرة",
+      "options": [],
+      "features": [
+        "مناسب لجميع أنواع البشرة",
+        "نتائج ملحوظة",
+        "خالي من الكحول"
+      ],
+      "quantity": 75,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 11,
+      "department": "مستلزمات جمال",
+      "keywords": "واقي شمس العناية بالبشرة مستلزمات جمال"
+    },
+    "p10": {
+      "id": "p10",
+      "merchant_id": 1,
+      "name": "شامبو للشعر الجاف موديل جديد",
+      "description": "شامبو للشعر الجاف بجودة عالية وسعر مناسب",
+      "mainDescription": "شامبو للشعر الجاف من فئة العناية بالشعر، يمنح لمعان طبيعي، يغذي فروة الرأس، مناسب للاستخدام اليومي. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 14800,
+      "cost_price": 11300,
+      "discount": 0,
+      "image": "https://picsum.photos/seed/p10/600/600",
+      "type": "العناية بالشعر",
+      "options": [],
+      "features": [
+        "يمنح لمعان طبيعي",
+        "يغذي فروة الرأس",
+        "مناسب للاستخدام اليومي"
+      ],
+      "quantity": 22,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 12,
+      "department": "مستلزمات جمال",
+      "keywords": "شامبو للشعر الجاف العناية بالشعر مستلزمات جمال"
+    },
+    "p11": {
+      "id": "p11",
+      "merchant_id": 1,
+      "name": "جهاز مشي كهربائي",
+      "description": "جهاز مشي كهربائي بجودة عالية وسعر مناسب",
+      "mainDescription": "جهاز مشي كهربائي من فئة أدوات رياضية، تصميم مريح، خامة متينة وقوية. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 5400,
+      "cost_price": 4200,
+      "discount": 8,
+      "image": "https://picsum.photos/seed/p11/600/600",
+      "type": "أدوات رياضية",
+      "options": [],
+      "features": [
+        "تصميم مريح",
+        "خامة متينة وقوية"
+      ],
+      "quantity": 62,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 13,
+      "department": "رياضة ولياقة",
+      "keywords": "جهاز مشي كهربائي أدوات رياضية رياضة ولياقة"
+    },
+    "p12": {
+      "id": "p12",
+      "merchant_id": 1,
+      "name": "موبايل شاومي ريدمي",
+      "description": "موبايل شاومي ريدمي بجودة عالية وسعر مناسب",
+      "mainDescription": "موبايل شاومي ريدمي من فئة موبايلات، ذاكرة كبيرة، شاشة عالية الدقة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 49500,
+      "cost_price": 33500,
+      "discount": 25,
+      "image": "https://picsum.photos/seed/p12/600/600",
+      "type": "موبايلات",
+      "options": [
+        {
+          "name": "أخضر - 512 جيجا",
+          "custom_price": 50300,
+          "image": ""
+        },
+        {
+          "name": "أحمر - 64 جيجا",
+          "custom_price": 56700,
+          "image": ""
+        }
+      ],
+      "features": [
+        "ذاكرة كبيرة",
+        "شاشة عالية الدقة"
+      ],
+      "quantity": 47,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 2,
+      "department": "إلكترونيات",
+      "keywords": "موبايل شاومي ريدمي موبايلات إلكترونيات"
+    },
+    "p13": {
+      "id": "p13",
+      "merchant_id": 1,
+      "name": "سماعة استوديو للألعاب",
+      "description": "سماعة استوديو للألعاب بجودة عالية وسعر مناسب",
+      "mainDescription": "سماعة استوديو للألعاب من فئة سماعات، صوت نقي وواضح، بطارية طويلة العمر، بلوتوث 5.0. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 19600,
+      "cost_price": 12800,
+      "discount": 12,
+      "image": "https://picsum.photos/seed/p13/600/600",
+      "type": "سماعات",
+      "options": [],
+      "features": [
+        "صوت نقي وواضح",
+        "بطارية طويلة العمر",
+        "بلوتوث 5.0"
+      ],
+      "quantity": 70,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 3,
+      "department": "إلكترونيات",
+      "keywords": "سماعة استوديو للألعاب سماعات إلكترونيات"
+    },
+    "p14": {
+      "id": "p14",
+      "merchant_id": 1,
+      "name": "لابتوب اتش بي بافيليون نسخة برو",
+      "description": "لابتوب اتش بي بافيليون بجودة عالية وسعر مناسب",
+      "mainDescription": "لابتوب اتش بي بافيليون من فئة لابتوبات، معالج سريع، شاشة عالية الدقة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 232900,
+      "cost_price": 175100,
+      "discount": 10,
+      "image": "https://picsum.photos/seed/p14/600/600",
+      "type": "لابتوبات",
+      "options": [],
+      "features": [
+        "معالج سريع",
+        "شاشة عالية الدقة"
+      ],
+      "quantity": 7,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 7,
+      "department": "إلكترونيات",
+      "keywords": "لابتوب اتش بي بافيليون لابتوبات إلكترونيات"
+    },
+    "p15": {
+      "id": "p15",
+      "merchant_id": 1,
+      "name": "حافظة موبايل",
+      "description": "حافظة موبايل بجودة عالية وسعر مناسب",
+      "mainDescription": "حافظة موبايل من فئة اكسسوارات إلكترونية، جودة عالية، متوافق مع أغلب الأجهزة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 7900,
+      "cost_price": 5900,
+      "discount": 15,
+      "image": "https://picsum.photos/seed/p15/600/600",
+      "type": "اكسسوارات إلكترونية",
+      "options": [
+        {
+          "name": "ذهبي",
+          "custom_price": 7700,
+          "image": ""
+        },
+        {
+          "name": "أسود",
+          "custom_price": 8100,
+          "image": ""
+        }
+      ],
+      "features": [
+        "جودة عالية",
+        "متوافق مع أغلب الأجهزة"
+      ],
+      "quantity": 33,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 8,
+      "department": "إلكترونيات",
+      "keywords": "حافظة موبايل اكسسوارات إلكترونية إلكترونيات"
+    },
+    "p16": {
+      "id": "p16",
+      "merchant_id": 1,
+      "name": "هودي رجالي",
+      "description": "هودي رجالي بجودة عالية وسعر مناسب",
+      "mainDescription": "هودي رجالي من فئة ملابس رجالي، قصة عصرية، قطن 100%. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 15400,
+      "cost_price": 10100,
+      "discount": 20,
+      "image": "https://picsum.photos/seed/p16/600/600",
+      "type": "ملابس رجالي",
+      "options": [
+        {
+          "name": "رمادي - S",
+          "custom_price": 15400,
+          "image": ""
+        },
+        {
+          "name": "أبيض - M",
+          "custom_price": 15900,
+          "image": ""
+        }
+      ],
+      "features": [
+        "قصة عصرية",
+        "قطن 100%"
+      ],
+      "quantity": 6,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 4,
+      "department": "ملابس",
+      "keywords": "هودي رجالي ملابس رجالي ملابس"
+    },
+    "p17": {
+      "id": "p17",
+      "merchant_id": 1,
+      "name": "فستان صيفي حريمي",
+      "description": "فستان صيفي حريمي بجودة عالية وسعر مناسب",
+      "mainDescription": "فستان صيفي حريمي من فئة ملابس حريمي، متوفر بألوان متعددة، تصميم عصري. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 21500,
+      "cost_price": 16000,
+      "discount": 0,
+      "image": "https://picsum.photos/seed/p17/600/600",
+      "type": "ملابس حريمي",
+      "options": [],
+      "features": [
+        "متوفر بألوان متعددة",
+        "تصميم عصري"
+      ],
+      "quantity": 20,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 5,
+      "department": "ملابس",
+      "keywords": "فستان صيفي حريمي ملابس حريمي ملابس"
+    },
+    "p18": {
+      "id": "p18",
+      "merchant_id": 1,
+      "name": "طقم أطفال قطن",
+      "description": "طقم أطفال قطن بجودة عالية وسعر مناسب",
+      "mainDescription": "طقم أطفال قطن من فئة ملابس أطفال، مقاسات متعددة، ألوان زاهية، قماش ناعم على البشرة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 8700,
+      "cost_price": 6400,
+      "discount": 10,
+      "image": "https://picsum.photos/seed/p18/600/600",
+      "type": "ملابس أطفال",
+      "options": [
+        {
+          "name": "فضي - XL",
+          "custom_price": 8800,
+          "image": ""
+        },
+        {
+          "name": "رمادي - XXL",
+          "custom_price": 9000,
+          "image": ""
+        },
+        {
+          "name": "أبيض - M",
+          "custom_price": 8800,
+          "image": ""
+        }
+      ],
+      "features": [
+        "مقاسات متعددة",
+        "ألوان زاهية",
+        "قماش ناعم على البشرة"
+      ],
+      "quantity": 25,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 9,
+      "department": "ملابس",
+      "keywords": "طقم أطفال قطن ملابس أطفال ملابس"
+    },
+    "p19": {
+      "id": "p19",
+      "merchant_id": 1,
+      "name": "طقم تخزين بلاستيك",
+      "description": "طقم تخزين بلاستيك بجودة عالية وسعر مناسب",
+      "mainDescription": "طقم تخزين بلاستيك من فئة أدوات مطبخ، سهل التنظيف، ستانلس ستيل عالي الجودة، موزع حرارة متساوٍ. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 28700,
+      "cost_price": 21500,
+      "discount": 15,
+      "image": "https://picsum.photos/seed/p19/600/600",
+      "type": "أدوات مطبخ",
+      "options": [],
+      "features": [
+        "سهل التنظيف",
+        "ستانلس ستيل عالي الجودة",
+        "موزع حرارة متساوٍ"
+      ],
+      "quantity": 70,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 6,
+      "department": "منزل ومطبخ",
+      "keywords": "طقم تخزين بلاستيك أدوات مطبخ منزل ومطبخ"
+    },
+    "p20": {
+      "id": "p20",
+      "merchant_id": 1,
+      "name": "كرسي مكتب",
+      "description": "كرسي مكتب بجودة عالية وسعر مناسب",
+      "mainDescription": "كرسي مكتب من فئة أثاث منزلي، خامة متينة، تصميم عصري. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 132400,
+      "cost_price": 97300,
+      "discount": 0,
+      "image": "https://picsum.photos/seed/p20/600/600",
+      "type": "أثاث منزلي",
+      "options": [],
+      "features": [
+        "خامة متينة",
+        "تصميم عصري"
+      ],
+      "quantity": 54,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 10,
+      "department": "منزل ومطبخ",
+      "keywords": "كرسي مكتب أثاث منزلي منزل ومطبخ"
+    },
+    "p21": {
+      "id": "p21",
+      "merchant_id": 1,
+      "name": "كريم مرطب للبشرة",
+      "description": "كريم مرطب للبشرة بجودة عالية وسعر مناسب",
+      "mainDescription": "كريم مرطب للبشرة من فئة العناية بالبشرة، مناسب لجميع أنواع البشرة، خالي من الكحول، نتائج ملحوظة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 7100,
+      "cost_price": 5400,
+      "discount": 0,
+      "image": "https://picsum.photos/seed/p21/600/600",
+      "type": "العناية بالبشرة",
+      "options": [],
+      "features": [
+        "مناسب لجميع أنواع البشرة",
+        "خالي من الكحول",
+        "نتائج ملحوظة"
+      ],
+      "quantity": 65,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 11,
+      "department": "مستلزمات جمال",
+      "keywords": "كريم مرطب للبشرة العناية بالبشرة مستلزمات جمال"
+    },
+    "p22": {
+      "id": "p22",
+      "merchant_id": 1,
+      "name": "بلسم مرطب",
+      "description": "بلسم مرطب بجودة عالية وسعر مناسب",
+      "mainDescription": "بلسم مرطب من فئة العناية بالشعر، مناسب للاستخدام اليومي، يمنح لمعان طبيعي. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 13300,
+      "cost_price": 9300,
+      "discount": 20,
+      "image": "https://picsum.photos/seed/p22/600/600",
+      "type": "العناية بالشعر",
+      "options": [],
+      "features": [
+        "مناسب للاستخدام اليومي",
+        "يمنح لمعان طبيعي"
+      ],
+      "quantity": 4,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 12,
+      "department": "مستلزمات جمال",
+      "keywords": "بلسم مرطب العناية بالشعر مستلزمات جمال"
+    },
+    "p23": {
+      "id": "p23",
+      "merchant_id": 1,
+      "name": "حبل قفز موديل جديد",
+      "description": "حبل قفز بجودة عالية وسعر مناسب",
+      "mainDescription": "حبل قفز من فئة أدوات رياضية، تصميم مريح، مناسب للاستخدام المنزلي. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 157600,
+      "cost_price": 124900,
+      "discount": 5,
+      "image": "https://picsum.photos/seed/p23/600/600",
+      "type": "أدوات رياضية",
+      "options": [],
+      "features": [
+        "تصميم مريح",
+        "مناسب للاستخدام المنزلي"
+      ],
+      "quantity": 72,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 13,
+      "department": "رياضة ولياقة",
+      "keywords": "حبل قفز أدوات رياضية رياضة ولياقة"
+    },
+    "p24": {
+      "id": "p24",
+      "merchant_id": 1,
+      "name": "موبايل شاومي ريدمي",
+      "description": "موبايل شاومي ريدمي بجودة عالية وسعر مناسب",
+      "mainDescription": "موبايل شاومي ريدمي من فئة موبايلات، بطارية تدوم طويلاً، كاميرا احترافية. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 49200,
+      "cost_price": 38600,
+      "discount": 15,
+      "image": "https://picsum.photos/seed/p24/600/600",
+      "type": "موبايلات",
+      "options": [
+        {
+          "name": "رمادي - 64 جيجا",
+          "custom_price": 55000,
+          "image": ""
+        },
+        {
+          "name": "فضي - 256 جيجا",
+          "custom_price": 49900,
+          "image": ""
+        }
+      ],
+      "features": [
+        "بطارية تدوم طويلاً",
+        "كاميرا احترافية"
+      ],
+      "quantity": 31,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 2,
+      "department": "إلكترونيات",
+      "keywords": "موبايل شاومي ريدمي موبايلات إلكترونيات"
+    },
+    "p25": {
+      "id": "p25",
+      "merchant_id": 1,
+      "name": "سماعة شاومي",
+      "description": "سماعة شاومي بجودة عالية وسعر مناسب",
+      "mainDescription": "سماعة شاومي من فئة سماعات، بطارية طويلة العمر، مقاومة للماء. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 3700,
+      "cost_price": 2600,
+      "discount": 0,
+      "image": "https://picsum.photos/seed/p25/600/600",
+      "type": "سماعات",
+      "options": [],
+      "features": [
+        "بطارية طويلة العمر",
+        "مقاومة للماء"
+      ],
+      "quantity": 72,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 3,
+      "department": "إلكترونيات",
+      "keywords": "سماعة شاومي سماعات إلكترونيات"
+    },
+    "p26": {
+      "id": "p26",
+      "merchant_id": 1,
+      "name": "لابتوب لينوفو ثينك باد",
+      "description": "لابتوب لينوفو ثينك باد بجودة عالية وسعر مناسب",
+      "mainDescription": "لابتوب لينوفو ثينك باد من فئة لابتوبات، شاشة عالية الدقة، قرص SSD، ذاكرة RAM كبيرة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 395800,
+      "cost_price": 265100,
+      "discount": 25,
+      "image": "https://picsum.photos/seed/p26/600/600",
+      "type": "لابتوبات",
+      "options": [],
+      "features": [
+        "شاشة عالية الدقة",
+        "قرص SSD",
+        "ذاكرة RAM كبيرة"
+      ],
+      "quantity": 19,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 7,
+      "department": "إلكترونيات",
+      "keywords": "لابتوب لينوفو ثينك باد لابتوبات إلكترونيات"
+    },
+    "p27": {
+      "id": "p27",
+      "merchant_id": 1,
+      "name": "حافظة موبايل",
+      "description": "حافظة موبايل بجودة عالية وسعر مناسب",
+      "mainDescription": "حافظة موبايل من فئة اكسسوارات إلكترونية، تصميم متين، متوافق مع أغلب الأجهزة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 6700,
+      "cost_price": 5300,
+      "discount": 0,
+      "image": "https://picsum.photos/seed/p27/600/600",
+      "type": "اكسسوارات إلكترونية",
+      "options": [
+        {
+          "name": "فضي",
+          "custom_price": 6800,
+          "image": ""
+        },
+        {
+          "name": "أحمر",
+          "custom_price": 6900,
+          "image": ""
+        },
+        {
+          "name": "ذهبي",
+          "custom_price": 7000,
+          "image": ""
+        }
+      ],
+      "features": [
+        "تصميم متين",
+        "متوافق مع أغلب الأجهزة"
+      ],
+      "quantity": 6,
+      "quantity_type": "tracked",
+      "is_available": 0,
+      "currency": "YER",
+      "category_id": 8,
+      "department": "إلكترونيات",
+      "keywords": "حافظة موبايل اكسسوارات إلكترونية إلكترونيات"
+    },
+    "p28": {
+      "id": "p28",
+      "merchant_id": 1,
+      "name": "بنطلون قماش رجالي",
+      "description": "بنطلون قماش رجالي بجودة عالية وسعر مناسب",
+      "mainDescription": "بنطلون قماش رجالي من فئة ملابس رجالي، خامة متينة، قصة عصرية، قطن 100%. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 10800,
+      "cost_price": 7400,
+      "discount": 0,
+      "image": "https://picsum.photos/seed/p28/600/600",
+      "type": "ملابس رجالي",
+      "options": [
+        {
+          "name": "أحمر - S",
+          "custom_price": 11000,
+          "image": ""
+        },
+        {
+          "name": "فضي - XL",
+          "custom_price": 11000,
+          "image": ""
+        },
+        {
+          "name": "بني - L",
+          "custom_price": 10700,
+          "image": ""
+        }
+      ],
+      "features": [
+        "خامة متينة",
+        "قصة عصرية",
+        "قطن 100%"
+      ],
+      "quantity": 47,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 4,
+      "department": "ملابس",
+      "keywords": "بنطلون قماش رجالي ملابس رجالي ملابس"
+    },
+    "p29": {
+      "id": "p29",
+      "merchant_id": 1,
+      "name": "عباية نسائية",
+      "description": "عباية نسائية بجودة عالية وسعر مناسب",
+      "mainDescription": "عباية نسائية من فئة ملابس حريمي، خامة خفيفة وأنيقة، تصميم عصري. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 11600,
+      "cost_price": 8400,
+      "discount": 12,
+      "image": "https://picsum.photos/seed/p29/600/600",
+      "type": "ملابس حريمي",
+      "options": [
+        {
+          "name": "رمادي - S",
+          "custom_price": 11500,
+          "image": ""
+        },
+        {
+          "name": "فضي - M",
+          "custom_price": 11800,
+          "image": ""
+        },
+        {
+          "name": "رمادي - L",
+          "custom_price": 12000,
+          "image": ""
+        }
+      ],
+      "features": [
+        "خامة خفيفة وأنيقة",
+        "تصميم عصري"
+      ],
+      "quantity": 63,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 5,
+      "department": "ملابس",
+      "keywords": "عباية نسائية ملابس حريمي ملابس"
+    },
+    "p30": {
+      "id": "p30",
+      "merchant_id": 1,
+      "name": "طقم أطفال قطن موديل جديد",
+      "description": "طقم أطفال قطن بجودة عالية وسعر مناسب",
+      "mainDescription": "طقم أطفال قطن من فئة ملابس أطفال، قماش ناعم على البشرة، ألوان زاهية. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 3700,
+      "cost_price": 2900,
+      "discount": 0,
+      "image": "https://picsum.photos/seed/p30/600/600",
+      "type": "ملابس أطفال",
+      "options": [
+        {
+          "name": "بني - M",
+          "custom_price": 3900,
+          "image": ""
+        },
+        {
+          "name": "أزرق - S",
+          "custom_price": 3800,
+          "image": ""
+        },
+        {
+          "name": "فضي - XXL",
+          "custom_price": 3600,
+          "image": ""
+        }
+      ],
+      "features": [
+        "قماش ناعم على البشرة",
+        "ألوان زاهية"
+      ],
+      "quantity": 51,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 9,
+      "department": "ملابس",
+      "keywords": "طقم أطفال قطن ملابس أطفال ملابس"
+    },
+    "p31": {
+      "id": "p31",
+      "merchant_id": 1,
+      "name": "مقلاة تيفال",
+      "description": "مقلاة تيفال بجودة عالية وسعر مناسب",
+      "mainDescription": "مقلاة تيفال من فئة أدوات مطبخ، ستانلس ستيل عالي الجودة، سهل التنظيف. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 15300,
+      "cost_price": 10100,
+      "discount": 20,
+      "image": "https://picsum.photos/seed/p31/600/600",
+      "type": "أدوات مطبخ",
+      "options": [],
+      "features": [
+        "ستانلس ستيل عالي الجودة",
+        "سهل التنظيف"
+      ],
+      "quantity": 39,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 6,
+      "department": "منزل ومطبخ",
+      "keywords": "مقلاة تيفال أدوات مطبخ منزل ومطبخ"
+    },
+    "p32": {
+      "id": "p32",
+      "merchant_id": 1,
+      "name": "كرسي مكتب",
+      "description": "كرسي مكتب بجودة عالية وسعر مناسب",
+      "mainDescription": "كرسي مكتب من فئة أثاث منزلي، خامة متينة، تصميم عصري، سهل التركيب. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 124900,
+      "cost_price": 93000,
+      "discount": 10,
+      "image": "https://picsum.photos/seed/p32/600/600",
+      "type": "أثاث منزلي",
+      "options": [],
+      "features": [
+        "خامة متينة",
+        "تصميم عصري",
+        "سهل التركيب"
+      ],
+      "quantity": 32,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 10,
+      "department": "منزل ومطبخ",
+      "keywords": "كرسي مكتب أثاث منزلي منزل ومطبخ"
+    },
+    "p33": {
+      "id": "p33",
+      "merchant_id": 1,
+      "name": "سيروم فيتامين سي",
+      "description": "سيروم فيتامين سي بجودة عالية وسعر مناسب",
+      "mainDescription": "سيروم فيتامين سي من فئة العناية بالبشرة، نتائج ملحوظة، خالي من الكحول. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 10000,
+      "cost_price": 7900,
+      "discount": 20,
+      "image": "https://picsum.photos/seed/p33/600/600",
+      "type": "العناية بالبشرة",
+      "options": [],
+      "features": [
+        "نتائج ملحوظة",
+        "خالي من الكحول"
+      ],
+      "quantity": 3,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 11,
+      "department": "مستلزمات جمال",
+      "keywords": "سيروم فيتامين سي العناية بالبشرة مستلزمات جمال"
+    },
+    "p34": {
+      "id": "p34",
+      "merchant_id": 1,
+      "name": "سيشوار كهربائي موديل جديد",
+      "description": "سيشوار كهربائي بجودة عالية وسعر مناسب",
+      "mainDescription": "سيشوار كهربائي من فئة العناية بالشعر، يمنح لمعان طبيعي، مناسب للاستخدام اليومي. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 4900,
+      "cost_price": 3900,
+      "discount": 20,
+      "image": "https://picsum.photos/seed/p34/600/600",
+      "type": "العناية بالشعر",
+      "options": [],
+      "features": [
+        "يمنح لمعان طبيعي",
+        "مناسب للاستخدام اليومي"
+      ],
+      "quantity": 4,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 12,
+      "department": "مستلزمات جمال",
+      "keywords": "سيشوار كهربائي العناية بالشعر مستلزمات جمال"
+    },
+    "p35": {
+      "id": "p35",
+      "merchant_id": 1,
+      "name": "مضرب تنس",
+      "description": "مضرب تنس بجودة عالية وسعر مناسب",
+      "mainDescription": "مضرب تنس من فئة أدوات رياضية، خامة متينة وقوية، مناسب للاستخدام المنزلي، تصميم مريح. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 18800,
+      "cost_price": 12700,
+      "discount": 5,
+      "image": "https://picsum.photos/seed/p35/600/600",
+      "type": "أدوات رياضية",
+      "options": [],
+      "features": [
+        "خامة متينة وقوية",
+        "مناسب للاستخدام المنزلي",
+        "تصميم مريح"
+      ],
+      "quantity": 52,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 13,
+      "department": "رياضة ولياقة",
+      "keywords": "مضرب تنس أدوات رياضية رياضة ولياقة"
+    },
+    "p36": {
+      "id": "p36",
+      "merchant_id": 1,
+      "name": "موبايل انفينكس",
+      "description": "موبايل انفينكس بجودة عالية وسعر مناسب",
+      "mainDescription": "موبايل انفينكس من فئة موبايلات، بطارية تدوم طويلاً، كاميرا احترافية. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 52100,
+      "cost_price": 34100,
+      "discount": 5,
+      "image": "https://picsum.photos/seed/p36/600/600",
+      "type": "موبايلات",
+      "options": [],
+      "features": [
+        "بطارية تدوم طويلاً",
+        "كاميرا احترافية"
+      ],
+      "quantity": 78,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 2,
+      "department": "إلكترونيات",
+      "keywords": "موبايل انفينكس موبايلات إلكترونيات"
+    },
+    "p37": {
+      "id": "p37",
+      "merchant_id": 1,
+      "name": "سماعة رياضية بلوتوث",
+      "description": "سماعة رياضية بلوتوث بجودة عالية وسعر مناسب",
+      "mainDescription": "سماعة رياضية بلوتوث من فئة سماعات، بطارية طويلة العمر، مقاومة للماء. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 18000,
+      "cost_price": 13100,
+      "discount": 8,
+      "image": "https://picsum.photos/seed/p37/600/600",
+      "type": "سماعات",
+      "options": [
+        {
+          "name": "أحمر",
+          "custom_price": 18000,
+          "image": ""
+        },
+        {
+          "name": "فضي",
+          "custom_price": 18400,
+          "image": ""
+        }
+      ],
+      "features": [
+        "بطارية طويلة العمر",
+        "مقاومة للماء"
+      ],
+      "quantity": 4,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 3,
+      "department": "إلكترونيات",
+      "keywords": "سماعة رياضية بلوتوث سماعات إلكترونيات"
+    },
+    "p38": {
+      "id": "p38",
+      "merchant_id": 1,
+      "name": "لابتوب لينوفو ثينك باد",
+      "description": "لابتوب لينوفو ثينك باد بجودة عالية وسعر مناسب",
+      "mainDescription": "لابتوب لينوفو ثينك باد من فئة لابتوبات، شاشة عالية الدقة، قرص SSD، ذاكرة RAM كبيرة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 338200,
+      "cost_price": 245900,
+      "discount": 10,
+      "image": "https://picsum.photos/seed/p38/600/600",
+      "type": "لابتوبات",
+      "options": [],
+      "features": [
+        "شاشة عالية الدقة",
+        "قرص SSD",
+        "ذاكرة RAM كبيرة"
+      ],
+      "quantity": 6,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 7,
+      "department": "إلكترونيات",
+      "keywords": "لابتوب لينوفو ثينك باد لابتوبات إلكترونيات"
+    },
+    "p39": {
+      "id": "p39",
+      "merchant_id": 1,
+      "name": "حافظة موبايل",
+      "description": "حافظة موبايل بجودة عالية وسعر مناسب",
+      "mainDescription": "حافظة موبايل من فئة اكسسوارات إلكترونية، متوافق مع أغلب الأجهزة، جودة عالية، تصميم متين. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 1200,
+      "cost_price": 900,
+      "discount": 20,
+      "image": "https://picsum.photos/seed/p39/600/600",
+      "type": "اكسسوارات إلكترونية",
+      "options": [
+        {
+          "name": "أخضر",
+          "custom_price": 1500,
+          "image": ""
+        },
+        {
+          "name": "ذهبي",
+          "custom_price": 1500,
+          "image": ""
+        }
+      ],
+      "features": [
+        "متوافق مع أغلب الأجهزة",
+        "جودة عالية",
+        "تصميم متين"
+      ],
+      "quantity": 45,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 8,
+      "department": "إلكترونيات",
+      "keywords": "حافظة موبايل اكسسوارات إلكترونية إلكترونيات"
+    },
+    "p40": {
+      "id": "p40",
+      "merchant_id": 1,
+      "name": "تيشيرت رجالي إصدار محدود",
+      "description": "تيشيرت رجالي بجودة عالية وسعر مناسب",
+      "mainDescription": "تيشيرت رجالي من فئة ملابس رجالي، خامة متينة، قطن 100%، قصة عصرية. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 7900,
+      "cost_price": 6100,
+      "discount": 25,
+      "image": "https://picsum.photos/seed/p40/600/600",
+      "type": "ملابس رجالي",
+      "options": [],
+      "features": [
+        "خامة متينة",
+        "قطن 100%",
+        "قصة عصرية"
+      ],
       "quantity": 60,
       "quantity_type": "tracked",
       "is_available": 1,
       "currency": "YER",
       "category_id": 4,
       "department": "ملابس",
-      "keywords": "قميص رجالي كاجوال قطن"
+      "keywords": "تيشيرت رجالي ملابس رجالي ملابس"
     },
-    "p5": {
-      "id": "p5",
+    "p41": {
+      "id": "p41",
       "merchant_id": 1,
-      "name": "بنطلون جينز رجالي",
-      "description": "جينز عصري مقاس مريح",
-      "mainDescription": "بنطلون جينز رجالي بقصة عصرية مريحة، خامة متينة تدوم طويلاً، مناسب لكل المناسبات.",
-      "price": 6000,
-      "cost_price": 4200,
+      "name": "بلوزة حريمي",
+      "description": "بلوزة حريمي بجودة عالية وسعر مناسب",
+      "mainDescription": "بلوزة حريمي من فئة ملابس حريمي، متوفر بألوان متعددة، تصميم عصري، خامة خفيفة وأنيقة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 19100,
+      "cost_price": 12800,
+      "discount": 8,
+      "image": "https://picsum.photos/seed/p41/600/600",
+      "type": "ملابس حريمي",
+      "options": [
+        {
+          "name": "أحمر - M",
+          "custom_price": 19000,
+          "image": ""
+        },
+        {
+          "name": "أحمر - XXL",
+          "custom_price": 19400,
+          "image": ""
+        }
+      ],
+      "features": [
+        "متوفر بألوان متعددة",
+        "تصميم عصري",
+        "خامة خفيفة وأنيقة"
+      ],
+      "quantity": 34,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 5,
+      "department": "ملابس",
+      "keywords": "بلوزة حريمي ملابس حريمي ملابس"
+    },
+    "p42": {
+      "id": "p42",
+      "merchant_id": 1,
+      "name": "بنطلون أطفال",
+      "description": "بنطلون أطفال بجودة عالية وسعر مناسب",
+      "mainDescription": "بنطلون أطفال من فئة ملابس أطفال، مقاسات متعددة، ألوان زاهية. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 7600,
+      "cost_price": 6000,
+      "discount": 0,
+      "image": "https://picsum.photos/seed/p42/600/600",
+      "type": "ملابس أطفال",
+      "options": [
+        {
+          "name": "ذهبي - S",
+          "custom_price": 7900,
+          "image": ""
+        },
+        {
+          "name": "رمادي - XXL",
+          "custom_price": 7600,
+          "image": ""
+        }
+      ],
+      "features": [
+        "مقاسات متعددة",
+        "ألوان زاهية"
+      ],
+      "quantity": 68,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 9,
+      "department": "ملابس",
+      "keywords": "بنطلون أطفال ملابس أطفال ملابس"
+    },
+    "p43": {
+      "id": "p43",
+      "merchant_id": 1,
+      "name": "خلاط كهربائي إصدار محدود",
+      "description": "خلاط كهربائي بجودة عالية وسعر مناسب",
+      "mainDescription": "خلاط كهربائي من فئة أدوات مطبخ، سهل التنظيف، ستانلس ستيل عالي الجودة، موزع حرارة متساوٍ. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 26100,
+      "cost_price": 17500,
+      "discount": 0,
+      "image": "https://picsum.photos/seed/p43/600/600",
+      "type": "أدوات مطبخ",
+      "options": [],
+      "features": [
+        "سهل التنظيف",
+        "ستانلس ستيل عالي الجودة",
+        "موزع حرارة متساوٍ"
+      ],
+      "quantity": 54,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 6,
+      "department": "منزل ومطبخ",
+      "keywords": "خلاط كهربائي أدوات مطبخ منزل ومطبخ"
+    },
+    "p44": {
+      "id": "p44",
+      "merchant_id": 1,
+      "name": "أريكة صغيرة",
+      "description": "أريكة صغيرة بجودة عالية وسعر مناسب",
+      "mainDescription": "أريكة صغيرة من فئة أثاث منزلي، تصميم عصري، سهل التركيب. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 165600,
+      "cost_price": 117600,
+      "discount": 15,
+      "image": "https://picsum.photos/seed/p44/600/600",
+      "type": "أثاث منزلي",
+      "options": [],
+      "features": [
+        "تصميم عصري",
+        "سهل التركيب"
+      ],
+      "quantity": 50,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 10,
+      "department": "منزل ومطبخ",
+      "keywords": "أريكة صغيرة أثاث منزلي منزل ومطبخ"
+    },
+    "p45": {
+      "id": "p45",
+      "merchant_id": 1,
+      "name": "واقي شمس",
+      "description": "واقي شمس بجودة عالية وسعر مناسب",
+      "mainDescription": "واقي شمس من فئة العناية بالبشرة، مناسب لجميع أنواع البشرة، خالي من الكحول. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 11700,
+      "cost_price": 9300,
+      "discount": 15,
+      "image": "https://picsum.photos/seed/p45/600/600",
+      "type": "العناية بالبشرة",
+      "options": [],
+      "features": [
+        "مناسب لجميع أنواع البشرة",
+        "خالي من الكحول"
+      ],
+      "quantity": 75,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 11,
+      "department": "مستلزمات جمال",
+      "keywords": "واقي شمس العناية بالبشرة مستلزمات جمال"
+    },
+    "p46": {
+      "id": "p46",
+      "merchant_id": 1,
+      "name": "زيت الأرغان للشعر",
+      "description": "زيت الأرغان للشعر بجودة عالية وسعر مناسب",
+      "mainDescription": "زيت الأرغان للشعر من فئة العناية بالشعر، مناسب للاستخدام اليومي، يمنح لمعان طبيعي، يغذي فروة الرأس. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 3700,
+      "cost_price": 2600,
+      "discount": 12,
+      "image": "https://picsum.photos/seed/p46/600/600",
+      "type": "العناية بالشعر",
+      "options": [],
+      "features": [
+        "مناسب للاستخدام اليومي",
+        "يمنح لمعان طبيعي",
+        "يغذي فروة الرأس"
+      ],
+      "quantity": 10,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 12,
+      "department": "مستلزمات جمال",
+      "keywords": "زيت الأرغان للشعر العناية بالشعر مستلزمات جمال"
+    },
+    "p47": {
+      "id": "p47",
+      "merchant_id": 1,
+      "name": "حبل قفز",
+      "description": "حبل قفز بجودة عالية وسعر مناسب",
+      "mainDescription": "حبل قفز من فئة أدوات رياضية، تصميم مريح، مناسب للاستخدام المنزلي. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 68000,
+      "cost_price": 45400,
       "discount": 5,
-      "image": "https://picsum.photos/seed/p5/600/600",
+      "image": "https://picsum.photos/seed/p47/600/600",
+      "type": "أدوات رياضية",
+      "options": [],
+      "features": [
+        "تصميم مريح",
+        "مناسب للاستخدام المنزلي"
+      ],
+      "quantity": 26,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 13,
+      "department": "رياضة ولياقة",
+      "keywords": "حبل قفز أدوات رياضية رياضة ولياقة"
+    },
+    "p48": {
+      "id": "p48",
+      "merchant_id": 1,
+      "name": "موبايل انفينكس",
+      "description": "موبايل انفينكس بجودة عالية وسعر مناسب",
+      "mainDescription": "موبايل انفينكس من فئة موبايلات، دعم الشحن السريع، شاشة عالية الدقة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 68300,
+      "cost_price": 49900,
+      "discount": 8,
+      "image": "https://picsum.photos/seed/p48/600/600",
+      "type": "موبايلات",
+      "options": [
+        {
+          "name": "بني - 256 جيجا",
+          "custom_price": 72700,
+          "image": ""
+        },
+        {
+          "name": "أبيض - 128 جيجا",
+          "custom_price": 73600,
+          "image": ""
+        },
+        {
+          "name": "أسود - 256 جيجا",
+          "custom_price": 70500,
+          "image": ""
+        }
+      ],
+      "features": [
+        "دعم الشحن السريع",
+        "شاشة عالية الدقة"
+      ],
+      "quantity": 54,
+      "quantity_type": "tracked",
+      "is_available": 0,
+      "currency": "YER",
+      "category_id": 2,
+      "department": "إلكترونيات",
+      "keywords": "موبايل انفينكس موبايلات إلكترونيات"
+    },
+    "p49": {
+      "id": "p49",
+      "merchant_id": 1,
+      "name": "سماعة رياضية بلوتوث",
+      "description": "سماعة رياضية بلوتوث بجودة عالية وسعر مناسب",
+      "mainDescription": "سماعة رياضية بلوتوث من فئة سماعات، بطارية طويلة العمر، بلوتوث 5.0. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 23900,
+      "cost_price": 18600,
+      "discount": 8,
+      "image": "https://picsum.photos/seed/p49/600/600",
+      "type": "سماعات",
+      "options": [],
+      "features": [
+        "بطارية طويلة العمر",
+        "بلوتوث 5.0"
+      ],
+      "quantity": 18,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 3,
+      "department": "إلكترونيات",
+      "keywords": "سماعة رياضية بلوتوث سماعات إلكترونيات"
+    },
+    "p50": {
+      "id": "p50",
+      "merchant_id": 1,
+      "name": "لابتوب اتش بي بافيليون",
+      "description": "لابتوب اتش بي بافيليون بجودة عالية وسعر مناسب",
+      "mainDescription": "لابتوب اتش بي بافيليون من فئة لابتوبات، شاشة عالية الدقة، قرص SSD. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 277100,
+      "cost_price": 196900,
+      "discount": 15,
+      "image": "https://picsum.photos/seed/p50/600/600",
+      "type": "لابتوبات",
+      "options": [],
+      "features": [
+        "شاشة عالية الدقة",
+        "قرص SSD"
+      ],
+      "quantity": 30,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 7,
+      "department": "إلكترونيات",
+      "keywords": "لابتوب اتش بي بافيليون لابتوبات إلكترونيات"
+    },
+    "p51": {
+      "id": "p51",
+      "merchant_id": 1,
+      "name": "ساعة ذكية",
+      "description": "ساعة ذكية بجودة عالية وسعر مناسب",
+      "mainDescription": "ساعة ذكية من فئة اكسسوارات إلكترونية، تصميم متين، متوافق مع أغلب الأجهزة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 6300,
+      "cost_price": 4700,
+      "discount": 0,
+      "image": "https://picsum.photos/seed/p51/600/600",
+      "type": "اكسسوارات إلكترونية",
+      "options": [
+        {
+          "name": "فضي",
+          "custom_price": 6500,
+          "image": ""
+        },
+        {
+          "name": "أبيض",
+          "custom_price": 6100,
+          "image": ""
+        },
+        {
+          "name": "أخضر",
+          "custom_price": 6300,
+          "image": ""
+        }
+      ],
+      "features": [
+        "تصميم متين",
+        "متوافق مع أغلب الأجهزة"
+      ],
+      "quantity": 68,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 8,
+      "department": "إلكترونيات",
+      "keywords": "ساعة ذكية اكسسوارات إلكترونية إلكترونيات"
+    },
+    "p52": {
+      "id": "p52",
+      "merchant_id": 1,
+      "name": "تيشيرت رجالي",
+      "description": "تيشيرت رجالي بجودة عالية وسعر مناسب",
+      "mainDescription": "تيشيرت رجالي من فئة ملابس رجالي، قصة عصرية، قطن 100%. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 11400,
+      "cost_price": 8800,
+      "discount": 12,
+      "image": "https://picsum.photos/seed/p52/600/600",
       "type": "ملابس رجالي",
       "options": [],
-      "features": ["خامة متينة", "قصة عصرية"],
+      "features": [
+        "قصة عصرية",
+        "قطن 100%"
+      ],
       "quantity": 25,
       "quantity_type": "tracked",
       "is_available": 1,
       "currency": "YER",
       "category_id": 4,
       "department": "ملابس",
-      "keywords": "جينز بنطلون رجالي"
+      "keywords": "تيشيرت رجالي ملابس رجالي ملابس"
     },
-    "p6": {
-      "id": "p6",
+    "p53": {
+      "id": "p53",
       "merchant_id": 1,
-      "name": "فستان صيفي حريمي",
-      "description": "فستان خفيف مناسب للصيف",
-      "mainDescription": "فستان صيفي بتصميم أنيق وخامة خفيفة مناسبة للأجواء الحارة، متوفر بألوان متعددة.",
-      "price": 9500,
-      "cost_price": 6500,
-      "discount": 20,
-      "image": "https://picsum.photos/seed/p6/600/600",
+      "name": "طقم رياضي حريمي موديل جديد",
+      "description": "طقم رياضي حريمي بجودة عالية وسعر مناسب",
+      "mainDescription": "طقم رياضي حريمي من فئة ملابس حريمي، تصميم عصري، متوفر بألوان متعددة، خامة خفيفة وأنيقة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 10800,
+      "cost_price": 8300,
+      "discount": 0,
+      "image": "https://picsum.photos/seed/p53/600/600",
       "type": "ملابس حريمي",
       "options": [
-        { "name": "أحمر - S", "custom_price": 9500, "image": "" },
-        { "name": "أزرق - M", "custom_price": 9500, "image": "" }
+        {
+          "name": "أحمر - L",
+          "custom_price": 10900,
+          "image": ""
+        },
+        {
+          "name": "أخضر - XXL",
+          "custom_price": 11100,
+          "image": ""
+        },
+        {
+          "name": "أبيض - XL",
+          "custom_price": 10800,
+          "image": ""
+        }
       ],
-      "features": ["خامة خفيفة", "تصميم صيفي"],
-      "quantity": 18,
+      "features": [
+        "تصميم عصري",
+        "متوفر بألوان متعددة",
+        "خامة خفيفة وأنيقة"
+      ],
+      "quantity": 35,
       "quantity_type": "tracked",
       "is_available": 1,
       "currency": "YER",
       "category_id": 5,
       "department": "ملابس",
-      "keywords": "فستان صيفي حريمي"
+      "keywords": "طقم رياضي حريمي ملابس حريمي ملابس"
     },
-    "p7": {
-      "id": "p7",
+    "p54": {
+      "id": "p54",
       "merchant_id": 1,
-      "name": "حقيبة يد نسائية جلد",
-      "description": "حقيبة أنيقة للاستخدام اليومي",
-      "mainDescription": "حقيبة يد نسائية من جلد صناعي عالي الجودة، تصميم أنيق يناسب جميع الإطلالات مع مساحة داخلية واسعة.",
-      "price": 7200,
-      "cost_price": 5000,
+      "name": "فستان بناتي",
+      "description": "فستان بناتي بجودة عالية وسعر مناسب",
+      "mainDescription": "فستان بناتي من فئة ملابس أطفال، قماش ناعم على البشرة، ألوان زاهية، مقاسات متعددة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 5600,
+      "cost_price": 4300,
       "discount": 0,
-      "image": "https://picsum.photos/seed/p7/600/600",
+      "image": "https://picsum.photos/seed/p54/600/600",
+      "type": "ملابس أطفال",
+      "options": [],
+      "features": [
+        "قماش ناعم على البشرة",
+        "ألوان زاهية",
+        "مقاسات متعددة"
+      ],
+      "quantity": 40,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 9,
+      "department": "ملابس",
+      "keywords": "فستان بناتي ملابس أطفال ملابس"
+    },
+    "p55": {
+      "id": "p55",
+      "merchant_id": 1,
+      "name": "فرن كهربائي صغير موديل جديد",
+      "description": "فرن كهربائي صغير بجودة عالية وسعر مناسب",
+      "mainDescription": "فرن كهربائي صغير من فئة أدوات مطبخ، موزع حرارة متساوٍ، سهل التنظيف، ستانلس ستيل عالي الجودة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 31600,
+      "cost_price": 21800,
+      "discount": 0,
+      "image": "https://picsum.photos/seed/p55/600/600",
+      "type": "أدوات مطبخ",
+      "options": [],
+      "features": [
+        "موزع حرارة متساوٍ",
+        "سهل التنظيف",
+        "ستانلس ستيل عالي الجودة"
+      ],
+      "quantity": 70,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 6,
+      "department": "منزل ومطبخ",
+      "keywords": "فرن كهربائي صغير أدوات مطبخ منزل ومطبخ"
+    },
+    "p56": {
+      "id": "p56",
+      "merchant_id": 1,
+      "name": "خزانة ملابس",
+      "description": "خزانة ملابس بجودة عالية وسعر مناسب",
+      "mainDescription": "خزانة ملابس من فئة أثاث منزلي، خامة متينة، تصميم عصري، سهل التركيب. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 166100,
+      "cost_price": 109800,
+      "discount": 5,
+      "image": "https://picsum.photos/seed/p56/600/600",
+      "type": "أثاث منزلي",
+      "options": [],
+      "features": [
+        "خامة متينة",
+        "تصميم عصري",
+        "سهل التركيب"
+      ],
+      "quantity": 31,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 10,
+      "department": "منزل ومطبخ",
+      "keywords": "خزانة ملابس أثاث منزلي منزل ومطبخ"
+    },
+    "p57": {
+      "id": "p57",
+      "merchant_id": 1,
+      "name": "ماسك للوجه",
+      "description": "ماسك للوجه بجودة عالية وسعر مناسب",
+      "mainDescription": "ماسك للوجه من فئة العناية بالبشرة، نتائج ملحوظة، خالي من الكحول. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 5000,
+      "cost_price": 3700,
+      "discount": 20,
+      "image": "https://picsum.photos/seed/p57/600/600",
+      "type": "العناية بالبشرة",
+      "options": [],
+      "features": [
+        "نتائج ملحوظة",
+        "خالي من الكحول"
+      ],
+      "quantity": 68,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 11,
+      "department": "مستلزمات جمال",
+      "keywords": "ماسك للوجه العناية بالبشرة مستلزمات جمال"
+    },
+    "p58": {
+      "id": "p58",
+      "merchant_id": 1,
+      "name": "شامبو للشعر الجاف",
+      "description": "شامبو للشعر الجاف بجودة عالية وسعر مناسب",
+      "mainDescription": "شامبو للشعر الجاف من فئة العناية بالشعر، مناسب للاستخدام اليومي، يمنح لمعان طبيعي، يغذي فروة الرأس. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 7400,
+      "cost_price": 5500,
+      "discount": 0,
+      "image": "https://picsum.photos/seed/p58/600/600",
+      "type": "العناية بالشعر",
+      "options": [],
+      "features": [
+        "مناسب للاستخدام اليومي",
+        "يمنح لمعان طبيعي",
+        "يغذي فروة الرأس"
+      ],
+      "quantity": 48,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 12,
+      "department": "مستلزمات جمال",
+      "keywords": "شامبو للشعر الجاف العناية بالشعر مستلزمات جمال"
+    },
+    "p59": {
+      "id": "p59",
+      "merchant_id": 1,
+      "name": "جهاز مشي كهربائي بحالة ممتازة",
+      "description": "جهاز مشي كهربائي بجودة عالية وسعر مناسب",
+      "mainDescription": "جهاز مشي كهربائي من فئة أدوات رياضية، تصميم مريح، مناسب للاستخدام المنزلي. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 84300,
+      "cost_price": 59400,
+      "discount": 8,
+      "image": "https://picsum.photos/seed/p59/600/600",
+      "type": "أدوات رياضية",
+      "options": [],
+      "features": [
+        "تصميم مريح",
+        "مناسب للاستخدام المنزلي"
+      ],
+      "quantity": 16,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 13,
+      "department": "رياضة ولياقة",
+      "keywords": "جهاز مشي كهربائي أدوات رياضية رياضة ولياقة"
+    },
+    "p60": {
+      "id": "p60",
+      "merchant_id": 1,
+      "name": "موبايل فيفو موديل جديد",
+      "description": "موبايل فيفو بجودة عالية وسعر مناسب",
+      "mainDescription": "موبايل فيفو من فئة موبايلات، بطارية تدوم طويلاً، ذاكرة كبيرة، دعم الشحن السريع. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 22300,
+      "cost_price": 15600,
+      "discount": 0,
+      "image": "https://picsum.photos/seed/p60/600/600",
+      "type": "موبايلات",
+      "options": [
+        {
+          "name": "أبيض - 64 جيجا",
+          "custom_price": 26800,
+          "image": ""
+        },
+        {
+          "name": "رمادي - 512 جيجا",
+          "custom_price": 23300,
+          "image": ""
+        },
+        {
+          "name": "بني - 256 جيجا",
+          "custom_price": 25200,
+          "image": ""
+        }
+      ],
+      "features": [
+        "بطارية تدوم طويلاً",
+        "ذاكرة كبيرة",
+        "دعم الشحن السريع"
+      ],
+      "quantity": 42,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 2,
+      "department": "إلكترونيات",
+      "keywords": "موبايل فيفو موبايلات إلكترونيات"
+    },
+    "p61": {
+      "id": "p61",
+      "merchant_id": 1,
+      "name": "سماعة سوني لاسلكية",
+      "description": "سماعة سوني لاسلكية بجودة عالية وسعر مناسب",
+      "mainDescription": "سماعة سوني لاسلكية من فئة سماعات، مقاومة للماء، بلوتوث 5.0. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 12000,
+      "cost_price": 9100,
+      "discount": 12,
+      "image": "https://picsum.photos/seed/p61/600/600",
+      "type": "سماعات",
+      "options": [],
+      "features": [
+        "مقاومة للماء",
+        "بلوتوث 5.0"
+      ],
+      "quantity": 20,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 3,
+      "department": "إلكترونيات",
+      "keywords": "سماعة سوني لاسلكية سماعات إلكترونيات"
+    },
+    "p62": {
+      "id": "p62",
+      "merchant_id": 1,
+      "name": "لابتوب اتش بي بافيليون موديل جديد",
+      "description": "لابتوب اتش بي بافيليون بجودة عالية وسعر مناسب",
+      "mainDescription": "لابتوب اتش بي بافيليون من فئة لابتوبات، شاشة عالية الدقة، قرص SSD، معالج سريع. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 354800,
+      "cost_price": 276400,
+      "discount": 12,
+      "image": "https://picsum.photos/seed/p62/600/600",
+      "type": "لابتوبات",
+      "options": [],
+      "features": [
+        "شاشة عالية الدقة",
+        "قرص SSD",
+        "معالج سريع"
+      ],
+      "quantity": 38,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 7,
+      "department": "إلكترونيات",
+      "keywords": "لابتوب اتش بي بافيليون لابتوبات إلكترونيات"
+    },
+    "p63": {
+      "id": "p63",
+      "merchant_id": 1,
+      "name": "كابل شحن نوع C",
+      "description": "كابل شحن نوع C بجودة عالية وسعر مناسب",
+      "mainDescription": "كابل شحن نوع C من فئة اكسسوارات إلكترونية، متوافق مع أغلب الأجهزة، جودة عالية، تصميم متين. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 11600,
+      "cost_price": 8400,
+      "discount": 10,
+      "image": "https://picsum.photos/seed/p63/600/600",
+      "type": "اكسسوارات إلكترونية",
+      "options": [],
+      "features": [
+        "متوافق مع أغلب الأجهزة",
+        "جودة عالية",
+        "تصميم متين"
+      ],
+      "quantity": 40,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 8,
+      "department": "إلكترونيات",
+      "keywords": "كابل شحن نوع C اكسسوارات إلكترونية إلكترونيات"
+    },
+    "p64": {
+      "id": "p64",
+      "merchant_id": 1,
+      "name": "بدلة رجالية",
+      "description": "بدلة رجالية بجودة عالية وسعر مناسب",
+      "mainDescription": "بدلة رجالية من فئة ملابس رجالي، خامة متينة، قطن 100%. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 4400,
+      "cost_price": 3200,
+      "discount": 0,
+      "image": "https://picsum.photos/seed/p64/600/600",
+      "type": "ملابس رجالي",
+      "options": [
+        {
+          "name": "أخضر - XL",
+          "custom_price": 4500,
+          "image": ""
+        },
+        {
+          "name": "بني - XXL",
+          "custom_price": 4800,
+          "image": ""
+        }
+      ],
+      "features": [
+        "خامة متينة",
+        "قطن 100%"
+      ],
+      "quantity": 37,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 4,
+      "department": "ملابس",
+      "keywords": "بدلة رجالية ملابس رجالي ملابس"
+    },
+    "p65": {
+      "id": "p65",
+      "merchant_id": 1,
+      "name": "فستان صيفي حريمي",
+      "description": "فستان صيفي حريمي بجودة عالية وسعر مناسب",
+      "mainDescription": "فستان صيفي حريمي من فئة ملابس حريمي، متوفر بألوان متعددة، تصميم عصري، خامة خفيفة وأنيقة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 27100,
+      "cost_price": 18700,
+      "discount": 15,
+      "image": "https://picsum.photos/seed/p65/600/600",
       "type": "ملابس حريمي",
       "options": [],
-      "features": ["جلد صناعي فاخر", "مساحة واسعة"],
+      "features": [
+        "متوفر بألوان متعددة",
+        "تصميم عصري",
+        "خامة خفيفة وأنيقة"
+      ],
+      "quantity": 21,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 5,
+      "department": "ملابس",
+      "keywords": "فستان صيفي حريمي ملابس حريمي ملابس"
+    },
+    "p66": {
+      "id": "p66",
+      "merchant_id": 1,
+      "name": "فستان بناتي",
+      "description": "فستان بناتي بجودة عالية وسعر مناسب",
+      "mainDescription": "فستان بناتي من فئة ملابس أطفال، مقاسات متعددة، ألوان زاهية. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 4500,
+      "cost_price": 3100,
+      "discount": 25,
+      "image": "https://picsum.photos/seed/p66/600/600",
+      "type": "ملابس أطفال",
+      "options": [
+        {
+          "name": "أسود - L",
+          "custom_price": 5000,
+          "image": ""
+        },
+        {
+          "name": "رمادي - XL",
+          "custom_price": 5000,
+          "image": ""
+        },
+        {
+          "name": "فضي - L",
+          "custom_price": 4800,
+          "image": ""
+        }
+      ],
+      "features": [
+        "مقاسات متعددة",
+        "ألوان زاهية"
+      ],
+      "quantity": 27,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 9,
+      "department": "ملابس",
+      "keywords": "فستان بناتي ملابس أطفال ملابس"
+    },
+    "p67": {
+      "id": "p67",
+      "merchant_id": 1,
+      "name": "خلاط كهربائي",
+      "description": "خلاط كهربائي بجودة عالية وسعر مناسب",
+      "mainDescription": "خلاط كهربائي من فئة أدوات مطبخ، موزع حرارة متساوٍ، سهل التنظيف، ستانلس ستيل عالي الجودة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 33600,
+      "cost_price": 23800,
+      "discount": 8,
+      "image": "https://picsum.photos/seed/p67/600/600",
+      "type": "أدوات مطبخ",
+      "options": [],
+      "features": [
+        "موزع حرارة متساوٍ",
+        "سهل التنظيف",
+        "ستانلس ستيل عالي الجودة"
+      ],
+      "quantity": 59,
+      "quantity_type": "tracked",
+      "is_available": 0,
+      "currency": "YER",
+      "category_id": 6,
+      "department": "منزل ومطبخ",
+      "keywords": "خلاط كهربائي أدوات مطبخ منزل ومطبخ"
+    },
+    "p68": {
+      "id": "p68",
+      "merchant_id": 1,
+      "name": "كرسي مكتب",
+      "description": "كرسي مكتب بجودة عالية وسعر مناسب",
+      "mainDescription": "كرسي مكتب من فئة أثاث منزلي، خامة متينة، تصميم عصري. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 160100,
+      "cost_price": 115100,
+      "discount": 25,
+      "image": "https://picsum.photos/seed/p68/600/600",
+      "type": "أثاث منزلي",
+      "options": [],
+      "features": [
+        "خامة متينة",
+        "تصميم عصري"
+      ],
+      "quantity": 69,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 10,
+      "department": "منزل ومطبخ",
+      "keywords": "كرسي مكتب أثاث منزلي منزل ومطبخ"
+    },
+    "p69": {
+      "id": "p69",
+      "merchant_id": 1,
+      "name": "ماسك للوجه",
+      "description": "ماسك للوجه بجودة عالية وسعر مناسب",
+      "mainDescription": "ماسك للوجه من فئة العناية بالبشرة، مناسب لجميع أنواع البشرة، خالي من الكحول، نتائج ملحوظة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 10800,
+      "cost_price": 7900,
+      "discount": 8,
+      "image": "https://picsum.photos/seed/p69/600/600",
+      "type": "العناية بالبشرة",
+      "options": [],
+      "features": [
+        "مناسب لجميع أنواع البشرة",
+        "خالي من الكحول",
+        "نتائج ملحوظة"
+      ],
+      "quantity": 7,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 11,
+      "department": "مستلزمات جمال",
+      "keywords": "ماسك للوجه العناية بالبشرة مستلزمات جمال"
+    },
+    "p70": {
+      "id": "p70",
+      "merchant_id": 1,
+      "name": "زيت الأرغان للشعر",
+      "description": "زيت الأرغان للشعر بجودة عالية وسعر مناسب",
+      "mainDescription": "زيت الأرغان للشعر من فئة العناية بالشعر، مناسب للاستخدام اليومي، يمنح لمعان طبيعي. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 4400,
+      "cost_price": 3100,
+      "discount": 0,
+      "image": "https://picsum.photos/seed/p70/600/600",
+      "type": "العناية بالشعر",
+      "options": [],
+      "features": [
+        "مناسب للاستخدام اليومي",
+        "يمنح لمعان طبيعي"
+      ],
+      "quantity": 78,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 12,
+      "department": "مستلزمات جمال",
+      "keywords": "زيت الأرغان للشعر العناية بالشعر مستلزمات جمال"
+    },
+    "p71": {
+      "id": "p71",
+      "merchant_id": 1,
+      "name": "دراجة هوائية",
+      "description": "دراجة هوائية بجودة عالية وسعر مناسب",
+      "mainDescription": "دراجة هوائية من فئة أدوات رياضية، تصميم مريح، مناسب للاستخدام المنزلي، خامة متينة وقوية. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 132600,
+      "cost_price": 90600,
+      "discount": 10,
+      "image": "https://picsum.photos/seed/p71/600/600",
+      "type": "أدوات رياضية",
+      "options": [],
+      "features": [
+        "تصميم مريح",
+        "مناسب للاستخدام المنزلي",
+        "خامة متينة وقوية"
+      ],
+      "quantity": 10,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 13,
+      "department": "رياضة ولياقة",
+      "keywords": "دراجة هوائية أدوات رياضية رياضة ولياقة"
+    },
+    "p72": {
+      "id": "p72",
+      "merchant_id": 1,
+      "name": "آيفون",
+      "description": "آيفون بجودة عالية وسعر مناسب",
+      "mainDescription": "آيفون من فئة موبايلات، بطارية تدوم طويلاً، شاشة عالية الدقة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 45900,
+      "cost_price": 34400,
+      "discount": 20,
+      "image": "https://picsum.photos/seed/p72/600/600",
+      "type": "موبايلات",
+      "options": [
+        {
+          "name": "ذهبي - 512 جيجا",
+          "custom_price": 48900,
+          "image": ""
+        },
+        {
+          "name": "فضي - 64 جيجا",
+          "custom_price": 51200,
+          "image": ""
+        }
+      ],
+      "features": [
+        "بطارية تدوم طويلاً",
+        "شاشة عالية الدقة"
+      ],
+      "quantity": 1,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 2,
+      "department": "إلكترونيات",
+      "keywords": "آيفون موبايلات إلكترونيات"
+    },
+    "p73": {
+      "id": "p73",
+      "merchant_id": 1,
+      "name": "سماعة بلوتوث JBL",
+      "description": "سماعة بلوتوث JBL بجودة عالية وسعر مناسب",
+      "mainDescription": "سماعة بلوتوث JBL من فئة سماعات، صوت نقي وواضح، بطارية طويلة العمر. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 24300,
+      "cost_price": 17600,
+      "discount": 20,
+      "image": "https://picsum.photos/seed/p73/600/600",
+      "type": "سماعات",
+      "options": [
+        {
+          "name": "بني",
+          "custom_price": 24600,
+          "image": ""
+        },
+        {
+          "name": "رمادي",
+          "custom_price": 24600,
+          "image": ""
+        },
+        {
+          "name": "ذهبي",
+          "custom_price": 24500,
+          "image": ""
+        }
+      ],
+      "features": [
+        "صوت نقي وواضح",
+        "بطارية طويلة العمر"
+      ],
+      "quantity": 35,
+      "quantity_type": "tracked",
+      "is_available": 0,
+      "currency": "YER",
+      "category_id": 3,
+      "department": "إلكترونيات",
+      "keywords": "سماعة بلوتوث JBL سماعات إلكترونيات"
+    },
+    "p74": {
+      "id": "p74",
+      "merchant_id": 1,
+      "name": "لابتوب اتش بي بافيليون",
+      "description": "لابتوب اتش بي بافيليون بجودة عالية وسعر مناسب",
+      "mainDescription": "لابتوب اتش بي بافيليون من فئة لابتوبات، شاشة عالية الدقة، ذاكرة RAM كبيرة، قرص SSD. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 398400,
+      "cost_price": 275000,
+      "discount": 0,
+      "image": "https://picsum.photos/seed/p74/600/600",
+      "type": "لابتوبات",
+      "options": [],
+      "features": [
+        "شاشة عالية الدقة",
+        "ذاكرة RAM كبيرة",
+        "قرص SSD"
+      ],
+      "quantity": 49,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 7,
+      "department": "إلكترونيات",
+      "keywords": "لابتوب اتش بي بافيليون لابتوبات إلكترونيات"
+    },
+    "p75": {
+      "id": "p75",
+      "merchant_id": 1,
+      "name": "حافظة موبايل نسخة برو",
+      "description": "حافظة موبايل بجودة عالية وسعر مناسب",
+      "mainDescription": "حافظة موبايل من فئة اكسسوارات إلكترونية، تصميم متين، متوافق مع أغلب الأجهزة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 14500,
+      "cost_price": 11200,
+      "discount": 0,
+      "image": "https://picsum.photos/seed/p75/600/600",
+      "type": "اكسسوارات إلكترونية",
+      "options": [],
+      "features": [
+        "تصميم متين",
+        "متوافق مع أغلب الأجهزة"
+      ],
+      "quantity": 14,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 8,
+      "department": "إلكترونيات",
+      "keywords": "حافظة موبايل اكسسوارات إلكترونية إلكترونيات"
+    },
+    "p76": {
+      "id": "p76",
+      "merchant_id": 1,
+      "name": "بنطلون جينز رجالي",
+      "description": "بنطلون جينز رجالي بجودة عالية وسعر مناسب",
+      "mainDescription": "بنطلون جينز رجالي من فئة ملابس رجالي، قطن 100%، قصة عصرية. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 9900,
+      "cost_price": 6900,
+      "discount": 0,
+      "image": "https://picsum.photos/seed/p76/600/600",
+      "type": "ملابس رجالي",
+      "options": [
+        {
+          "name": "فضي - XL",
+          "custom_price": 9900,
+          "image": ""
+        },
+        {
+          "name": "فضي - L",
+          "custom_price": 10100,
+          "image": ""
+        }
+      ],
+      "features": [
+        "قطن 100%",
+        "قصة عصرية"
+      ],
+      "quantity": 6,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 4,
+      "department": "ملابس",
+      "keywords": "بنطلون جينز رجالي ملابس رجالي ملابس"
+    },
+    "p77": {
+      "id": "p77",
+      "merchant_id": 1,
+      "name": "بلوزة حريمي نسخة برو",
+      "description": "بلوزة حريمي بجودة عالية وسعر مناسب",
+      "mainDescription": "بلوزة حريمي من فئة ملابس حريمي، خامة خفيفة وأنيقة، متوفر بألوان متعددة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 27100,
+      "cost_price": 21200,
+      "discount": 5,
+      "image": "https://picsum.photos/seed/p77/600/600",
+      "type": "ملابس حريمي",
+      "options": [
+        {
+          "name": "أزرق - XXL",
+          "custom_price": 26900,
+          "image": ""
+        },
+        {
+          "name": "رمادي - S",
+          "custom_price": 27200,
+          "image": ""
+        },
+        {
+          "name": "أخضر - XXL",
+          "custom_price": 27300,
+          "image": ""
+        }
+      ],
+      "features": [
+        "خامة خفيفة وأنيقة",
+        "متوفر بألوان متعددة"
+      ],
       "quantity": 22,
       "quantity_type": "tracked",
       "is_available": 1,
       "currency": "YER",
       "category_id": 5,
       "department": "ملابس",
-      "keywords": "حقيبة يد نسائية شنطة"
+      "keywords": "بلوزة حريمي ملابس حريمي ملابس"
     },
-    "p8": {
-      "id": "p8",
+    "p78": {
+      "id": "p78",
       "merchant_id": 1,
-      "name": "طقم أواني مطبخ 10 قطع",
-      "description": "طقم أواني ستانلس ستيل",
-      "mainDescription": "طقم أواني مطبخ من الستانلس ستيل عالي الجودة، 10 قطع تغطي جميع احتياجات المطبخ، سهل التنظيف وموزع للحرارة بشكل متساوٍ.",
-      "price": 22000,
-      "cost_price": 16000,
-      "discount": 8,
-      "image": "https://picsum.photos/seed/p8/600/600",
+      "name": "طقم أطفال قطن إصدار محدود",
+      "description": "طقم أطفال قطن بجودة عالية وسعر مناسب",
+      "mainDescription": "طقم أطفال قطن من فئة ملابس أطفال، ألوان زاهية، قماش ناعم على البشرة، مقاسات متعددة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 5400,
+      "cost_price": 4200,
+      "discount": 12,
+      "image": "https://picsum.photos/seed/p78/600/600",
+      "type": "ملابس أطفال",
+      "options": [
+        {
+          "name": "رمادي - L",
+          "custom_price": 5600,
+          "image": ""
+        },
+        {
+          "name": "فضي - XL",
+          "custom_price": 5900,
+          "image": ""
+        },
+        {
+          "name": "أزرق - S",
+          "custom_price": 5500,
+          "image": ""
+        }
+      ],
+      "features": [
+        "ألوان زاهية",
+        "قماش ناعم على البشرة",
+        "مقاسات متعددة"
+      ],
+      "quantity": 45,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 9,
+      "department": "ملابس",
+      "keywords": "طقم أطفال قطن ملابس أطفال ملابس"
+    },
+    "p79": {
+      "id": "p79",
+      "merchant_id": 1,
+      "name": "مقلاة تيفال بحالة ممتازة",
+      "description": "مقلاة تيفال بجودة عالية وسعر مناسب",
+      "mainDescription": "مقلاة تيفال من فئة أدوات مطبخ، ستانلس ستيل عالي الجودة، سهل التنظيف، موزع حرارة متساوٍ. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 35100,
+      "cost_price": 27500,
+      "discount": 0,
+      "image": "https://picsum.photos/seed/p79/600/600",
       "type": "أدوات مطبخ",
       "options": [],
-      "features": ["ستانلس ستيل", "10 قطع", "موزع حرارة متساوٍ"],
+      "features": [
+        "ستانلس ستيل عالي الجودة",
+        "سهل التنظيف",
+        "موزع حرارة متساوٍ"
+      ],
       "quantity": 0,
-      "quantity_type": "unlimited",
+      "quantity_type": "tracked",
       "is_available": 1,
       "currency": "YER",
       "category_id": 6,
       "department": "منزل ومطبخ",
-      "keywords": "أواني مطبخ ستانلس طقم"
+      "keywords": "مقلاة تيفال أدوات مطبخ منزل ومطبخ"
+    },
+    "p80": {
+      "id": "p80",
+      "merchant_id": 1,
+      "name": "أريكة صغيرة إصدار محدود",
+      "description": "أريكة صغيرة بجودة عالية وسعر مناسب",
+      "mainDescription": "أريكة صغيرة من فئة أثاث منزلي، سهل التركيب، تصميم عصري. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 161800,
+      "cost_price": 107300,
+      "discount": 20,
+      "image": "https://picsum.photos/seed/p80/600/600",
+      "type": "أثاث منزلي",
+      "options": [],
+      "features": [
+        "سهل التركيب",
+        "تصميم عصري"
+      ],
+      "quantity": 37,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 10,
+      "department": "منزل ومطبخ",
+      "keywords": "أريكة صغيرة أثاث منزلي منزل ومطبخ"
+    },
+    "p81": {
+      "id": "p81",
+      "merchant_id": 1,
+      "name": "سيروم فيتامين سي نسخة برو",
+      "description": "سيروم فيتامين سي بجودة عالية وسعر مناسب",
+      "mainDescription": "سيروم فيتامين سي من فئة العناية بالبشرة، مناسب لجميع أنواع البشرة، نتائج ملحوظة، خالي من الكحول. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 6600,
+      "cost_price": 5300,
+      "discount": 15,
+      "image": "https://picsum.photos/seed/p81/600/600",
+      "type": "العناية بالبشرة",
+      "options": [],
+      "features": [
+        "مناسب لجميع أنواع البشرة",
+        "نتائج ملحوظة",
+        "خالي من الكحول"
+      ],
+      "quantity": 48,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 11,
+      "department": "مستلزمات جمال",
+      "keywords": "سيروم فيتامين سي العناية بالبشرة مستلزمات جمال"
+    },
+    "p82": {
+      "id": "p82",
+      "merchant_id": 1,
+      "name": "بلسم مرطب موديل جديد",
+      "description": "بلسم مرطب بجودة عالية وسعر مناسب",
+      "mainDescription": "بلسم مرطب من فئة العناية بالشعر، مناسب للاستخدام اليومي، يمنح لمعان طبيعي. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 8700,
+      "cost_price": 6100,
+      "discount": 8,
+      "image": "https://picsum.photos/seed/p82/600/600",
+      "type": "العناية بالشعر",
+      "options": [],
+      "features": [
+        "مناسب للاستخدام اليومي",
+        "يمنح لمعان طبيعي"
+      ],
+      "quantity": 21,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 12,
+      "department": "مستلزمات جمال",
+      "keywords": "بلسم مرطب العناية بالشعر مستلزمات جمال"
+    },
+    "p83": {
+      "id": "p83",
+      "merchant_id": 1,
+      "name": "دمبل حديد",
+      "description": "دمبل حديد بجودة عالية وسعر مناسب",
+      "mainDescription": "دمبل حديد من فئة أدوات رياضية، تصميم مريح، مناسب للاستخدام المنزلي، خامة متينة وقوية. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 190100,
+      "cost_price": 135800,
+      "discount": 20,
+      "image": "https://picsum.photos/seed/p83/600/600",
+      "type": "أدوات رياضية",
+      "options": [],
+      "features": [
+        "تصميم مريح",
+        "مناسب للاستخدام المنزلي",
+        "خامة متينة وقوية"
+      ],
+      "quantity": 20,
+      "quantity_type": "tracked",
+      "is_available": 0,
+      "currency": "YER",
+      "category_id": 13,
+      "department": "رياضة ولياقة",
+      "keywords": "دمبل حديد أدوات رياضية رياضة ولياقة"
+    },
+    "p84": {
+      "id": "p84",
+      "merchant_id": 1,
+      "name": "موبايل نوكيا",
+      "description": "موبايل نوكيا بجودة عالية وسعر مناسب",
+      "mainDescription": "موبايل نوكيا من فئة موبايلات، شاشة عالية الدقة، بطارية تدوم طويلاً. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 77000,
+      "cost_price": 50100,
+      "discount": 25,
+      "image": "https://picsum.photos/seed/p84/600/600",
+      "type": "موبايلات",
+      "options": [
+        {
+          "name": "أسود - 512 جيجا",
+          "custom_price": 82000,
+          "image": ""
+        },
+        {
+          "name": "أبيض - 64 جيجا",
+          "custom_price": 81300,
+          "image": ""
+        }
+      ],
+      "features": [
+        "شاشة عالية الدقة",
+        "بطارية تدوم طويلاً"
+      ],
+      "quantity": 9,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 2,
+      "department": "إلكترونيات",
+      "keywords": "موبايل نوكيا موبايلات إلكترونيات"
+    },
+    "p85": {
+      "id": "p85",
+      "merchant_id": 1,
+      "name": "سماعة استوديو للألعاب نسخة برو",
+      "description": "سماعة استوديو للألعاب بجودة عالية وسعر مناسب",
+      "mainDescription": "سماعة استوديو للألعاب من فئة سماعات، صوت نقي وواضح، مقاومة للماء، بلوتوث 5.0. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 15800,
+      "cost_price": 10800,
+      "discount": 5,
+      "image": "https://picsum.photos/seed/p85/600/600",
+      "type": "سماعات",
+      "options": [],
+      "features": [
+        "صوت نقي وواضح",
+        "مقاومة للماء",
+        "بلوتوث 5.0"
+      ],
+      "quantity": 73,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 3,
+      "department": "إلكترونيات",
+      "keywords": "سماعة استوديو للألعاب سماعات إلكترونيات"
+    },
+    "p86": {
+      "id": "p86",
+      "merchant_id": 1,
+      "name": "لابتوب اتش بي بافيليون",
+      "description": "لابتوب اتش بي بافيليون بجودة عالية وسعر مناسب",
+      "mainDescription": "لابتوب اتش بي بافيليون من فئة لابتوبات، معالج سريع، ذاكرة RAM كبيرة، شاشة عالية الدقة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 345300,
+      "cost_price": 254600,
+      "discount": 8,
+      "image": "https://picsum.photos/seed/p86/600/600",
+      "type": "لابتوبات",
+      "options": [],
+      "features": [
+        "معالج سريع",
+        "ذاكرة RAM كبيرة",
+        "شاشة عالية الدقة"
+      ],
+      "quantity": 8,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 7,
+      "department": "إلكترونيات",
+      "keywords": "لابتوب اتش بي بافيليون لابتوبات إلكترونيات"
+    },
+    "p87": {
+      "id": "p87",
+      "merchant_id": 1,
+      "name": "كابل شحن نوع C إصدار محدود",
+      "description": "كابل شحن نوع C بجودة عالية وسعر مناسب",
+      "mainDescription": "كابل شحن نوع C من فئة اكسسوارات إلكترونية، جودة عالية، متوافق مع أغلب الأجهزة، تصميم متين. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 8900,
+      "cost_price": 6500,
+      "discount": 15,
+      "image": "https://picsum.photos/seed/p87/600/600",
+      "type": "اكسسوارات إلكترونية",
+      "options": [
+        {
+          "name": "بني",
+          "custom_price": 9100,
+          "image": ""
+        },
+        {
+          "name": "فضي",
+          "custom_price": 9000,
+          "image": ""
+        }
+      ],
+      "features": [
+        "جودة عالية",
+        "متوافق مع أغلب الأجهزة",
+        "تصميم متين"
+      ],
+      "quantity": 8,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 8,
+      "department": "إلكترونيات",
+      "keywords": "كابل شحن نوع C اكسسوارات إلكترونية إلكترونيات"
+    },
+    "p88": {
+      "id": "p88",
+      "merchant_id": 1,
+      "name": "بدلة رجالية",
+      "description": "بدلة رجالية بجودة عالية وسعر مناسب",
+      "mainDescription": "بدلة رجالية من فئة ملابس رجالي، قصة عصرية، قطن 100%، خامة متينة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 6500,
+      "cost_price": 4300,
+      "discount": 10,
+      "image": "https://picsum.photos/seed/p88/600/600",
+      "type": "ملابس رجالي",
+      "options": [
+        {
+          "name": "أحمر - XXL",
+          "custom_price": 6600,
+          "image": ""
+        },
+        {
+          "name": "أخضر - XL",
+          "custom_price": 6400,
+          "image": ""
+        },
+        {
+          "name": "أسود - XL",
+          "custom_price": 6700,
+          "image": ""
+        }
+      ],
+      "features": [
+        "قصة عصرية",
+        "قطن 100%",
+        "خامة متينة"
+      ],
+      "quantity": 18,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 4,
+      "department": "ملابس",
+      "keywords": "بدلة رجالية ملابس رجالي ملابس"
+    },
+    "p89": {
+      "id": "p89",
+      "merchant_id": 1,
+      "name": "حقيبة يد نسائية جلد",
+      "description": "حقيبة يد نسائية جلد بجودة عالية وسعر مناسب",
+      "mainDescription": "حقيبة يد نسائية جلد من فئة ملابس حريمي، متوفر بألوان متعددة، خامة خفيفة وأنيقة، تصميم عصري. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 7600,
+      "cost_price": 5200,
+      "discount": 12,
+      "image": "https://picsum.photos/seed/p89/600/600",
+      "type": "ملابس حريمي",
+      "options": [
+        {
+          "name": "رمادي - XXL",
+          "custom_price": 7500,
+          "image": ""
+        },
+        {
+          "name": "أحمر - XL",
+          "custom_price": 7800,
+          "image": ""
+        },
+        {
+          "name": "أخضر - XL",
+          "custom_price": 7500,
+          "image": ""
+        }
+      ],
+      "features": [
+        "متوفر بألوان متعددة",
+        "خامة خفيفة وأنيقة",
+        "تصميم عصري"
+      ],
+      "quantity": 66,
+      "quantity_type": "tracked",
+      "is_available": 0,
+      "currency": "YER",
+      "category_id": 5,
+      "department": "ملابس",
+      "keywords": "حقيبة يد نسائية جلد ملابس حريمي ملابس"
+    },
+    "p90": {
+      "id": "p90",
+      "merchant_id": 1,
+      "name": "جاكيت أطفال شتوي",
+      "description": "جاكيت أطفال شتوي بجودة عالية وسعر مناسب",
+      "mainDescription": "جاكيت أطفال شتوي من فئة ملابس أطفال، قماش ناعم على البشرة، ألوان زاهية، مقاسات متعددة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 8500,
+      "cost_price": 6600,
+      "discount": 5,
+      "image": "https://picsum.photos/seed/p90/600/600",
+      "type": "ملابس أطفال",
+      "options": [
+        {
+          "name": "أزرق - M",
+          "custom_price": 8300,
+          "image": ""
+        },
+        {
+          "name": "فضي - XL",
+          "custom_price": 8900,
+          "image": ""
+        }
+      ],
+      "features": [
+        "قماش ناعم على البشرة",
+        "ألوان زاهية",
+        "مقاسات متعددة"
+      ],
+      "quantity": 17,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 9,
+      "department": "ملابس",
+      "keywords": "جاكيت أطفال شتوي ملابس أطفال ملابس"
+    },
+    "p91": {
+      "id": "p91",
+      "merchant_id": 1,
+      "name": "مقلاة تيفال",
+      "description": "مقلاة تيفال بجودة عالية وسعر مناسب",
+      "mainDescription": "مقلاة تيفال من فئة أدوات مطبخ، ستانلس ستيل عالي الجودة، سهل التنظيف. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 29700,
+      "cost_price": 23300,
+      "discount": 15,
+      "image": "https://picsum.photos/seed/p91/600/600",
+      "type": "أدوات مطبخ",
+      "options": [],
+      "features": [
+        "ستانلس ستيل عالي الجودة",
+        "سهل التنظيف"
+      ],
+      "quantity": 58,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 6,
+      "department": "منزل ومطبخ",
+      "keywords": "مقلاة تيفال أدوات مطبخ منزل ومطبخ"
+    },
+    "p92": {
+      "id": "p92",
+      "merchant_id": 1,
+      "name": "كرسي مكتب",
+      "description": "كرسي مكتب بجودة عالية وسعر مناسب",
+      "mainDescription": "كرسي مكتب من فئة أثاث منزلي، تصميم عصري، خامة متينة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 115400,
+      "cost_price": 88500,
+      "discount": 15,
+      "image": "https://picsum.photos/seed/p92/600/600",
+      "type": "أثاث منزلي",
+      "options": [],
+      "features": [
+        "تصميم عصري",
+        "خامة متينة"
+      ],
+      "quantity": 15,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 10,
+      "department": "منزل ومطبخ",
+      "keywords": "كرسي مكتب أثاث منزلي منزل ومطبخ"
+    },
+    "p93": {
+      "id": "p93",
+      "merchant_id": 1,
+      "name": "سيروم فيتامين سي",
+      "description": "سيروم فيتامين سي بجودة عالية وسعر مناسب",
+      "mainDescription": "سيروم فيتامين سي من فئة العناية بالبشرة، مناسب لجميع أنواع البشرة، خالي من الكحول. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 4600,
+      "cost_price": 3100,
+      "discount": 8,
+      "image": "https://picsum.photos/seed/p93/600/600",
+      "type": "العناية بالبشرة",
+      "options": [],
+      "features": [
+        "مناسب لجميع أنواع البشرة",
+        "خالي من الكحول"
+      ],
+      "quantity": 52,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 11,
+      "department": "مستلزمات جمال",
+      "keywords": "سيروم فيتامين سي العناية بالبشرة مستلزمات جمال"
+    },
+    "p94": {
+      "id": "p94",
+      "merchant_id": 1,
+      "name": "سيشوار كهربائي",
+      "description": "سيشوار كهربائي بجودة عالية وسعر مناسب",
+      "mainDescription": "سيشوار كهربائي من فئة العناية بالشعر، يغذي فروة الرأس، يمنح لمعان طبيعي، مناسب للاستخدام اليومي. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 14900,
+      "cost_price": 11700,
+      "discount": 20,
+      "image": "https://picsum.photos/seed/p94/600/600",
+      "type": "العناية بالشعر",
+      "options": [],
+      "features": [
+        "يغذي فروة الرأس",
+        "يمنح لمعان طبيعي",
+        "مناسب للاستخدام اليومي"
+      ],
+      "quantity": 7,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 12,
+      "department": "مستلزمات جمال",
+      "keywords": "سيشوار كهربائي العناية بالشعر مستلزمات جمال"
+    },
+    "p95": {
+      "id": "p95",
+      "merchant_id": 1,
+      "name": "جهاز مشي كهربائي بحالة ممتازة",
+      "description": "جهاز مشي كهربائي بجودة عالية وسعر مناسب",
+      "mainDescription": "جهاز مشي كهربائي من فئة أدوات رياضية، تصميم مريح، مناسب للاستخدام المنزلي. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 68300,
+      "cost_price": 49400,
+      "discount": 12,
+      "image": "https://picsum.photos/seed/p95/600/600",
+      "type": "أدوات رياضية",
+      "options": [],
+      "features": [
+        "تصميم مريح",
+        "مناسب للاستخدام المنزلي"
+      ],
+      "quantity": 51,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 13,
+      "department": "رياضة ولياقة",
+      "keywords": "جهاز مشي كهربائي أدوات رياضية رياضة ولياقة"
+    },
+    "p96": {
+      "id": "p96",
+      "merchant_id": 1,
+      "name": "موبايل شاومي ريدمي إصدار محدود",
+      "description": "موبايل شاومي ريدمي بجودة عالية وسعر مناسب",
+      "mainDescription": "موبايل شاومي ريدمي من فئة موبايلات، دعم الشحن السريع، ذاكرة كبيرة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 60100,
+      "cost_price": 44300,
+      "discount": 12,
+      "image": "https://picsum.photos/seed/p96/600/600",
+      "type": "موبايلات",
+      "options": [
+        {
+          "name": "رمادي - 512 جيجا",
+          "custom_price": 62000,
+          "image": ""
+        },
+        {
+          "name": "بني - 128 جيجا",
+          "custom_price": 65200,
+          "image": ""
+        }
+      ],
+      "features": [
+        "دعم الشحن السريع",
+        "ذاكرة كبيرة"
+      ],
+      "quantity": 6,
+      "quantity_type": "tracked",
+      "is_available": 0,
+      "currency": "YER",
+      "category_id": 2,
+      "department": "إلكترونيات",
+      "keywords": "موبايل شاومي ريدمي موبايلات إلكترونيات"
+    },
+    "p97": {
+      "id": "p97",
+      "merchant_id": 1,
+      "name": "سماعة رياضية بلوتوث",
+      "description": "سماعة رياضية بلوتوث بجودة عالية وسعر مناسب",
+      "mainDescription": "سماعة رياضية بلوتوث من فئة سماعات، صوت نقي وواضح، بلوتوث 5.0. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 9600,
+      "cost_price": 6600,
+      "discount": 10,
+      "image": "https://picsum.photos/seed/p97/600/600",
+      "type": "سماعات",
+      "options": [],
+      "features": [
+        "صوت نقي وواضح",
+        "بلوتوث 5.0"
+      ],
+      "quantity": 0,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 3,
+      "department": "إلكترونيات",
+      "keywords": "سماعة رياضية بلوتوث سماعات إلكترونيات"
+    },
+    "p98": {
+      "id": "p98",
+      "merchant_id": 1,
+      "name": "لابتوب لينوفو ثينك باد نسخة برو",
+      "description": "لابتوب لينوفو ثينك باد بجودة عالية وسعر مناسب",
+      "mainDescription": "لابتوب لينوفو ثينك باد من فئة لابتوبات، معالج سريع، شاشة عالية الدقة، قرص SSD. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 277900,
+      "cost_price": 201300,
+      "discount": 8,
+      "image": "https://picsum.photos/seed/p98/600/600",
+      "type": "لابتوبات",
+      "options": [],
+      "features": [
+        "معالج سريع",
+        "شاشة عالية الدقة",
+        "قرص SSD"
+      ],
+      "quantity": 71,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 7,
+      "department": "إلكترونيات",
+      "keywords": "لابتوب لينوفو ثينك باد لابتوبات إلكترونيات"
+    },
+    "p99": {
+      "id": "p99",
+      "merchant_id": 1,
+      "name": "باور بانك",
+      "description": "باور بانك بجودة عالية وسعر مناسب",
+      "mainDescription": "باور بانك من فئة اكسسوارات إلكترونية، تصميم متين، متوافق مع أغلب الأجهزة، جودة عالية. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 5800,
+      "cost_price": 4600,
+      "discount": 0,
+      "image": "https://picsum.photos/seed/p99/600/600",
+      "type": "اكسسوارات إلكترونية",
+      "options": [
+        {
+          "name": "أسود",
+          "custom_price": 6000,
+          "image": ""
+        },
+        {
+          "name": "فضي",
+          "custom_price": 6100,
+          "image": ""
+        }
+      ],
+      "features": [
+        "تصميم متين",
+        "متوافق مع أغلب الأجهزة",
+        "جودة عالية"
+      ],
+      "quantity": 45,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 8,
+      "department": "إلكترونيات",
+      "keywords": "باور بانك اكسسوارات إلكترونية إلكترونيات"
+    },
+    "p100": {
+      "id": "p100",
+      "merchant_id": 1,
+      "name": "بدلة رجالية موديل جديد",
+      "description": "بدلة رجالية بجودة عالية وسعر مناسب",
+      "mainDescription": "بدلة رجالية من فئة ملابس رجالي، خامة متينة، قصة عصرية. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 9500,
+      "cost_price": 6300,
+      "discount": 15,
+      "image": "https://picsum.photos/seed/p100/600/600",
+      "type": "ملابس رجالي",
+      "options": [],
+      "features": [
+        "خامة متينة",
+        "قصة عصرية"
+      ],
+      "quantity": 68,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 4,
+      "department": "ملابس",
+      "keywords": "بدلة رجالية ملابس رجالي ملابس"
+    },
+    "p101": {
+      "id": "p101",
+      "merchant_id": 1,
+      "name": "شال حريمي",
+      "description": "شال حريمي بجودة عالية وسعر مناسب",
+      "mainDescription": "شال حريمي من فئة ملابس حريمي، خامة خفيفة وأنيقة، تصميم عصري، متوفر بألوان متعددة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 9400,
+      "cost_price": 7000,
+      "discount": 10,
+      "image": "https://picsum.photos/seed/p101/600/600",
+      "type": "ملابس حريمي",
+      "options": [
+        {
+          "name": "أزرق - M",
+          "custom_price": 9200,
+          "image": ""
+        },
+        {
+          "name": "بني - L",
+          "custom_price": 9300,
+          "image": ""
+        }
+      ],
+      "features": [
+        "خامة خفيفة وأنيقة",
+        "تصميم عصري",
+        "متوفر بألوان متعددة"
+      ],
+      "quantity": 44,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 5,
+      "department": "ملابس",
+      "keywords": "شال حريمي ملابس حريمي ملابس"
+    },
+    "p102": {
+      "id": "p102",
+      "merchant_id": 1,
+      "name": "جاكيت أطفال شتوي",
+      "description": "جاكيت أطفال شتوي بجودة عالية وسعر مناسب",
+      "mainDescription": "جاكيت أطفال شتوي من فئة ملابس أطفال، مقاسات متعددة، ألوان زاهية. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 5000,
+      "cost_price": 3500,
+      "discount": 8,
+      "image": "https://picsum.photos/seed/p102/600/600",
+      "type": "ملابس أطفال",
+      "options": [
+        {
+          "name": "أسود - S",
+          "custom_price": 5200,
+          "image": ""
+        },
+        {
+          "name": "رمادي - XXL",
+          "custom_price": 5200,
+          "image": ""
+        }
+      ],
+      "features": [
+        "مقاسات متعددة",
+        "ألوان زاهية"
+      ],
+      "quantity": 63,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 9,
+      "department": "ملابس",
+      "keywords": "جاكيت أطفال شتوي ملابس أطفال ملابس"
+    },
+    "p103": {
+      "id": "p103",
+      "merchant_id": 1,
+      "name": "طقم أواني مطبخ 10 قطع",
+      "description": "طقم أواني مطبخ 10 قطع بجودة عالية وسعر مناسب",
+      "mainDescription": "طقم أواني مطبخ 10 قطع من فئة أدوات مطبخ، ستانلس ستيل عالي الجودة، سهل التنظيف، موزع حرارة متساوٍ. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 31500,
+      "cost_price": 22100,
+      "discount": 25,
+      "image": "https://picsum.photos/seed/p103/600/600",
+      "type": "أدوات مطبخ",
+      "options": [],
+      "features": [
+        "ستانلس ستيل عالي الجودة",
+        "سهل التنظيف",
+        "موزع حرارة متساوٍ"
+      ],
+      "quantity": 22,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 6,
+      "department": "منزل ومطبخ",
+      "keywords": "طقم أواني مطبخ 10 قطع أدوات مطبخ منزل ومطبخ"
+    },
+    "p104": {
+      "id": "p104",
+      "merchant_id": 1,
+      "name": "خزانة ملابس",
+      "description": "خزانة ملابس بجودة عالية وسعر مناسب",
+      "mainDescription": "خزانة ملابس من فئة أثاث منزلي، سهل التركيب، تصميم عصري، خامة متينة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 173800,
+      "cost_price": 134500,
+      "discount": 0,
+      "image": "https://picsum.photos/seed/p104/600/600",
+      "type": "أثاث منزلي",
+      "options": [],
+      "features": [
+        "سهل التركيب",
+        "تصميم عصري",
+        "خامة متينة"
+      ],
+      "quantity": 31,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 10,
+      "department": "منزل ومطبخ",
+      "keywords": "خزانة ملابس أثاث منزلي منزل ومطبخ"
+    },
+    "p105": {
+      "id": "p105",
+      "merchant_id": 1,
+      "name": "واقي شمس نسخة برو",
+      "description": "واقي شمس بجودة عالية وسعر مناسب",
+      "mainDescription": "واقي شمس من فئة العناية بالبشرة، مناسب لجميع أنواع البشرة، خالي من الكحول، نتائج ملحوظة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 2900,
+      "cost_price": 2100,
+      "discount": 0,
+      "image": "https://picsum.photos/seed/p105/600/600",
+      "type": "العناية بالبشرة",
+      "options": [],
+      "features": [
+        "مناسب لجميع أنواع البشرة",
+        "خالي من الكحول",
+        "نتائج ملحوظة"
+      ],
+      "quantity": 10,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 11,
+      "department": "مستلزمات جمال",
+      "keywords": "واقي شمس العناية بالبشرة مستلزمات جمال"
+    },
+    "p106": {
+      "id": "p106",
+      "merchant_id": 1,
+      "name": "شامبو للشعر الجاف نسخة برو",
+      "description": "شامبو للشعر الجاف بجودة عالية وسعر مناسب",
+      "mainDescription": "شامبو للشعر الجاف من فئة العناية بالشعر، يمنح لمعان طبيعي، يغذي فروة الرأس. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 4300,
+      "cost_price": 3400,
+      "discount": 15,
+      "image": "https://picsum.photos/seed/p106/600/600",
+      "type": "العناية بالشعر",
+      "options": [],
+      "features": [
+        "يمنح لمعان طبيعي",
+        "يغذي فروة الرأس"
+      ],
+      "quantity": 2,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 12,
+      "department": "مستلزمات جمال",
+      "keywords": "شامبو للشعر الجاف العناية بالشعر مستلزمات جمال"
+    },
+    "p107": {
+      "id": "p107",
+      "merchant_id": 1,
+      "name": "دمبل حديد موديل جديد",
+      "description": "دمبل حديد بجودة عالية وسعر مناسب",
+      "mainDescription": "دمبل حديد من فئة أدوات رياضية، تصميم مريح، خامة متينة وقوية. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 118400,
+      "cost_price": 84900,
+      "discount": 25,
+      "image": "https://picsum.photos/seed/p107/600/600",
+      "type": "أدوات رياضية",
+      "options": [],
+      "features": [
+        "تصميم مريح",
+        "خامة متينة وقوية"
+      ],
+      "quantity": 32,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 13,
+      "department": "رياضة ولياقة",
+      "keywords": "دمبل حديد أدوات رياضية رياضة ولياقة"
+    },
+    "p108": {
+      "id": "p108",
+      "merchant_id": 1,
+      "name": "آيفون",
+      "description": "آيفون بجودة عالية وسعر مناسب",
+      "mainDescription": "آيفون من فئة موبايلات، كاميرا احترافية، ذاكرة كبيرة، بطارية تدوم طويلاً. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 62800,
+      "cost_price": 49900,
+      "discount": 0,
+      "image": "https://picsum.photos/seed/p108/600/600",
+      "type": "موبايلات",
+      "options": [
+        {
+          "name": "بني - 64 جيجا",
+          "custom_price": 65900,
+          "image": ""
+        },
+        {
+          "name": "أخضر - 256 جيجا",
+          "custom_price": 68900,
+          "image": ""
+        }
+      ],
+      "features": [
+        "كاميرا احترافية",
+        "ذاكرة كبيرة",
+        "بطارية تدوم طويلاً"
+      ],
+      "quantity": 0,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 2,
+      "department": "إلكترونيات",
+      "keywords": "آيفون موبايلات إلكترونيات"
+    },
+    "p109": {
+      "id": "p109",
+      "merchant_id": 1,
+      "name": "سماعة ابل ايربودز",
+      "description": "سماعة ابل ايربودز بجودة عالية وسعر مناسب",
+      "mainDescription": "سماعة ابل ايربودز من فئة سماعات، بلوتوث 5.0، مقاومة للماء، صوت نقي وواضح. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 12700,
+      "cost_price": 10100,
+      "discount": 20,
+      "image": "https://picsum.photos/seed/p109/600/600",
+      "type": "سماعات",
+      "options": [],
+      "features": [
+        "بلوتوث 5.0",
+        "مقاومة للماء",
+        "صوت نقي وواضح"
+      ],
+      "quantity": 67,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 3,
+      "department": "إلكترونيات",
+      "keywords": "سماعة ابل ايربودز سماعات إلكترونيات"
+    },
+    "p110": {
+      "id": "p110",
+      "merchant_id": 1,
+      "name": "لابتوب اسوس نسخة برو",
+      "description": "لابتوب اسوس بجودة عالية وسعر مناسب",
+      "mainDescription": "لابتوب اسوس من فئة لابتوبات، قرص SSD، ذاكرة RAM كبيرة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 445500,
+      "cost_price": 345800,
+      "discount": 0,
+      "image": "https://picsum.photos/seed/p110/600/600",
+      "type": "لابتوبات",
+      "options": [],
+      "features": [
+        "قرص SSD",
+        "ذاكرة RAM كبيرة"
+      ],
+      "quantity": 73,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 7,
+      "department": "إلكترونيات",
+      "keywords": "لابتوب اسوس لابتوبات إلكترونيات"
+    },
+    "p111": {
+      "id": "p111",
+      "merchant_id": 1,
+      "name": "باور بانك",
+      "description": "باور بانك بجودة عالية وسعر مناسب",
+      "mainDescription": "باور بانك من فئة اكسسوارات إلكترونية، جودة عالية، متوافق مع أغلب الأجهزة، تصميم متين. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 6700,
+      "cost_price": 5300,
+      "discount": 0,
+      "image": "https://picsum.photos/seed/p111/600/600",
+      "type": "اكسسوارات إلكترونية",
+      "options": [
+        {
+          "name": "أزرق",
+          "custom_price": 7100,
+          "image": ""
+        },
+        {
+          "name": "أخضر",
+          "custom_price": 6400,
+          "image": ""
+        }
+      ],
+      "features": [
+        "جودة عالية",
+        "متوافق مع أغلب الأجهزة",
+        "تصميم متين"
+      ],
+      "quantity": 39,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 8,
+      "department": "إلكترونيات",
+      "keywords": "باور بانك اكسسوارات إلكترونية إلكترونيات"
+    },
+    "p112": {
+      "id": "p112",
+      "merchant_id": 1,
+      "name": "تيشيرت رجالي",
+      "description": "تيشيرت رجالي بجودة عالية وسعر مناسب",
+      "mainDescription": "تيشيرت رجالي من فئة ملابس رجالي، قطن 100%، خامة متينة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 11700,
+      "cost_price": 7900,
+      "discount": 0,
+      "image": "https://picsum.photos/seed/p112/600/600",
+      "type": "ملابس رجالي",
+      "options": [
+        {
+          "name": "رمادي - M",
+          "custom_price": 12000,
+          "image": ""
+        },
+        {
+          "name": "رمادي - L",
+          "custom_price": 11800,
+          "image": ""
+        }
+      ],
+      "features": [
+        "قطن 100%",
+        "خامة متينة"
+      ],
+      "quantity": 72,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 4,
+      "department": "ملابس",
+      "keywords": "تيشيرت رجالي ملابس رجالي ملابس"
+    },
+    "p113": {
+      "id": "p113",
+      "merchant_id": 1,
+      "name": "فستان صيفي حريمي نسخة برو",
+      "description": "فستان صيفي حريمي بجودة عالية وسعر مناسب",
+      "mainDescription": "فستان صيفي حريمي من فئة ملابس حريمي، خامة خفيفة وأنيقة، تصميم عصري، متوفر بألوان متعددة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 4100,
+      "cost_price": 3100,
+      "discount": 20,
+      "image": "https://picsum.photos/seed/p113/600/600",
+      "type": "ملابس حريمي",
+      "options": [
+        {
+          "name": "رمادي - XXL",
+          "custom_price": 4100,
+          "image": ""
+        },
+        {
+          "name": "رمادي - S",
+          "custom_price": 3900,
+          "image": ""
+        },
+        {
+          "name": "بني - L",
+          "custom_price": 4000,
+          "image": ""
+        }
+      ],
+      "features": [
+        "خامة خفيفة وأنيقة",
+        "تصميم عصري",
+        "متوفر بألوان متعددة"
+      ],
+      "quantity": 70,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 5,
+      "department": "ملابس",
+      "keywords": "فستان صيفي حريمي ملابس حريمي ملابس"
+    },
+    "p114": {
+      "id": "p114",
+      "merchant_id": 1,
+      "name": "طقم أطفال قطن موديل جديد",
+      "description": "طقم أطفال قطن بجودة عالية وسعر مناسب",
+      "mainDescription": "طقم أطفال قطن من فئة ملابس أطفال، ألوان زاهية، قماش ناعم على البشرة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 8400,
+      "cost_price": 6400,
+      "discount": 10,
+      "image": "https://picsum.photos/seed/p114/600/600",
+      "type": "ملابس أطفال",
+      "options": [
+        {
+          "name": "ذهبي - M",
+          "custom_price": 8800,
+          "image": ""
+        },
+        {
+          "name": "أخضر - L",
+          "custom_price": 8400,
+          "image": ""
+        },
+        {
+          "name": "ذهبي - XL",
+          "custom_price": 8400,
+          "image": ""
+        }
+      ],
+      "features": [
+        "ألوان زاهية",
+        "قماش ناعم على البشرة"
+      ],
+      "quantity": 40,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 9,
+      "department": "ملابس",
+      "keywords": "طقم أطفال قطن ملابس أطفال ملابس"
+    },
+    "p115": {
+      "id": "p115",
+      "merchant_id": 1,
+      "name": "طقم سكاكين مطبخ",
+      "description": "طقم سكاكين مطبخ بجودة عالية وسعر مناسب",
+      "mainDescription": "طقم سكاكين مطبخ من فئة أدوات مطبخ، ستانلس ستيل عالي الجودة، سهل التنظيف. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 39700,
+      "cost_price": 25900,
+      "discount": 0,
+      "image": "https://picsum.photos/seed/p115/600/600",
+      "type": "أدوات مطبخ",
+      "options": [],
+      "features": [
+        "ستانلس ستيل عالي الجودة",
+        "سهل التنظيف"
+      ],
+      "quantity": 63,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 6,
+      "department": "منزل ومطبخ",
+      "keywords": "طقم سكاكين مطبخ أدوات مطبخ منزل ومطبخ"
+    },
+    "p116": {
+      "id": "p116",
+      "merchant_id": 1,
+      "name": "طاولة طعام خشبية بحالة ممتازة",
+      "description": "طاولة طعام خشبية بجودة عالية وسعر مناسب",
+      "mainDescription": "طاولة طعام خشبية من فئة أثاث منزلي، سهل التركيب، خامة متينة، تصميم عصري. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 138700,
+      "cost_price": 104600,
+      "discount": 10,
+      "image": "https://picsum.photos/seed/p116/600/600",
+      "type": "أثاث منزلي",
+      "options": [],
+      "features": [
+        "سهل التركيب",
+        "خامة متينة",
+        "تصميم عصري"
+      ],
+      "quantity": 71,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 10,
+      "department": "منزل ومطبخ",
+      "keywords": "طاولة طعام خشبية أثاث منزلي منزل ومطبخ"
+    },
+    "p117": {
+      "id": "p117",
+      "merchant_id": 1,
+      "name": "ماسك للوجه",
+      "description": "ماسك للوجه بجودة عالية وسعر مناسب",
+      "mainDescription": "ماسك للوجه من فئة العناية بالبشرة، مناسب لجميع أنواع البشرة، خالي من الكحول، نتائج ملحوظة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 8700,
+      "cost_price": 6300,
+      "discount": 12,
+      "image": "https://picsum.photos/seed/p117/600/600",
+      "type": "العناية بالبشرة",
+      "options": [],
+      "features": [
+        "مناسب لجميع أنواع البشرة",
+        "خالي من الكحول",
+        "نتائج ملحوظة"
+      ],
+      "quantity": 56,
+      "quantity_type": "tracked",
+      "is_available": 0,
+      "currency": "YER",
+      "category_id": 11,
+      "department": "مستلزمات جمال",
+      "keywords": "ماسك للوجه العناية بالبشرة مستلزمات جمال"
+    },
+    "p118": {
+      "id": "p118",
+      "merchant_id": 1,
+      "name": "شامبو للشعر الجاف إصدار محدود",
+      "description": "شامبو للشعر الجاف بجودة عالية وسعر مناسب",
+      "mainDescription": "شامبو للشعر الجاف من فئة العناية بالشعر، مناسب للاستخدام اليومي، يمنح لمعان طبيعي، يغذي فروة الرأس. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 2600,
+      "cost_price": 1900,
+      "discount": 5,
+      "image": "https://picsum.photos/seed/p118/600/600",
+      "type": "العناية بالشعر",
+      "options": [],
+      "features": [
+        "مناسب للاستخدام اليومي",
+        "يمنح لمعان طبيعي",
+        "يغذي فروة الرأس"
+      ],
+      "quantity": 7,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 12,
+      "department": "مستلزمات جمال",
+      "keywords": "شامبو للشعر الجاف العناية بالشعر مستلزمات جمال"
+    },
+    "p119": {
+      "id": "p119",
+      "merchant_id": 1,
+      "name": "دراجة هوائية",
+      "description": "دراجة هوائية بجودة عالية وسعر مناسب",
+      "mainDescription": "دراجة هوائية من فئة أدوات رياضية، خامة متينة وقوية، مناسب للاستخدام المنزلي، تصميم مريح. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 198100,
+      "cost_price": 138400,
+      "discount": 0,
+      "image": "https://picsum.photos/seed/p119/600/600",
+      "type": "أدوات رياضية",
+      "options": [],
+      "features": [
+        "خامة متينة وقوية",
+        "مناسب للاستخدام المنزلي",
+        "تصميم مريح"
+      ],
+      "quantity": 19,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 13,
+      "department": "رياضة ولياقة",
+      "keywords": "دراجة هوائية أدوات رياضية رياضة ولياقة"
+    },
+    "p120": {
+      "id": "p120",
+      "merchant_id": 1,
+      "name": "موبايل سامسونج جالاكسي",
+      "description": "موبايل سامسونج جالاكسي بجودة عالية وسعر مناسب",
+      "mainDescription": "موبايل سامسونج جالاكسي من فئة موبايلات، بطارية تدوم طويلاً، كاميرا احترافية. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 22400,
+      "cost_price": 16700,
+      "discount": 0,
+      "image": "https://picsum.photos/seed/p120/600/600",
+      "type": "موبايلات",
+      "options": [
+        {
+          "name": "أخضر - 256 جيجا",
+          "custom_price": 23600,
+          "image": ""
+        },
+        {
+          "name": "أسود - 512 جيجا",
+          "custom_price": 23300,
+          "image": ""
+        },
+        {
+          "name": "أخضر - 64 جيجا",
+          "custom_price": 24600,
+          "image": ""
+        }
+      ],
+      "features": [
+        "بطارية تدوم طويلاً",
+        "كاميرا احترافية"
+      ],
+      "quantity": 59,
+      "quantity_type": "tracked",
+      "is_available": 0,
+      "currency": "YER",
+      "category_id": 2,
+      "department": "إلكترونيات",
+      "keywords": "موبايل سامسونج جالاكسي موبايلات إلكترونيات"
+    },
+    "p121": {
+      "id": "p121",
+      "merchant_id": 1,
+      "name": "سماعة أنكر بحالة ممتازة",
+      "description": "سماعة أنكر بجودة عالية وسعر مناسب",
+      "mainDescription": "سماعة أنكر من فئة سماعات، مقاومة للماء، بلوتوث 5.0. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 7000,
+      "cost_price": 5300,
+      "discount": 0,
+      "image": "https://picsum.photos/seed/p121/600/600",
+      "type": "سماعات",
+      "options": [
+        {
+          "name": "أسود",
+          "custom_price": 7300,
+          "image": ""
+        },
+        {
+          "name": "أزرق",
+          "custom_price": 7000,
+          "image": ""
+        }
+      ],
+      "features": [
+        "مقاومة للماء",
+        "بلوتوث 5.0"
+      ],
+      "quantity": 80,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 3,
+      "department": "إلكترونيات",
+      "keywords": "سماعة أنكر سماعات إلكترونيات"
+    },
+    "p122": {
+      "id": "p122",
+      "merchant_id": 1,
+      "name": "لابتوب ديل انسبايرون",
+      "description": "لابتوب ديل انسبايرون بجودة عالية وسعر مناسب",
+      "mainDescription": "لابتوب ديل انسبايرون من فئة لابتوبات، ذاكرة RAM كبيرة، شاشة عالية الدقة، معالج سريع. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 273200,
+      "cost_price": 208000,
+      "discount": 5,
+      "image": "https://picsum.photos/seed/p122/600/600",
+      "type": "لابتوبات",
+      "options": [],
+      "features": [
+        "ذاكرة RAM كبيرة",
+        "شاشة عالية الدقة",
+        "معالج سريع"
+      ],
+      "quantity": 65,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 7,
+      "department": "إلكترونيات",
+      "keywords": "لابتوب ديل انسبايرون لابتوبات إلكترونيات"
+    },
+    "p123": {
+      "id": "p123",
+      "merchant_id": 1,
+      "name": "واقي شاشة زجاجي",
+      "description": "واقي شاشة زجاجي بجودة عالية وسعر مناسب",
+      "mainDescription": "واقي شاشة زجاجي من فئة اكسسوارات إلكترونية، متوافق مع أغلب الأجهزة، جودة عالية. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 9200,
+      "cost_price": 6800,
+      "discount": 5,
+      "image": "https://picsum.photos/seed/p123/600/600",
+      "type": "اكسسوارات إلكترونية",
+      "options": [],
+      "features": [
+        "متوافق مع أغلب الأجهزة",
+        "جودة عالية"
+      ],
+      "quantity": 29,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 8,
+      "department": "إلكترونيات",
+      "keywords": "واقي شاشة زجاجي اكسسوارات إلكترونية إلكترونيات"
+    },
+    "p124": {
+      "id": "p124",
+      "merchant_id": 1,
+      "name": "تيشيرت رجالي",
+      "description": "تيشيرت رجالي بجودة عالية وسعر مناسب",
+      "mainDescription": "تيشيرت رجالي من فئة ملابس رجالي، قطن 100%، قصة عصرية. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 6700,
+      "cost_price": 4800,
+      "discount": 8,
+      "image": "https://picsum.photos/seed/p124/600/600",
+      "type": "ملابس رجالي",
+      "options": [
+        {
+          "name": "ذهبي - S",
+          "custom_price": 7100,
+          "image": ""
+        },
+        {
+          "name": "أسود - XL",
+          "custom_price": 6900,
+          "image": ""
+        }
+      ],
+      "features": [
+        "قطن 100%",
+        "قصة عصرية"
+      ],
+      "quantity": 18,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 4,
+      "department": "ملابس",
+      "keywords": "تيشيرت رجالي ملابس رجالي ملابس"
+    },
+    "p125": {
+      "id": "p125",
+      "merchant_id": 1,
+      "name": "طقم رياضي حريمي",
+      "description": "طقم رياضي حريمي بجودة عالية وسعر مناسب",
+      "mainDescription": "طقم رياضي حريمي من فئة ملابس حريمي، متوفر بألوان متعددة، تصميم عصري، خامة خفيفة وأنيقة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 17400,
+      "cost_price": 12300,
+      "discount": 20,
+      "image": "https://picsum.photos/seed/p125/600/600",
+      "type": "ملابس حريمي",
+      "options": [
+        {
+          "name": "بني - XXL",
+          "custom_price": 17500,
+          "image": ""
+        },
+        {
+          "name": "رمادي - L",
+          "custom_price": 17600,
+          "image": ""
+        },
+        {
+          "name": "أزرق - L",
+          "custom_price": 17400,
+          "image": ""
+        }
+      ],
+      "features": [
+        "متوفر بألوان متعددة",
+        "تصميم عصري",
+        "خامة خفيفة وأنيقة"
+      ],
+      "quantity": 74,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 5,
+      "department": "ملابس",
+      "keywords": "طقم رياضي حريمي ملابس حريمي ملابس"
+    },
+    "p126": {
+      "id": "p126",
+      "merchant_id": 1,
+      "name": "جاكيت أطفال شتوي بحالة ممتازة",
+      "description": "جاكيت أطفال شتوي بجودة عالية وسعر مناسب",
+      "mainDescription": "جاكيت أطفال شتوي من فئة ملابس أطفال، قماش ناعم على البشرة، مقاسات متعددة، ألوان زاهية. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 7600,
+      "cost_price": 5600,
+      "discount": 10,
+      "image": "https://picsum.photos/seed/p126/600/600",
+      "type": "ملابس أطفال",
+      "options": [],
+      "features": [
+        "قماش ناعم على البشرة",
+        "مقاسات متعددة",
+        "ألوان زاهية"
+      ],
+      "quantity": 22,
+      "quantity_type": "tracked",
+      "is_available": 0,
+      "currency": "YER",
+      "category_id": 9,
+      "department": "ملابس",
+      "keywords": "جاكيت أطفال شتوي ملابس أطفال ملابس"
+    },
+    "p127": {
+      "id": "p127",
+      "merchant_id": 1,
+      "name": "فرن كهربائي صغير",
+      "description": "فرن كهربائي صغير بجودة عالية وسعر مناسب",
+      "mainDescription": "فرن كهربائي صغير من فئة أدوات مطبخ، موزع حرارة متساوٍ، سهل التنظيف، ستانلس ستيل عالي الجودة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 9300,
+      "cost_price": 6100,
+      "discount": 20,
+      "image": "https://picsum.photos/seed/p127/600/600",
+      "type": "أدوات مطبخ",
+      "options": [],
+      "features": [
+        "موزع حرارة متساوٍ",
+        "سهل التنظيف",
+        "ستانلس ستيل عالي الجودة"
+      ],
+      "quantity": 43,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 6,
+      "department": "منزل ومطبخ",
+      "keywords": "فرن كهربائي صغير أدوات مطبخ منزل ومطبخ"
+    },
+    "p128": {
+      "id": "p128",
+      "merchant_id": 1,
+      "name": "سرير حديدي نسخة برو",
+      "description": "سرير حديدي بجودة عالية وسعر مناسب",
+      "mainDescription": "سرير حديدي من فئة أثاث منزلي، تصميم عصري، سهل التركيب، خامة متينة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 74200,
+      "cost_price": 49800,
+      "discount": 12,
+      "image": "https://picsum.photos/seed/p128/600/600",
+      "type": "أثاث منزلي",
+      "options": [],
+      "features": [
+        "تصميم عصري",
+        "سهل التركيب",
+        "خامة متينة"
+      ],
+      "quantity": 79,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 10,
+      "department": "منزل ومطبخ",
+      "keywords": "سرير حديدي أثاث منزلي منزل ومطبخ"
+    },
+    "p129": {
+      "id": "p129",
+      "merchant_id": 1,
+      "name": "سيروم فيتامين سي",
+      "description": "سيروم فيتامين سي بجودة عالية وسعر مناسب",
+      "mainDescription": "سيروم فيتامين سي من فئة العناية بالبشرة، خالي من الكحول، نتائج ملحوظة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 8000,
+      "cost_price": 5900,
+      "discount": 8,
+      "image": "https://picsum.photos/seed/p129/600/600",
+      "type": "العناية بالبشرة",
+      "options": [],
+      "features": [
+        "خالي من الكحول",
+        "نتائج ملحوظة"
+      ],
+      "quantity": 56,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 11,
+      "department": "مستلزمات جمال",
+      "keywords": "سيروم فيتامين سي العناية بالبشرة مستلزمات جمال"
+    },
+    "p130": {
+      "id": "p130",
+      "merchant_id": 1,
+      "name": "سيشوار كهربائي",
+      "description": "سيشوار كهربائي بجودة عالية وسعر مناسب",
+      "mainDescription": "سيشوار كهربائي من فئة العناية بالشعر، يمنح لمعان طبيعي، مناسب للاستخدام اليومي، يغذي فروة الرأس. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 3300,
+      "cost_price": 2300,
+      "discount": 0,
+      "image": "https://picsum.photos/seed/p130/600/600",
+      "type": "العناية بالشعر",
+      "options": [],
+      "features": [
+        "يمنح لمعان طبيعي",
+        "مناسب للاستخدام اليومي",
+        "يغذي فروة الرأس"
+      ],
+      "quantity": 15,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 12,
+      "department": "مستلزمات جمال",
+      "keywords": "سيشوار كهربائي العناية بالشعر مستلزمات جمال"
+    },
+    "p131": {
+      "id": "p131",
+      "merchant_id": 1,
+      "name": "مضرب تنس",
+      "description": "مضرب تنس بجودة عالية وسعر مناسب",
+      "mainDescription": "مضرب تنس من فئة أدوات رياضية، مناسب للاستخدام المنزلي، تصميم مريح. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 65400,
+      "cost_price": 51100,
+      "discount": 12,
+      "image": "https://picsum.photos/seed/p131/600/600",
+      "type": "أدوات رياضية",
+      "options": [],
+      "features": [
+        "مناسب للاستخدام المنزلي",
+        "تصميم مريح"
+      ],
+      "quantity": 37,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 13,
+      "department": "رياضة ولياقة",
+      "keywords": "مضرب تنس أدوات رياضية رياضة ولياقة"
+    },
+    "p132": {
+      "id": "p132",
+      "merchant_id": 1,
+      "name": "موبايل فيفو",
+      "description": "موبايل فيفو بجودة عالية وسعر مناسب",
+      "mainDescription": "موبايل فيفو من فئة موبايلات، شاشة عالية الدقة، ذاكرة كبيرة، كاميرا احترافية. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 31100,
+      "cost_price": 22400,
+      "discount": 5,
+      "image": "https://picsum.photos/seed/p132/600/600",
+      "type": "موبايلات",
+      "options": [],
+      "features": [
+        "شاشة عالية الدقة",
+        "ذاكرة كبيرة",
+        "كاميرا احترافية"
+      ],
+      "quantity": 24,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 2,
+      "department": "إلكترونيات",
+      "keywords": "موبايل فيفو موبايلات إلكترونيات"
+    },
+    "p133": {
+      "id": "p133",
+      "merchant_id": 1,
+      "name": "سماعة ابل ايربودز",
+      "description": "سماعة ابل ايربودز بجودة عالية وسعر مناسب",
+      "mainDescription": "سماعة ابل ايربودز من فئة سماعات، بلوتوث 5.0، مقاومة للماء. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 21500,
+      "cost_price": 14200,
+      "discount": 25,
+      "image": "https://picsum.photos/seed/p133/600/600",
+      "type": "سماعات",
+      "options": [],
+      "features": [
+        "بلوتوث 5.0",
+        "مقاومة للماء"
+      ],
+      "quantity": 13,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 3,
+      "department": "إلكترونيات",
+      "keywords": "سماعة ابل ايربودز سماعات إلكترونيات"
+    },
+    "p134": {
+      "id": "p134",
+      "merchant_id": 1,
+      "name": "لابتوب اتش بي بافيليون",
+      "description": "لابتوب اتش بي بافيليون بجودة عالية وسعر مناسب",
+      "mainDescription": "لابتوب اتش بي بافيليون من فئة لابتوبات، معالج سريع، ذاكرة RAM كبيرة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 154900,
+      "cost_price": 116600,
+      "discount": 12,
+      "image": "https://picsum.photos/seed/p134/600/600",
+      "type": "لابتوبات",
+      "options": [],
+      "features": [
+        "معالج سريع",
+        "ذاكرة RAM كبيرة"
+      ],
+      "quantity": 9,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 7,
+      "department": "إلكترونيات",
+      "keywords": "لابتوب اتش بي بافيليون لابتوبات إلكترونيات"
+    },
+    "p135": {
+      "id": "p135",
+      "merchant_id": 1,
+      "name": "باور بانك",
+      "description": "باور بانك بجودة عالية وسعر مناسب",
+      "mainDescription": "باور بانك من فئة اكسسوارات إلكترونية، جودة عالية، تصميم متين. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 9700,
+      "cost_price": 7300,
+      "discount": 20,
+      "image": "https://picsum.photos/seed/p135/600/600",
+      "type": "اكسسوارات إلكترونية",
+      "options": [
+        {
+          "name": "أسود",
+          "custom_price": 10100,
+          "image": ""
+        },
+        {
+          "name": "أزرق",
+          "custom_price": 10000,
+          "image": ""
+        }
+      ],
+      "features": [
+        "جودة عالية",
+        "تصميم متين"
+      ],
+      "quantity": 12,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 8,
+      "department": "إلكترونيات",
+      "keywords": "باور بانك اكسسوارات إلكترونية إلكترونيات"
+    },
+    "p136": {
+      "id": "p136",
+      "merchant_id": 1,
+      "name": "بدلة رجالية",
+      "description": "بدلة رجالية بجودة عالية وسعر مناسب",
+      "mainDescription": "بدلة رجالية من فئة ملابس رجالي، قطن 100%، قصة عصرية. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 15500,
+      "cost_price": 11100,
+      "discount": 8,
+      "image": "https://picsum.photos/seed/p136/600/600",
+      "type": "ملابس رجالي",
+      "options": [],
+      "features": [
+        "قطن 100%",
+        "قصة عصرية"
+      ],
+      "quantity": 49,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 4,
+      "department": "ملابس",
+      "keywords": "بدلة رجالية ملابس رجالي ملابس"
+    },
+    "p137": {
+      "id": "p137",
+      "merchant_id": 1,
+      "name": "طقم رياضي حريمي",
+      "description": "طقم رياضي حريمي بجودة عالية وسعر مناسب",
+      "mainDescription": "طقم رياضي حريمي من فئة ملابس حريمي، متوفر بألوان متعددة، تصميم عصري، خامة خفيفة وأنيقة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 18700,
+      "cost_price": 12700,
+      "discount": 15,
+      "image": "https://picsum.photos/seed/p137/600/600",
+      "type": "ملابس حريمي",
+      "options": [
+        {
+          "name": "أبيض - XL",
+          "custom_price": 18600,
+          "image": ""
+        },
+        {
+          "name": "فضي - S",
+          "custom_price": 18800,
+          "image": ""
+        }
+      ],
+      "features": [
+        "متوفر بألوان متعددة",
+        "تصميم عصري",
+        "خامة خفيفة وأنيقة"
+      ],
+      "quantity": 15,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 5,
+      "department": "ملابس",
+      "keywords": "طقم رياضي حريمي ملابس حريمي ملابس"
+    },
+    "p138": {
+      "id": "p138",
+      "merchant_id": 1,
+      "name": "فستان بناتي",
+      "description": "فستان بناتي بجودة عالية وسعر مناسب",
+      "mainDescription": "فستان بناتي من فئة ملابس أطفال، قماش ناعم على البشرة، مقاسات متعددة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 8700,
+      "cost_price": 6300,
+      "discount": 8,
+      "image": "https://picsum.photos/seed/p138/600/600",
+      "type": "ملابس أطفال",
+      "options": [
+        {
+          "name": "رمادي - XL",
+          "custom_price": 9100,
+          "image": ""
+        },
+        {
+          "name": "ذهبي - M",
+          "custom_price": 9000,
+          "image": ""
+        }
+      ],
+      "features": [
+        "قماش ناعم على البشرة",
+        "مقاسات متعددة"
+      ],
+      "quantity": 64,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 9,
+      "department": "ملابس",
+      "keywords": "فستان بناتي ملابس أطفال ملابس"
+    },
+    "p139": {
+      "id": "p139",
+      "merchant_id": 1,
+      "name": "فرن كهربائي صغير",
+      "description": "فرن كهربائي صغير بجودة عالية وسعر مناسب",
+      "mainDescription": "فرن كهربائي صغير من فئة أدوات مطبخ، ستانلس ستيل عالي الجودة، سهل التنظيف، موزع حرارة متساوٍ. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 13900,
+      "cost_price": 10700,
+      "discount": 25,
+      "image": "https://picsum.photos/seed/p139/600/600",
+      "type": "أدوات مطبخ",
+      "options": [],
+      "features": [
+        "ستانلس ستيل عالي الجودة",
+        "سهل التنظيف",
+        "موزع حرارة متساوٍ"
+      ],
+      "quantity": 20,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 6,
+      "department": "منزل ومطبخ",
+      "keywords": "فرن كهربائي صغير أدوات مطبخ منزل ومطبخ"
+    },
+    "p140": {
+      "id": "p140",
+      "merchant_id": 1,
+      "name": "طاولة طعام خشبية إصدار محدود",
+      "description": "طاولة طعام خشبية بجودة عالية وسعر مناسب",
+      "mainDescription": "طاولة طعام خشبية من فئة أثاث منزلي، تصميم عصري، خامة متينة، سهل التركيب. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 141900,
+      "cost_price": 108100,
+      "discount": 15,
+      "image": "https://picsum.photos/seed/p140/600/600",
+      "type": "أثاث منزلي",
+      "options": [],
+      "features": [
+        "تصميم عصري",
+        "خامة متينة",
+        "سهل التركيب"
+      ],
+      "quantity": 9,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 10,
+      "department": "منزل ومطبخ",
+      "keywords": "طاولة طعام خشبية أثاث منزلي منزل ومطبخ"
+    },
+    "p141": {
+      "id": "p141",
+      "merchant_id": 1,
+      "name": "كريم مرطب للبشرة",
+      "description": "كريم مرطب للبشرة بجودة عالية وسعر مناسب",
+      "mainDescription": "كريم مرطب للبشرة من فئة العناية بالبشرة، مناسب لجميع أنواع البشرة، خالي من الكحول. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 8800,
+      "cost_price": 7000,
+      "discount": 8,
+      "image": "https://picsum.photos/seed/p141/600/600",
+      "type": "العناية بالبشرة",
+      "options": [],
+      "features": [
+        "مناسب لجميع أنواع البشرة",
+        "خالي من الكحول"
+      ],
+      "quantity": 12,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 11,
+      "department": "مستلزمات جمال",
+      "keywords": "كريم مرطب للبشرة العناية بالبشرة مستلزمات جمال"
+    },
+    "p142": {
+      "id": "p142",
+      "merchant_id": 1,
+      "name": "بلسم مرطب",
+      "description": "بلسم مرطب بجودة عالية وسعر مناسب",
+      "mainDescription": "بلسم مرطب من فئة العناية بالشعر، يغذي فروة الرأس، يمنح لمعان طبيعي. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 13000,
+      "cost_price": 9300,
+      "discount": 12,
+      "image": "https://picsum.photos/seed/p142/600/600",
+      "type": "العناية بالشعر",
+      "options": [],
+      "features": [
+        "يغذي فروة الرأس",
+        "يمنح لمعان طبيعي"
+      ],
+      "quantity": 67,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 12,
+      "department": "مستلزمات جمال",
+      "keywords": "بلسم مرطب العناية بالشعر مستلزمات جمال"
+    },
+    "p143": {
+      "id": "p143",
+      "merchant_id": 1,
+      "name": "مضرب تنس",
+      "description": "مضرب تنس بجودة عالية وسعر مناسب",
+      "mainDescription": "مضرب تنس من فئة أدوات رياضية، مناسب للاستخدام المنزلي، خامة متينة وقوية. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 88000,
+      "cost_price": 57800,
+      "discount": 20,
+      "image": "https://picsum.photos/seed/p143/600/600",
+      "type": "أدوات رياضية",
+      "options": [],
+      "features": [
+        "مناسب للاستخدام المنزلي",
+        "خامة متينة وقوية"
+      ],
+      "quantity": 27,
+      "quantity_type": "tracked",
+      "is_available": 0,
+      "currency": "YER",
+      "category_id": 13,
+      "department": "رياضة ولياقة",
+      "keywords": "مضرب تنس أدوات رياضية رياضة ولياقة"
+    },
+    "p144": {
+      "id": "p144",
+      "merchant_id": 1,
+      "name": "آيفون",
+      "description": "آيفون بجودة عالية وسعر مناسب",
+      "mainDescription": "آيفون من فئة موبايلات، شاشة عالية الدقة، ذاكرة كبيرة، بطارية تدوم طويلاً. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 58000,
+      "cost_price": 40900,
+      "discount": 0,
+      "image": "https://picsum.photos/seed/p144/600/600",
+      "type": "موبايلات",
+      "options": [],
+      "features": [
+        "شاشة عالية الدقة",
+        "ذاكرة كبيرة",
+        "بطارية تدوم طويلاً"
+      ],
+      "quantity": 16,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 2,
+      "department": "إلكترونيات",
+      "keywords": "آيفون موبايلات إلكترونيات"
+    },
+    "p145": {
+      "id": "p145",
+      "merchant_id": 1,
+      "name": "سماعة ابل ايربودز",
+      "description": "سماعة ابل ايربودز بجودة عالية وسعر مناسب",
+      "mainDescription": "سماعة ابل ايربودز من فئة سماعات، مقاومة للماء، بلوتوث 5.0، بطارية طويلة العمر. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 8000,
+      "cost_price": 6300,
+      "discount": 12,
+      "image": "https://picsum.photos/seed/p145/600/600",
+      "type": "سماعات",
+      "options": [
+        {
+          "name": "ذهبي",
+          "custom_price": 8100,
+          "image": ""
+        },
+        {
+          "name": "أخضر",
+          "custom_price": 8400,
+          "image": ""
+        }
+      ],
+      "features": [
+        "مقاومة للماء",
+        "بلوتوث 5.0",
+        "بطارية طويلة العمر"
+      ],
+      "quantity": 23,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 3,
+      "department": "إلكترونيات",
+      "keywords": "سماعة ابل ايربودز سماعات إلكترونيات"
+    },
+    "p146": {
+      "id": "p146",
+      "merchant_id": 1,
+      "name": "لابتوب ابل ماك بوك نسخة برو",
+      "description": "لابتوب ابل ماك بوك بجودة عالية وسعر مناسب",
+      "mainDescription": "لابتوب ابل ماك بوك من فئة لابتوبات، شاشة عالية الدقة، قرص SSD. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 278500,
+      "cost_price": 204000,
+      "discount": 8,
+      "image": "https://picsum.photos/seed/p146/600/600",
+      "type": "لابتوبات",
+      "options": [],
+      "features": [
+        "شاشة عالية الدقة",
+        "قرص SSD"
+      ],
+      "quantity": 44,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 7,
+      "department": "إلكترونيات",
+      "keywords": "لابتوب ابل ماك بوك لابتوبات إلكترونيات"
+    },
+    "p147": {
+      "id": "p147",
+      "merchant_id": 1,
+      "name": "كابل شحن نوع C",
+      "description": "كابل شحن نوع C بجودة عالية وسعر مناسب",
+      "mainDescription": "كابل شحن نوع C من فئة اكسسوارات إلكترونية، تصميم متين، متوافق مع أغلب الأجهزة، جودة عالية. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 10900,
+      "cost_price": 7600,
+      "discount": 10,
+      "image": "https://picsum.photos/seed/p147/600/600",
+      "type": "اكسسوارات إلكترونية",
+      "options": [],
+      "features": [
+        "تصميم متين",
+        "متوافق مع أغلب الأجهزة",
+        "جودة عالية"
+      ],
+      "quantity": 35,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 8,
+      "department": "إلكترونيات",
+      "keywords": "كابل شحن نوع C اكسسوارات إلكترونية إلكترونيات"
+    },
+    "p148": {
+      "id": "p148",
+      "merchant_id": 1,
+      "name": "جاكيت رجالي نسخة برو",
+      "description": "جاكيت رجالي بجودة عالية وسعر مناسب",
+      "mainDescription": "جاكيت رجالي من فئة ملابس رجالي، خامة متينة، قطن 100%. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 11400,
+      "cost_price": 7700,
+      "discount": 10,
+      "image": "https://picsum.photos/seed/p148/600/600",
+      "type": "ملابس رجالي",
+      "options": [
+        {
+          "name": "أزرق - L",
+          "custom_price": 11800,
+          "image": ""
+        },
+        {
+          "name": "رمادي - M",
+          "custom_price": 11600,
+          "image": ""
+        }
+      ],
+      "features": [
+        "خامة متينة",
+        "قطن 100%"
+      ],
+      "quantity": 69,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 4,
+      "department": "ملابس",
+      "keywords": "جاكيت رجالي ملابس رجالي ملابس"
+    },
+    "p149": {
+      "id": "p149",
+      "merchant_id": 1,
+      "name": "فستان صيفي حريمي",
+      "description": "فستان صيفي حريمي بجودة عالية وسعر مناسب",
+      "mainDescription": "فستان صيفي حريمي من فئة ملابس حريمي، متوفر بألوان متعددة، تصميم عصري، خامة خفيفة وأنيقة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 27200,
+      "cost_price": 17700,
+      "discount": 8,
+      "image": "https://picsum.photos/seed/p149/600/600",
+      "type": "ملابس حريمي",
+      "options": [],
+      "features": [
+        "متوفر بألوان متعددة",
+        "تصميم عصري",
+        "خامة خفيفة وأنيقة"
+      ],
+      "quantity": 30,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 5,
+      "department": "ملابس",
+      "keywords": "فستان صيفي حريمي ملابس حريمي ملابس"
+    },
+    "p150": {
+      "id": "p150",
+      "merchant_id": 1,
+      "name": "جاكيت أطفال شتوي موديل جديد",
+      "description": "جاكيت أطفال شتوي بجودة عالية وسعر مناسب",
+      "mainDescription": "جاكيت أطفال شتوي من فئة ملابس أطفال، قماش ناعم على البشرة، ألوان زاهية. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 3300,
+      "cost_price": 2400,
+      "discount": 5,
+      "image": "https://picsum.photos/seed/p150/600/600",
+      "type": "ملابس أطفال",
+      "options": [],
+      "features": [
+        "قماش ناعم على البشرة",
+        "ألوان زاهية"
+      ],
+      "quantity": 0,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 9,
+      "department": "ملابس",
+      "keywords": "جاكيت أطفال شتوي ملابس أطفال ملابس"
+    },
+    "p151": {
+      "id": "p151",
+      "merchant_id": 1,
+      "name": "طقم تخزين بلاستيك بحالة ممتازة",
+      "description": "طقم تخزين بلاستيك بجودة عالية وسعر مناسب",
+      "mainDescription": "طقم تخزين بلاستيك من فئة أدوات مطبخ، سهل التنظيف، ستانلس ستيل عالي الجودة، موزع حرارة متساوٍ. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 7200,
+      "cost_price": 5700,
+      "discount": 0,
+      "image": "https://picsum.photos/seed/p151/600/600",
+      "type": "أدوات مطبخ",
+      "options": [],
+      "features": [
+        "سهل التنظيف",
+        "ستانلس ستيل عالي الجودة",
+        "موزع حرارة متساوٍ"
+      ],
+      "quantity": 5,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 6,
+      "department": "منزل ومطبخ",
+      "keywords": "طقم تخزين بلاستيك أدوات مطبخ منزل ومطبخ"
+    },
+    "p152": {
+      "id": "p152",
+      "merchant_id": 1,
+      "name": "أريكة صغيرة",
+      "description": "أريكة صغيرة بجودة عالية وسعر مناسب",
+      "mainDescription": "أريكة صغيرة من فئة أثاث منزلي، سهل التركيب، تصميم عصري. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 100600,
+      "cost_price": 67700,
+      "discount": 0,
+      "image": "https://picsum.photos/seed/p152/600/600",
+      "type": "أثاث منزلي",
+      "options": [],
+      "features": [
+        "سهل التركيب",
+        "تصميم عصري"
+      ],
+      "quantity": 12,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 10,
+      "department": "منزل ومطبخ",
+      "keywords": "أريكة صغيرة أثاث منزلي منزل ومطبخ"
+    },
+    "p153": {
+      "id": "p153",
+      "merchant_id": 1,
+      "name": "كريم مرطب للبشرة",
+      "description": "كريم مرطب للبشرة بجودة عالية وسعر مناسب",
+      "mainDescription": "كريم مرطب للبشرة من فئة العناية بالبشرة، مناسب لجميع أنواع البشرة، خالي من الكحول. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 10900,
+      "cost_price": 8600,
+      "discount": 25,
+      "image": "https://picsum.photos/seed/p153/600/600",
+      "type": "العناية بالبشرة",
+      "options": [],
+      "features": [
+        "مناسب لجميع أنواع البشرة",
+        "خالي من الكحول"
+      ],
+      "quantity": 20,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 11,
+      "department": "مستلزمات جمال",
+      "keywords": "كريم مرطب للبشرة العناية بالبشرة مستلزمات جمال"
+    },
+    "p154": {
+      "id": "p154",
+      "merchant_id": 1,
+      "name": "بلسم مرطب",
+      "description": "بلسم مرطب بجودة عالية وسعر مناسب",
+      "mainDescription": "بلسم مرطب من فئة العناية بالشعر، مناسب للاستخدام اليومي، يمنح لمعان طبيعي. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 2700,
+      "cost_price": 1900,
+      "discount": 15,
+      "image": "https://picsum.photos/seed/p154/600/600",
+      "type": "العناية بالشعر",
+      "options": [],
+      "features": [
+        "مناسب للاستخدام اليومي",
+        "يمنح لمعان طبيعي"
+      ],
+      "quantity": 41,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 12,
+      "department": "مستلزمات جمال",
+      "keywords": "بلسم مرطب العناية بالشعر مستلزمات جمال"
+    },
+    "p155": {
+      "id": "p155",
+      "merchant_id": 1,
+      "name": "كرة قدم",
+      "description": "كرة قدم بجودة عالية وسعر مناسب",
+      "mainDescription": "كرة قدم من فئة أدوات رياضية، خامة متينة وقوية، مناسب للاستخدام المنزلي. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 120200,
+      "cost_price": 79200,
+      "discount": 8,
+      "image": "https://picsum.photos/seed/p155/600/600",
+      "type": "أدوات رياضية",
+      "options": [],
+      "features": [
+        "خامة متينة وقوية",
+        "مناسب للاستخدام المنزلي"
+      ],
+      "quantity": 28,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 13,
+      "department": "رياضة ولياقة",
+      "keywords": "كرة قدم أدوات رياضية رياضة ولياقة"
+    },
+    "p156": {
+      "id": "p156",
+      "merchant_id": 1,
+      "name": "موبايل انفينكس",
+      "description": "موبايل انفينكس بجودة عالية وسعر مناسب",
+      "mainDescription": "موبايل انفينكس من فئة موبايلات، دعم الشحن السريع، بطارية تدوم طويلاً. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 116400,
+      "cost_price": 89600,
+      "discount": 20,
+      "image": "https://picsum.photos/seed/p156/600/600",
+      "type": "موبايلات",
+      "options": [
+        {
+          "name": "أخضر - 512 جيجا",
+          "custom_price": 122500,
+          "image": ""
+        },
+        {
+          "name": "أبيض - 64 جيجا",
+          "custom_price": 119400,
+          "image": ""
+        }
+      ],
+      "features": [
+        "دعم الشحن السريع",
+        "بطارية تدوم طويلاً"
+      ],
+      "quantity": 27,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 2,
+      "department": "إلكترونيات",
+      "keywords": "موبايل انفينكس موبايلات إلكترونيات"
+    },
+    "p157": {
+      "id": "p157",
+      "merchant_id": 1,
+      "name": "سماعة سوني لاسلكية",
+      "description": "سماعة سوني لاسلكية بجودة عالية وسعر مناسب",
+      "mainDescription": "سماعة سوني لاسلكية من فئة سماعات، بطارية طويلة العمر، مقاومة للماء، صوت نقي وواضح. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 10100,
+      "cost_price": 7300,
+      "discount": 15,
+      "image": "https://picsum.photos/seed/p157/600/600",
+      "type": "سماعات",
+      "options": [
+        {
+          "name": "أخضر",
+          "custom_price": 10400,
+          "image": ""
+        },
+        {
+          "name": "أحمر",
+          "custom_price": 10300,
+          "image": ""
+        }
+      ],
+      "features": [
+        "بطارية طويلة العمر",
+        "مقاومة للماء",
+        "صوت نقي وواضح"
+      ],
+      "quantity": 53,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 3,
+      "department": "إلكترونيات",
+      "keywords": "سماعة سوني لاسلكية سماعات إلكترونيات"
+    },
+    "p158": {
+      "id": "p158",
+      "merchant_id": 1,
+      "name": "لابتوب ديل انسبايرون نسخة برو",
+      "description": "لابتوب ديل انسبايرون بجودة عالية وسعر مناسب",
+      "mainDescription": "لابتوب ديل انسبايرون من فئة لابتوبات، شاشة عالية الدقة، معالج سريع. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 196700,
+      "cost_price": 151600,
+      "discount": 25,
+      "image": "https://picsum.photos/seed/p158/600/600",
+      "type": "لابتوبات",
+      "options": [],
+      "features": [
+        "شاشة عالية الدقة",
+        "معالج سريع"
+      ],
+      "quantity": 4,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 7,
+      "department": "إلكترونيات",
+      "keywords": "لابتوب ديل انسبايرون لابتوبات إلكترونيات"
+    },
+    "p159": {
+      "id": "p159",
+      "merchant_id": 1,
+      "name": "حافظة موبايل",
+      "description": "حافظة موبايل بجودة عالية وسعر مناسب",
+      "mainDescription": "حافظة موبايل من فئة اكسسوارات إلكترونية، متوافق مع أغلب الأجهزة، جودة عالية، تصميم متين. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 7500,
+      "cost_price": 5400,
+      "discount": 12,
+      "image": "https://picsum.photos/seed/p159/600/600",
+      "type": "اكسسوارات إلكترونية",
+      "options": [],
+      "features": [
+        "متوافق مع أغلب الأجهزة",
+        "جودة عالية",
+        "تصميم متين"
+      ],
+      "quantity": 49,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 8,
+      "department": "إلكترونيات",
+      "keywords": "حافظة موبايل اكسسوارات إلكترونية إلكترونيات"
+    },
+    "p160": {
+      "id": "p160",
+      "merchant_id": 1,
+      "name": "تيشيرت رجالي",
+      "description": "تيشيرت رجالي بجودة عالية وسعر مناسب",
+      "mainDescription": "تيشيرت رجالي من فئة ملابس رجالي، خامة متينة، قصة عصرية، قطن 100%. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 15000,
+      "cost_price": 10700,
+      "discount": 8,
+      "image": "https://picsum.photos/seed/p160/600/600",
+      "type": "ملابس رجالي",
+      "options": [],
+      "features": [
+        "خامة متينة",
+        "قصة عصرية",
+        "قطن 100%"
+      ],
+      "quantity": 71,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 4,
+      "department": "ملابس",
+      "keywords": "تيشيرت رجالي ملابس رجالي ملابس"
+    },
+    "p161": {
+      "id": "p161",
+      "merchant_id": 1,
+      "name": "بلوزة حريمي بحالة ممتازة",
+      "description": "بلوزة حريمي بجودة عالية وسعر مناسب",
+      "mainDescription": "بلوزة حريمي من فئة ملابس حريمي، تصميم عصري، خامة خفيفة وأنيقة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 25000,
+      "cost_price": 18700,
+      "discount": 15,
+      "image": "https://picsum.photos/seed/p161/600/600",
+      "type": "ملابس حريمي",
+      "options": [
+        {
+          "name": "فضي - XL",
+          "custom_price": 25400,
+          "image": ""
+        },
+        {
+          "name": "أحمر - L",
+          "custom_price": 25300,
+          "image": ""
+        }
+      ],
+      "features": [
+        "تصميم عصري",
+        "خامة خفيفة وأنيقة"
+      ],
+      "quantity": 11,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 5,
+      "department": "ملابس",
+      "keywords": "بلوزة حريمي ملابس حريمي ملابس"
+    },
+    "p162": {
+      "id": "p162",
+      "merchant_id": 1,
+      "name": "جاكيت أطفال شتوي موديل جديد",
+      "description": "جاكيت أطفال شتوي بجودة عالية وسعر مناسب",
+      "mainDescription": "جاكيت أطفال شتوي من فئة ملابس أطفال، مقاسات متعددة، ألوان زاهية. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 4300,
+      "cost_price": 2900,
+      "discount": 12,
+      "image": "https://picsum.photos/seed/p162/600/600",
+      "type": "ملابس أطفال",
+      "options": [
+        {
+          "name": "أسود - S",
+          "custom_price": 4100,
+          "image": ""
+        },
+        {
+          "name": "ذهبي - S",
+          "custom_price": 4100,
+          "image": ""
+        }
+      ],
+      "features": [
+        "مقاسات متعددة",
+        "ألوان زاهية"
+      ],
+      "quantity": 32,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 9,
+      "department": "ملابس",
+      "keywords": "جاكيت أطفال شتوي ملابس أطفال ملابس"
+    },
+    "p163": {
+      "id": "p163",
+      "merchant_id": 1,
+      "name": "خلاط كهربائي",
+      "description": "خلاط كهربائي بجودة عالية وسعر مناسب",
+      "mainDescription": "خلاط كهربائي من فئة أدوات مطبخ، موزع حرارة متساوٍ، سهل التنظيف. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 44500,
+      "cost_price": 29500,
+      "discount": 0,
+      "image": "https://picsum.photos/seed/p163/600/600",
+      "type": "أدوات مطبخ",
+      "options": [],
+      "features": [
+        "موزع حرارة متساوٍ",
+        "سهل التنظيف"
+      ],
+      "quantity": 10,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 6,
+      "department": "منزل ومطبخ",
+      "keywords": "خلاط كهربائي أدوات مطبخ منزل ومطبخ"
+    },
+    "p164": {
+      "id": "p164",
+      "merchant_id": 1,
+      "name": "كرسي مكتب",
+      "description": "كرسي مكتب بجودة عالية وسعر مناسب",
+      "mainDescription": "كرسي مكتب من فئة أثاث منزلي، سهل التركيب، تصميم عصري. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 116500,
+      "cost_price": 82500,
+      "discount": 0,
+      "image": "https://picsum.photos/seed/p164/600/600",
+      "type": "أثاث منزلي",
+      "options": [],
+      "features": [
+        "سهل التركيب",
+        "تصميم عصري"
+      ],
+      "quantity": 75,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 10,
+      "department": "منزل ومطبخ",
+      "keywords": "كرسي مكتب أثاث منزلي منزل ومطبخ"
+    },
+    "p165": {
+      "id": "p165",
+      "merchant_id": 1,
+      "name": "غسول وجه موديل جديد",
+      "description": "غسول وجه بجودة عالية وسعر مناسب",
+      "mainDescription": "غسول وجه من فئة العناية بالبشرة، نتائج ملحوظة، خالي من الكحول. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 11400,
+      "cost_price": 7500,
+      "discount": 8,
+      "image": "https://picsum.photos/seed/p165/600/600",
+      "type": "العناية بالبشرة",
+      "options": [],
+      "features": [
+        "نتائج ملحوظة",
+        "خالي من الكحول"
+      ],
+      "quantity": 61,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 11,
+      "department": "مستلزمات جمال",
+      "keywords": "غسول وجه العناية بالبشرة مستلزمات جمال"
+    },
+    "p166": {
+      "id": "p166",
+      "merchant_id": 1,
+      "name": "زيت الأرغان للشعر",
+      "description": "زيت الأرغان للشعر بجودة عالية وسعر مناسب",
+      "mainDescription": "زيت الأرغان للشعر من فئة العناية بالشعر، يمنح لمعان طبيعي، يغذي فروة الرأس، مناسب للاستخدام اليومي. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 12000,
+      "cost_price": 8400,
+      "discount": 15,
+      "image": "https://picsum.photos/seed/p166/600/600",
+      "type": "العناية بالشعر",
+      "options": [],
+      "features": [
+        "يمنح لمعان طبيعي",
+        "يغذي فروة الرأس",
+        "مناسب للاستخدام اليومي"
+      ],
+      "quantity": 45,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 12,
+      "department": "مستلزمات جمال",
+      "keywords": "زيت الأرغان للشعر العناية بالشعر مستلزمات جمال"
+    },
+    "p167": {
+      "id": "p167",
+      "merchant_id": 1,
+      "name": "دمبل حديد",
+      "description": "دمبل حديد بجودة عالية وسعر مناسب",
+      "mainDescription": "دمبل حديد من فئة أدوات رياضية، مناسب للاستخدام المنزلي، خامة متينة وقوية، تصميم مريح. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 80200,
+      "cost_price": 60000,
+      "discount": 12,
+      "image": "https://picsum.photos/seed/p167/600/600",
+      "type": "أدوات رياضية",
+      "options": [],
+      "features": [
+        "مناسب للاستخدام المنزلي",
+        "خامة متينة وقوية",
+        "تصميم مريح"
+      ],
+      "quantity": 0,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 13,
+      "department": "رياضة ولياقة",
+      "keywords": "دمبل حديد أدوات رياضية رياضة ولياقة"
+    },
+    "p168": {
+      "id": "p168",
+      "merchant_id": 1,
+      "name": "موبايل سامسونج جالاكسي بحالة ممتازة",
+      "description": "موبايل سامسونج جالاكسي بجودة عالية وسعر مناسب",
+      "mainDescription": "موبايل سامسونج جالاكسي من فئة موبايلات، ذاكرة كبيرة، شاشة عالية الدقة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 119900,
+      "cost_price": 92400,
+      "discount": 15,
+      "image": "https://picsum.photos/seed/p168/600/600",
+      "type": "موبايلات",
+      "options": [],
+      "features": [
+        "ذاكرة كبيرة",
+        "شاشة عالية الدقة"
+      ],
+      "quantity": 25,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 2,
+      "department": "إلكترونيات",
+      "keywords": "موبايل سامسونج جالاكسي موبايلات إلكترونيات"
+    },
+    "p169": {
+      "id": "p169",
+      "merchant_id": 1,
+      "name": "سماعة استوديو للألعاب إصدار محدود",
+      "description": "سماعة استوديو للألعاب بجودة عالية وسعر مناسب",
+      "mainDescription": "سماعة استوديو للألعاب من فئة سماعات، صوت نقي وواضح، مقاومة للماء، بطارية طويلة العمر. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 9700,
+      "cost_price": 6500,
+      "discount": 25,
+      "image": "https://picsum.photos/seed/p169/600/600",
+      "type": "سماعات",
+      "options": [
+        {
+          "name": "فضي",
+          "custom_price": 9700,
+          "image": ""
+        },
+        {
+          "name": "ذهبي",
+          "custom_price": 9900,
+          "image": ""
+        },
+        {
+          "name": "أحمر",
+          "custom_price": 10100,
+          "image": ""
+        }
+      ],
+      "features": [
+        "صوت نقي وواضح",
+        "مقاومة للماء",
+        "بطارية طويلة العمر"
+      ],
+      "quantity": 60,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 3,
+      "department": "إلكترونيات",
+      "keywords": "سماعة استوديو للألعاب سماعات إلكترونيات"
+    },
+    "p170": {
+      "id": "p170",
+      "merchant_id": 1,
+      "name": "لابتوب لينوفو ثينك باد نسخة برو",
+      "description": "لابتوب لينوفو ثينك باد بجودة عالية وسعر مناسب",
+      "mainDescription": "لابتوب لينوفو ثينك باد من فئة لابتوبات، شاشة عالية الدقة، قرص SSD، ذاكرة RAM كبيرة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 219100,
+      "cost_price": 170600,
+      "discount": 0,
+      "image": "https://picsum.photos/seed/p170/600/600",
+      "type": "لابتوبات",
+      "options": [],
+      "features": [
+        "شاشة عالية الدقة",
+        "قرص SSD",
+        "ذاكرة RAM كبيرة"
+      ],
+      "quantity": 78,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 7,
+      "department": "إلكترونيات",
+      "keywords": "لابتوب لينوفو ثينك باد لابتوبات إلكترونيات"
+    },
+    "p171": {
+      "id": "p171",
+      "merchant_id": 1,
+      "name": "حافظة موبايل",
+      "description": "حافظة موبايل بجودة عالية وسعر مناسب",
+      "mainDescription": "حافظة موبايل من فئة اكسسوارات إلكترونية، متوافق مع أغلب الأجهزة، جودة عالية، تصميم متين. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 13900,
+      "cost_price": 9300,
+      "discount": 25,
+      "image": "https://picsum.photos/seed/p171/600/600",
+      "type": "اكسسوارات إلكترونية",
+      "options": [
+        {
+          "name": "أسود",
+          "custom_price": 14000,
+          "image": ""
+        },
+        {
+          "name": "أخضر",
+          "custom_price": 13800,
+          "image": ""
+        }
+      ],
+      "features": [
+        "متوافق مع أغلب الأجهزة",
+        "جودة عالية",
+        "تصميم متين"
+      ],
+      "quantity": 37,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 8,
+      "department": "إلكترونيات",
+      "keywords": "حافظة موبايل اكسسوارات إلكترونية إلكترونيات"
+    },
+    "p172": {
+      "id": "p172",
+      "merchant_id": 1,
+      "name": "تيشيرت رجالي إصدار محدود",
+      "description": "تيشيرت رجالي بجودة عالية وسعر مناسب",
+      "mainDescription": "تيشيرت رجالي من فئة ملابس رجالي، خامة متينة، قصة عصرية. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 8900,
+      "cost_price": 6500,
+      "discount": 10,
+      "image": "https://picsum.photos/seed/p172/600/600",
+      "type": "ملابس رجالي",
+      "options": [],
+      "features": [
+        "خامة متينة",
+        "قصة عصرية"
+      ],
+      "quantity": 40,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 4,
+      "department": "ملابس",
+      "keywords": "تيشيرت رجالي ملابس رجالي ملابس"
+    },
+    "p173": {
+      "id": "p173",
+      "merchant_id": 1,
+      "name": "عباية نسائية بحالة ممتازة",
+      "description": "عباية نسائية بجودة عالية وسعر مناسب",
+      "mainDescription": "عباية نسائية من فئة ملابس حريمي، متوفر بألوان متعددة، تصميم عصري. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 6400,
+      "cost_price": 5000,
+      "discount": 5,
+      "image": "https://picsum.photos/seed/p173/600/600",
+      "type": "ملابس حريمي",
+      "options": [
+        {
+          "name": "أخضر - L",
+          "custom_price": 6400,
+          "image": ""
+        },
+        {
+          "name": "ذهبي - M",
+          "custom_price": 6400,
+          "image": ""
+        }
+      ],
+      "features": [
+        "متوفر بألوان متعددة",
+        "تصميم عصري"
+      ],
+      "quantity": 77,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 5,
+      "department": "ملابس",
+      "keywords": "عباية نسائية ملابس حريمي ملابس"
+    },
+    "p174": {
+      "id": "p174",
+      "merchant_id": 1,
+      "name": "طقم أطفال قطن",
+      "description": "طقم أطفال قطن بجودة عالية وسعر مناسب",
+      "mainDescription": "طقم أطفال قطن من فئة ملابس أطفال، قماش ناعم على البشرة، ألوان زاهية. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 8300,
+      "cost_price": 6200,
+      "discount": 5,
+      "image": "https://picsum.photos/seed/p174/600/600",
+      "type": "ملابس أطفال",
+      "options": [
+        {
+          "name": "فضي - XXL",
+          "custom_price": 8400,
+          "image": ""
+        },
+        {
+          "name": "أخضر - L",
+          "custom_price": 8300,
+          "image": ""
+        },
+        {
+          "name": "ذهبي - XL",
+          "custom_price": 8600,
+          "image": ""
+        }
+      ],
+      "features": [
+        "قماش ناعم على البشرة",
+        "ألوان زاهية"
+      ],
+      "quantity": 21,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 9,
+      "department": "ملابس",
+      "keywords": "طقم أطفال قطن ملابس أطفال ملابس"
+    },
+    "p175": {
+      "id": "p175",
+      "merchant_id": 1,
+      "name": "مقلاة تيفال",
+      "description": "مقلاة تيفال بجودة عالية وسعر مناسب",
+      "mainDescription": "مقلاة تيفال من فئة أدوات مطبخ، ستانلس ستيل عالي الجودة، سهل التنظيف. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 7400,
+      "cost_price": 5000,
+      "discount": 8,
+      "image": "https://picsum.photos/seed/p175/600/600",
+      "type": "أدوات مطبخ",
+      "options": [],
+      "features": [
+        "ستانلس ستيل عالي الجودة",
+        "سهل التنظيف"
+      ],
+      "quantity": 7,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 6,
+      "department": "منزل ومطبخ",
+      "keywords": "مقلاة تيفال أدوات مطبخ منزل ومطبخ"
+    },
+    "p176": {
+      "id": "p176",
+      "merchant_id": 1,
+      "name": "أريكة صغيرة",
+      "description": "أريكة صغيرة بجودة عالية وسعر مناسب",
+      "mainDescription": "أريكة صغيرة من فئة أثاث منزلي، سهل التركيب، تصميم عصري. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 179400,
+      "cost_price": 132800,
+      "discount": 5,
+      "image": "https://picsum.photos/seed/p176/600/600",
+      "type": "أثاث منزلي",
+      "options": [],
+      "features": [
+        "سهل التركيب",
+        "تصميم عصري"
+      ],
+      "quantity": 51,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 10,
+      "department": "منزل ومطبخ",
+      "keywords": "أريكة صغيرة أثاث منزلي منزل ومطبخ"
+    },
+    "p177": {
+      "id": "p177",
+      "merchant_id": 1,
+      "name": "ماسك للوجه",
+      "description": "ماسك للوجه بجودة عالية وسعر مناسب",
+      "mainDescription": "ماسك للوجه من فئة العناية بالبشرة، نتائج ملحوظة، خالي من الكحول. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 3100,
+      "cost_price": 2200,
+      "discount": 15,
+      "image": "https://picsum.photos/seed/p177/600/600",
+      "type": "العناية بالبشرة",
+      "options": [],
+      "features": [
+        "نتائج ملحوظة",
+        "خالي من الكحول"
+      ],
+      "quantity": 52,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 11,
+      "department": "مستلزمات جمال",
+      "keywords": "ماسك للوجه العناية بالبشرة مستلزمات جمال"
+    },
+    "p178": {
+      "id": "p178",
+      "merchant_id": 1,
+      "name": "شامبو للشعر الجاف",
+      "description": "شامبو للشعر الجاف بجودة عالية وسعر مناسب",
+      "mainDescription": "شامبو للشعر الجاف من فئة العناية بالشعر، مناسب للاستخدام اليومي، يمنح لمعان طبيعي، يغذي فروة الرأس. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 5100,
+      "cost_price": 3700,
+      "discount": 5,
+      "image": "https://picsum.photos/seed/p178/600/600",
+      "type": "العناية بالشعر",
+      "options": [],
+      "features": [
+        "مناسب للاستخدام اليومي",
+        "يمنح لمعان طبيعي",
+        "يغذي فروة الرأس"
+      ],
+      "quantity": 68,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 12,
+      "department": "مستلزمات جمال",
+      "keywords": "شامبو للشعر الجاف العناية بالشعر مستلزمات جمال"
+    },
+    "p179": {
+      "id": "p179",
+      "merchant_id": 1,
+      "name": "حبل قفز إصدار محدود",
+      "description": "حبل قفز بجودة عالية وسعر مناسب",
+      "mainDescription": "حبل قفز من فئة أدوات رياضية، خامة متينة وقوية، تصميم مريح، مناسب للاستخدام المنزلي. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 153200,
+      "cost_price": 117400,
+      "discount": 12,
+      "image": "https://picsum.photos/seed/p179/600/600",
+      "type": "أدوات رياضية",
+      "options": [],
+      "features": [
+        "خامة متينة وقوية",
+        "تصميم مريح",
+        "مناسب للاستخدام المنزلي"
+      ],
+      "quantity": 20,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 13,
+      "department": "رياضة ولياقة",
+      "keywords": "حبل قفز أدوات رياضية رياضة ولياقة"
+    },
+    "p180": {
+      "id": "p180",
+      "merchant_id": 1,
+      "name": "موبايل انفينكس",
+      "description": "موبايل انفينكس بجودة عالية وسعر مناسب",
+      "mainDescription": "موبايل انفينكس من فئة موبايلات، دعم الشحن السريع، بطارية تدوم طويلاً، كاميرا احترافية. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 46900,
+      "cost_price": 33900,
+      "discount": 0,
+      "image": "https://picsum.photos/seed/p180/600/600",
+      "type": "موبايلات",
+      "options": [
+        {
+          "name": "ذهبي - 64 جيجا",
+          "custom_price": 52900,
+          "image": ""
+        },
+        {
+          "name": "رمادي - 128 جيجا",
+          "custom_price": 54400,
+          "image": ""
+        }
+      ],
+      "features": [
+        "دعم الشحن السريع",
+        "بطارية تدوم طويلاً",
+        "كاميرا احترافية"
+      ],
+      "quantity": 40,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 2,
+      "department": "إلكترونيات",
+      "keywords": "موبايل انفينكس موبايلات إلكترونيات"
+    },
+    "p181": {
+      "id": "p181",
+      "merchant_id": 1,
+      "name": "سماعة شاومي",
+      "description": "سماعة شاومي بجودة عالية وسعر مناسب",
+      "mainDescription": "سماعة شاومي من فئة سماعات، بلوتوث 5.0، صوت نقي وواضح، بطارية طويلة العمر. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 16600,
+      "cost_price": 11900,
+      "discount": 15,
+      "image": "https://picsum.photos/seed/p181/600/600",
+      "type": "سماعات",
+      "options": [],
+      "features": [
+        "بلوتوث 5.0",
+        "صوت نقي وواضح",
+        "بطارية طويلة العمر"
+      ],
+      "quantity": 69,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 3,
+      "department": "إلكترونيات",
+      "keywords": "سماعة شاومي سماعات إلكترونيات"
+    },
+    "p182": {
+      "id": "p182",
+      "merchant_id": 1,
+      "name": "لابتوب ابل ماك بوك إصدار محدود",
+      "description": "لابتوب ابل ماك بوك بجودة عالية وسعر مناسب",
+      "mainDescription": "لابتوب ابل ماك بوك من فئة لابتوبات، قرص SSD، شاشة عالية الدقة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 396000,
+      "cost_price": 267000,
+      "discount": 10,
+      "image": "https://picsum.photos/seed/p182/600/600",
+      "type": "لابتوبات",
+      "options": [],
+      "features": [
+        "قرص SSD",
+        "شاشة عالية الدقة"
+      ],
+      "quantity": 42,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 7,
+      "department": "إلكترونيات",
+      "keywords": "لابتوب ابل ماك بوك لابتوبات إلكترونيات"
+    },
+    "p183": {
+      "id": "p183",
+      "merchant_id": 1,
+      "name": "شاحن سريع بحالة ممتازة",
+      "description": "شاحن سريع بجودة عالية وسعر مناسب",
+      "mainDescription": "شاحن سريع من فئة اكسسوارات إلكترونية، جودة عالية، متوافق مع أغلب الأجهزة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 12800,
+      "cost_price": 8400,
+      "discount": 0,
+      "image": "https://picsum.photos/seed/p183/600/600",
+      "type": "اكسسوارات إلكترونية",
+      "options": [
+        {
+          "name": "أزرق",
+          "custom_price": 13200,
+          "image": ""
+        },
+        {
+          "name": "أحمر",
+          "custom_price": 12600,
+          "image": ""
+        }
+      ],
+      "features": [
+        "جودة عالية",
+        "متوافق مع أغلب الأجهزة"
+      ],
+      "quantity": 45,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 8,
+      "department": "إلكترونيات",
+      "keywords": "شاحن سريع اكسسوارات إلكترونية إلكترونيات"
+    },
+    "p184": {
+      "id": "p184",
+      "merchant_id": 1,
+      "name": "بنطلون جينز رجالي",
+      "description": "بنطلون جينز رجالي بجودة عالية وسعر مناسب",
+      "mainDescription": "بنطلون جينز رجالي من فئة ملابس رجالي، قطن 100%، قصة عصرية، خامة متينة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 7200,
+      "cost_price": 5200,
+      "discount": 15,
+      "image": "https://picsum.photos/seed/p184/600/600",
+      "type": "ملابس رجالي",
+      "options": [],
+      "features": [
+        "قطن 100%",
+        "قصة عصرية",
+        "خامة متينة"
+      ],
+      "quantity": 19,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 4,
+      "department": "ملابس",
+      "keywords": "بنطلون جينز رجالي ملابس رجالي ملابس"
+    },
+    "p185": {
+      "id": "p185",
+      "merchant_id": 1,
+      "name": "طقم رياضي حريمي",
+      "description": "طقم رياضي حريمي بجودة عالية وسعر مناسب",
+      "mainDescription": "طقم رياضي حريمي من فئة ملابس حريمي، متوفر بألوان متعددة، تصميم عصري. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 6100,
+      "cost_price": 4100,
+      "discount": 0,
+      "image": "https://picsum.photos/seed/p185/600/600",
+      "type": "ملابس حريمي",
+      "options": [
+        {
+          "name": "ذهبي - XXL",
+          "custom_price": 6600,
+          "image": ""
+        },
+        {
+          "name": "أسود - L",
+          "custom_price": 6300,
+          "image": ""
+        }
+      ],
+      "features": [
+        "متوفر بألوان متعددة",
+        "تصميم عصري"
+      ],
+      "quantity": 74,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 5,
+      "department": "ملابس",
+      "keywords": "طقم رياضي حريمي ملابس حريمي ملابس"
+    },
+    "p186": {
+      "id": "p186",
+      "merchant_id": 1,
+      "name": "بنطلون أطفال",
+      "description": "بنطلون أطفال بجودة عالية وسعر مناسب",
+      "mainDescription": "بنطلون أطفال من فئة ملابس أطفال، مقاسات متعددة، ألوان زاهية. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 3100,
+      "cost_price": 2200,
+      "discount": 0,
+      "image": "https://picsum.photos/seed/p186/600/600",
+      "type": "ملابس أطفال",
+      "options": [],
+      "features": [
+        "مقاسات متعددة",
+        "ألوان زاهية"
+      ],
+      "quantity": 48,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 9,
+      "department": "ملابس",
+      "keywords": "بنطلون أطفال ملابس أطفال ملابس"
+    },
+    "p187": {
+      "id": "p187",
+      "merchant_id": 1,
+      "name": "طقم تخزين بلاستيك",
+      "description": "طقم تخزين بلاستيك بجودة عالية وسعر مناسب",
+      "mainDescription": "طقم تخزين بلاستيك من فئة أدوات مطبخ، سهل التنظيف، ستانلس ستيل عالي الجودة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 10000,
+      "cost_price": 7200,
+      "discount": 5,
+      "image": "https://picsum.photos/seed/p187/600/600",
+      "type": "أدوات مطبخ",
+      "options": [],
+      "features": [
+        "سهل التنظيف",
+        "ستانلس ستيل عالي الجودة"
+      ],
+      "quantity": 50,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 6,
+      "department": "منزل ومطبخ",
+      "keywords": "طقم تخزين بلاستيك أدوات مطبخ منزل ومطبخ"
+    },
+    "p188": {
+      "id": "p188",
+      "merchant_id": 1,
+      "name": "أريكة صغيرة بحالة ممتازة",
+      "description": "أريكة صغيرة بجودة عالية وسعر مناسب",
+      "mainDescription": "أريكة صغيرة من فئة أثاث منزلي، خامة متينة، سهل التركيب، تصميم عصري. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 133100,
+      "cost_price": 102600,
+      "discount": 0,
+      "image": "https://picsum.photos/seed/p188/600/600",
+      "type": "أثاث منزلي",
+      "options": [],
+      "features": [
+        "خامة متينة",
+        "سهل التركيب",
+        "تصميم عصري"
+      ],
+      "quantity": 76,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 10,
+      "department": "منزل ومطبخ",
+      "keywords": "أريكة صغيرة أثاث منزلي منزل ومطبخ"
+    },
+    "p189": {
+      "id": "p189",
+      "merchant_id": 1,
+      "name": "غسول وجه بحالة ممتازة",
+      "description": "غسول وجه بجودة عالية وسعر مناسب",
+      "mainDescription": "غسول وجه من فئة العناية بالبشرة، نتائج ملحوظة، خالي من الكحول. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 6100,
+      "cost_price": 4600,
+      "discount": 20,
+      "image": "https://picsum.photos/seed/p189/600/600",
+      "type": "العناية بالبشرة",
+      "options": [],
+      "features": [
+        "نتائج ملحوظة",
+        "خالي من الكحول"
+      ],
+      "quantity": 63,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 11,
+      "department": "مستلزمات جمال",
+      "keywords": "غسول وجه العناية بالبشرة مستلزمات جمال"
+    },
+    "p190": {
+      "id": "p190",
+      "merchant_id": 1,
+      "name": "بلسم مرطب",
+      "description": "بلسم مرطب بجودة عالية وسعر مناسب",
+      "mainDescription": "بلسم مرطب من فئة العناية بالشعر، يمنح لمعان طبيعي، مناسب للاستخدام اليومي، يغذي فروة الرأس. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 13800,
+      "cost_price": 9400,
+      "discount": 0,
+      "image": "https://picsum.photos/seed/p190/600/600",
+      "type": "العناية بالشعر",
+      "options": [],
+      "features": [
+        "يمنح لمعان طبيعي",
+        "مناسب للاستخدام اليومي",
+        "يغذي فروة الرأس"
+      ],
+      "quantity": 25,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 12,
+      "department": "مستلزمات جمال",
+      "keywords": "بلسم مرطب العناية بالشعر مستلزمات جمال"
+    },
+    "p191": {
+      "id": "p191",
+      "merchant_id": 1,
+      "name": "مضرب تنس",
+      "description": "مضرب تنس بجودة عالية وسعر مناسب",
+      "mainDescription": "مضرب تنس من فئة أدوات رياضية، خامة متينة وقوية، تصميم مريح. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 192800,
+      "cost_price": 146900,
+      "discount": 20,
+      "image": "https://picsum.photos/seed/p191/600/600",
+      "type": "أدوات رياضية",
+      "options": [],
+      "features": [
+        "خامة متينة وقوية",
+        "تصميم مريح"
+      ],
+      "quantity": 12,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 13,
+      "department": "رياضة ولياقة",
+      "keywords": "مضرب تنس أدوات رياضية رياضة ولياقة"
+    },
+    "p192": {
+      "id": "p192",
+      "merchant_id": 1,
+      "name": "موبايل أوبو نسخة برو",
+      "description": "موبايل أوبو بجودة عالية وسعر مناسب",
+      "mainDescription": "موبايل أوبو من فئة موبايلات، شاشة عالية الدقة، دعم الشحن السريع. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 100800,
+      "cost_price": 74000,
+      "discount": 0,
+      "image": "https://picsum.photos/seed/p192/600/600",
+      "type": "موبايلات",
+      "options": [],
+      "features": [
+        "شاشة عالية الدقة",
+        "دعم الشحن السريع"
+      ],
+      "quantity": 29,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 2,
+      "department": "إلكترونيات",
+      "keywords": "موبايل أوبو موبايلات إلكترونيات"
+    },
+    "p193": {
+      "id": "p193",
+      "merchant_id": 1,
+      "name": "سماعة رياضية بلوتوث",
+      "description": "سماعة رياضية بلوتوث بجودة عالية وسعر مناسب",
+      "mainDescription": "سماعة رياضية بلوتوث من فئة سماعات، مقاومة للماء، بلوتوث 5.0. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 10300,
+      "cost_price": 7600,
+      "discount": 20,
+      "image": "https://picsum.photos/seed/p193/600/600",
+      "type": "سماعات",
+      "options": [
+        {
+          "name": "أخضر",
+          "custom_price": 10400,
+          "image": ""
+        },
+        {
+          "name": "أزرق",
+          "custom_price": 10100,
+          "image": ""
+        },
+        {
+          "name": "ذهبي",
+          "custom_price": 10600,
+          "image": ""
+        }
+      ],
+      "features": [
+        "مقاومة للماء",
+        "بلوتوث 5.0"
+      ],
+      "quantity": 17,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 3,
+      "department": "إلكترونيات",
+      "keywords": "سماعة رياضية بلوتوث سماعات إلكترونيات"
+    },
+    "p194": {
+      "id": "p194",
+      "merchant_id": 1,
+      "name": "لابتوب لينوفو ثينك باد",
+      "description": "لابتوب لينوفو ثينك باد بجودة عالية وسعر مناسب",
+      "mainDescription": "لابتوب لينوفو ثينك باد من فئة لابتوبات، ذاكرة RAM كبيرة، شاشة عالية الدقة، معالج سريع. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 248400,
+      "cost_price": 188200,
+      "discount": 25,
+      "image": "https://picsum.photos/seed/p194/600/600",
+      "type": "لابتوبات",
+      "options": [],
+      "features": [
+        "ذاكرة RAM كبيرة",
+        "شاشة عالية الدقة",
+        "معالج سريع"
+      ],
+      "quantity": 68,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 7,
+      "department": "إلكترونيات",
+      "keywords": "لابتوب لينوفو ثينك باد لابتوبات إلكترونيات"
+    },
+    "p195": {
+      "id": "p195",
+      "merchant_id": 1,
+      "name": "ساعة ذكية",
+      "description": "ساعة ذكية بجودة عالية وسعر مناسب",
+      "mainDescription": "ساعة ذكية من فئة اكسسوارات إلكترونية، تصميم متين، متوافق مع أغلب الأجهزة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 11300,
+      "cost_price": 8000,
+      "discount": 20,
+      "image": "https://picsum.photos/seed/p195/600/600",
+      "type": "اكسسوارات إلكترونية",
+      "options": [
+        {
+          "name": "أسود",
+          "custom_price": 11000,
+          "image": ""
+        },
+        {
+          "name": "ذهبي",
+          "custom_price": 11100,
+          "image": ""
+        },
+        {
+          "name": "أحمر",
+          "custom_price": 11300,
+          "image": ""
+        }
+      ],
+      "features": [
+        "تصميم متين",
+        "متوافق مع أغلب الأجهزة"
+      ],
+      "quantity": 12,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 8,
+      "department": "إلكترونيات",
+      "keywords": "ساعة ذكية اكسسوارات إلكترونية إلكترونيات"
+    },
+    "p196": {
+      "id": "p196",
+      "merchant_id": 1,
+      "name": "جاكيت رجالي",
+      "description": "جاكيت رجالي بجودة عالية وسعر مناسب",
+      "mainDescription": "جاكيت رجالي من فئة ملابس رجالي، خامة متينة، قصة عصرية، قطن 100%. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 9500,
+      "cost_price": 6200,
+      "discount": 0,
+      "image": "https://picsum.photos/seed/p196/600/600",
+      "type": "ملابس رجالي",
+      "options": [
+        {
+          "name": "فضي - S",
+          "custom_price": 9400,
+          "image": ""
+        },
+        {
+          "name": "ذهبي - L",
+          "custom_price": 10000,
+          "image": ""
+        }
+      ],
+      "features": [
+        "خامة متينة",
+        "قصة عصرية",
+        "قطن 100%"
+      ],
+      "quantity": 31,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 4,
+      "department": "ملابس",
+      "keywords": "جاكيت رجالي ملابس رجالي ملابس"
+    },
+    "p197": {
+      "id": "p197",
+      "merchant_id": 1,
+      "name": "حذاء نسائي كعب",
+      "description": "حذاء نسائي كعب بجودة عالية وسعر مناسب",
+      "mainDescription": "حذاء نسائي كعب من فئة ملابس حريمي، خامة خفيفة وأنيقة، تصميم عصري، متوفر بألوان متعددة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 22300,
+      "cost_price": 17100,
+      "discount": 12,
+      "image": "https://picsum.photos/seed/p197/600/600",
+      "type": "ملابس حريمي",
+      "options": [
+        {
+          "name": "أحمر - XL",
+          "custom_price": 22600,
+          "image": ""
+        },
+        {
+          "name": "بني - XXL",
+          "custom_price": 22200,
+          "image": ""
+        }
+      ],
+      "features": [
+        "خامة خفيفة وأنيقة",
+        "تصميم عصري",
+        "متوفر بألوان متعددة"
+      ],
+      "quantity": 54,
+      "quantity_type": "tracked",
+      "is_available": 0,
+      "currency": "YER",
+      "category_id": 5,
+      "department": "ملابس",
+      "keywords": "حذاء نسائي كعب ملابس حريمي ملابس"
+    },
+    "p198": {
+      "id": "p198",
+      "merchant_id": 1,
+      "name": "طقم أطفال قطن نسخة برو",
+      "description": "طقم أطفال قطن بجودة عالية وسعر مناسب",
+      "mainDescription": "طقم أطفال قطن من فئة ملابس أطفال، ألوان زاهية، قماش ناعم على البشرة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 8700,
+      "cost_price": 5700,
+      "discount": 15,
+      "image": "https://picsum.photos/seed/p198/600/600",
+      "type": "ملابس أطفال",
+      "options": [
+        {
+          "name": "رمادي - S",
+          "custom_price": 9000,
+          "image": ""
+        },
+        {
+          "name": "أبيض - L",
+          "custom_price": 9100,
+          "image": ""
+        },
+        {
+          "name": "أزرق - XL",
+          "custom_price": 8700,
+          "image": ""
+        }
+      ],
+      "features": [
+        "ألوان زاهية",
+        "قماش ناعم على البشرة"
+      ],
+      "quantity": 63,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 9,
+      "department": "ملابس",
+      "keywords": "طقم أطفال قطن ملابس أطفال ملابس"
+    },
+    "p199": {
+      "id": "p199",
+      "merchant_id": 1,
+      "name": "فرن كهربائي صغير",
+      "description": "فرن كهربائي صغير بجودة عالية وسعر مناسب",
+      "mainDescription": "فرن كهربائي صغير من فئة أدوات مطبخ، موزع حرارة متساوٍ، سهل التنظيف، ستانلس ستيل عالي الجودة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 18000,
+      "cost_price": 13600,
+      "discount": 0,
+      "image": "https://picsum.photos/seed/p199/600/600",
+      "type": "أدوات مطبخ",
+      "options": [],
+      "features": [
+        "موزع حرارة متساوٍ",
+        "سهل التنظيف",
+        "ستانلس ستيل عالي الجودة"
+      ],
+      "quantity": 23,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 6,
+      "department": "منزل ومطبخ",
+      "keywords": "فرن كهربائي صغير أدوات مطبخ منزل ومطبخ"
+    },
+    "p200": {
+      "id": "p200",
+      "merchant_id": 1,
+      "name": "أريكة صغيرة",
+      "description": "أريكة صغيرة بجودة عالية وسعر مناسب",
+      "mainDescription": "أريكة صغيرة من فئة أثاث منزلي، سهل التركيب، تصميم عصري، خامة متينة. منتج مضمون الجودة ومناسب للاستخدام اليومي.",
+      "price": 128700,
+      "cost_price": 97100,
+      "discount": 10,
+      "image": "https://picsum.photos/seed/p200/600/600",
+      "type": "أثاث منزلي",
+      "options": [],
+      "features": [
+        "سهل التركيب",
+        "تصميم عصري",
+        "خامة متينة"
+      ],
+      "quantity": 0,
+      "quantity_type": "tracked",
+      "is_available": 1,
+      "currency": "YER",
+      "category_id": 10,
+      "department": "منزل ومطبخ",
+      "keywords": "أريكة صغيرة أثاث منزلي منزل ومطبخ"
     }
   }
 }
