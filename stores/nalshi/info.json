@@ -1,14 +1,14 @@
 {
-    "_version": 1784154870090,
-    "merchant_id": 300001,
-    "username": "nalshi",
-    "store_name": "نالش | nalsh..",
-    "store_type": "مطاعم ومأكولات",
-    "phone": "770094456",
-    "settings": {
-        "location": "https:\/\/www.google.com\/maps?q=15.3383512,44.2186084",
-        "phone": null,
-        "push_notifications": true,
-        "welcome_message": "ةةبنن"
-    }
+  "store_name": "متجر التجربة",
+  "phone": "777123456",
+  "settings": {
+    "welcome_message": "أهلاً بيك في متجرنا! تسوق أحدث المنتجات بأسعار مناسبة",
+    "bio": "متجر تجريبي لاختبار الواجهة",
+    "whatsapp": "777123456",
+    "location": { "lat": 15.3547, "lng": 44.2066 },
+    "free_shipping_enabled": true,
+    "free_shipping_type": "threshold",
+    "free_shipping_threshold": 20000,
+    "theme": "classic"
+  }
 }
