@@ -1,14 +1,1 @@
-{
-  "store_name": "متجر التجربة",
-  "phone": "777123456",
-  "settings": {
-    "welcome_message": "أهلاً بيك في متجرنا! تسوق أحدث المنتجات بأسعار مناسبة",
-    "bio": "متجر تجريبي لاختبار الواجهة",
-    "whatsapp": "777123456",
-    "location": { "lat": 15.3547, "lng": 44.2066 },
-    "free_shipping_enabled": true,
-    "free_shipping_type": "threshold",
-    "free_shipping_threshold": 20000,
-    "theme": "classic"
-  }
-}
+{"_version":1784563706383,"data":{"store_name":"متجري","store_type":null,"phone":null,"settings":{"welcome_message":"U","location":null,"phone":null}}}
