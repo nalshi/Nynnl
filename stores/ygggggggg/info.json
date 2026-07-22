@@ -1,1 +1,13 @@
-{"_version":1784707816051,"data":{"store_name":"متجري","store_type":null,"phone":null,"settings":{"welcome_message":"وةو","location":null,"phone":null}}}
+{
+    "_version": 1784707820454,
+    "merchant_id": "450002",
+    "username": "ygggggggg",
+    "store_name": "متجري",
+    "store_type": "",
+    "phone": "778787878",
+    "settings": {
+        "location": null,
+        "phone": null,
+        "welcome_message": "وةو"
+    }
+}
