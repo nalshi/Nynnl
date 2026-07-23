@@ -1,5 +1,5 @@
 {
-    "_version": 1784841342297,
+    "_version": 1784841347287,
     "merchant_id": "300001",
     "username": "nalshi",
     "store_name": "نالش | nalshشد",
@@ -8,7 +8,7 @@
     "settings": {
         "location": "https:\/\/www.google.com\/maps?q=15.3383512,44.2186084",
         "phone": "770094456",
-        "push_notifications": false,
-        "welcome_message": "ةةبننوb"
+        "push_notifications": true,
+        "welcome_message": "ةةبننوbةا"
     }
 }
