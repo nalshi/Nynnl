@@ -1,14 +1,1 @@
-{
-    "_version": 1784754152897,
-    "merchant_id": "300001",
-    "username": "nalshi",
-    "store_name": "نالش | nalsh..",
-    "store_type": "مطاعم ومأكولات",
-    "phone": "770094456",
-    "settings": {
-        "location": "https:\/\/www.google.com\/maps?q=15.3383512,44.2186084",
-        "phone": "770094456",
-        "push_notifications": false,
-        "welcome_message": "ةةبنن"
-    }
-}
+{"_version":1784767364752,"data":{"store_name":"نالش | nalsh..","store_type":"مطاعم ومأكولات","phone":"770094456","settings":{"location":"https://www.google.com/maps?q=15.3383512,44.2186084","phone":"770094456","push_notifications":true,"welcome_message":"ةةبننو"}}}
