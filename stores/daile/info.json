@@ -1,14 +1,11 @@
 {
-    "_version": 1784216023096,
-    "merchant_id": 390001,
+    "_version": 1785171817393,
+    "merchant_id": "1",
     "username": "daile",
     "store_name": "تدي كو",
     "store_type": "متنوع",
     "phone": "773434349",
     "settings": {
-        "location": "https:\/\/www.google.com\/maps?q=15.3383642,44.2186118",
-        "phone": null,
-        "push_notifications": true,
-        "welcome_message": "خليك في مكانك"
+        "location": "https:\/\/www.google.com\/maps?q=15.3383427,44.2185827"
     }
 }
