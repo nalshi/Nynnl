@@ -1,11 +1,1 @@
-{
-    "_version": 1785230104722,
-    "merchant_id": "30001",
-    "username": "almmmk",
-    "store_name": "العامر للاثاث",
-    "store_type": "متنوع",
-    "phone": "784505025",
-    "settings": {
-        "location": "https:\/\/www.google.com\/maps?q=15.3423307,44.1723404"
-    }
-}
+{"_version":1785230107385,"data":{"store_name":"العامر للاثاث","store_type":"متنوع","phone":"784505025","settings":{"location":"https://www.google.com/maps?q=15.3423307,44.1723404"}}}
