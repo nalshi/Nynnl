@@ -15,7 +15,7 @@
     },
     "typography": {
       "font_family": "Cairo",
-      "base_size": "18px",
+      "base_size": "14px",
       "heading_weight": "700"
     },
     "shapes": {
@@ -42,7 +42,7 @@
     {
       "id": "b_categories",
       "type": "categories",
-      "style": "grid_cards",
+      "style": "bubbles",
       "title": "التصنيفات المميزة",
       "subtitle": "",
       "visible": true,
@@ -93,5 +93,5 @@
       }
     }
   ],
-  "updated_at": 1787088232434
+  "updated_at": 1787088857558
 }
