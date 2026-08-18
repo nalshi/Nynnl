@@ -1,0 +1,97 @@
+{
+  "theme_version": "1.0",
+  "theme_name": "default_indigo",
+  "design_tokens": {
+    "colors": {
+      "primary": "#059669",
+      "accent": "#f59e0b",
+      "background": "#f0fdf4",
+      "surface": "#ffffff",
+      "card_bg": "#ffffff",
+      "text_primary": "#0f172a",
+      "text_secondary": "#64748b",
+      "border": "#e2e8f0",
+      "primary_hover": "#4338CA"
+    },
+    "typography": {
+      "font_family": "Cairo",
+      "base_size": "18px",
+      "heading_weight": "700"
+    },
+    "shapes": {
+      "card_radius": "20px",
+      "button_style": "rounded",
+      "card_style": "flat"
+    }
+  },
+  "layout_blocks": [
+    {
+      "id": "b_hero",
+      "type": "hero",
+      "style": "classic",
+      "title": "أهلاً بكم في متجرنا",
+      "subtitle": "أفضل المنتجات بأعلى جودة وأسرع توصيل",
+      "visible": true,
+      "order": 1,
+      "settings": {
+        "show_cta": true,
+        "cta_text": "تسوق الآن",
+        "cta_link": "#products"
+      }
+    },
+    {
+      "id": "b_categories",
+      "type": "categories",
+      "style": "bubbles",
+      "title": "التصنيفات المميزة",
+      "subtitle": "",
+      "visible": true,
+      "order": 2,
+      "settings": {
+        "show_icons": true
+      }
+    },
+    {
+      "id": "b_products",
+      "type": "products",
+      "style": "classic_grid",
+      "title": "أحدث المنتجات",
+      "subtitle": "",
+      "visible": true,
+      "order": 3,
+      "settings": {
+        "items_count": 12,
+        "show_badge": true
+      }
+    },
+    {
+      "id": "b_features",
+      "type": "features",
+      "style": "badges_row",
+      "title": "لماذا تختارنا؟",
+      "subtitle": "",
+      "visible": true,
+      "order": 4,
+      "settings": {
+        "items": [
+          {
+            "icon": "truck",
+            "title": "توصيل سريع",
+            "desc": "لباب بيتك بأمان"
+          },
+          {
+            "icon": "shield-check",
+            "title": "ضمان الجودة",
+            "desc": "منتجات أصلية 100%"
+          },
+          {
+            "icon": "headset",
+            "title": "دعم متواصل",
+            "desc": "خدمة عملاء على مدار الساعة"
+          }
+        ]
+      }
+    }
+  ],
+  "updated_at": 1787088040217
+}
