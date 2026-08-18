@@ -14,7 +14,7 @@
       "primary_hover": "#4338CA"
     },
     "typography": {
-      "font_family": "Cairo",
+      "font_family": "Tajawal",
       "base_size": "14px",
       "heading_weight": "700"
     },
@@ -93,5 +93,5 @@
       }
     }
   ],
-  "updated_at": 1787091860593
+  "updated_at": 1787091871660
 }
