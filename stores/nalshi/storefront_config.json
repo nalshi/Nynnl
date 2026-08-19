@@ -17,7 +17,7 @@
     },
     "typography": {
       "font_family": "Tajawal",
-      "base_size": "18px",
+      "base_size": "14px",
       "heading_weight": "700"
     },
     "shapes": {
@@ -98,5 +98,5 @@
       }
     }
   ],
-  "updated_at": 1787140270903
+  "updated_at": 1787140290094
 }
