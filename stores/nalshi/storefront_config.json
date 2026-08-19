@@ -3,9 +3,9 @@
   "theme_name": "default_indigo",
   "design_tokens": {
     "colors": {
-      "primary": "#d97706",
-      "accent": "#fbbf24",
-      "background": "#090d16",
+      "primary": "#4F46E5",
+      "accent": "#14b8a6",
+      "background": "#f8fafc",
       "surface": "#ffffff",
       "card_bg": "#ffffff",
       "text_primary": "#0f172a",
@@ -15,11 +15,11 @@
     },
     "typography": {
       "font_family": "Tajawal",
-      "base_size": "14px",
+      "base_size": "18px",
       "heading_weight": "700"
     },
     "shapes": {
-      "card_radius": "18px",
+      "card_radius": "24px",
       "button_style": "rounded",
       "card_style": "flat"
     }
@@ -42,7 +42,7 @@
     {
       "id": "b_categories",
       "type": "categories",
-      "style": "grid_cards",
+      "style": "bubbles",
       "title": "التصنيفات المميزة",
       "subtitle": "",
       "visible": true,
@@ -93,5 +93,5 @@
       }
     }
   ],
-  "updated_at": 1787137806386
+  "updated_at": 1787137997332
 }
