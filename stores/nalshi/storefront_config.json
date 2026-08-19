@@ -3,13 +3,13 @@
   "theme_name": "default_indigo",
   "design_tokens": {
     "colors": {
-      "primary": "#940505",
-      "accent": "#000000",
-      "background": "#1e7638",
+      "primary": "#d97706",
+      "accent": "#fbbf24",
+      "background": "#090d16",
       "surface": "#ffffff",
-      "card_bg": "#b3b3b3",
-      "text_primary": "#000000",
-      "text_secondary": "#000000",
+      "card_bg": "#000000",
+      "text_primary": "#ffffff",
+      "text_secondary": "#ffffff",
       "border": "#e2e8f0",
       "navbar_bg": "#ffffff",
       "footer_bg": "#4d6984",
@@ -21,11 +21,11 @@
       "heading_weight": "700"
     },
     "shapes": {
-      "card_radius": "20px",
+      "card_radius": "18px",
       "button_style": "rounded",
       "card_style": "flat",
-      "navbar_style": "solid",
-      "section_spacing": "normal"
+      "navbar_style": "gradient",
+      "section_spacing": "wide"
     }
   },
   "footer_text": "",
@@ -98,5 +98,5 @@
       }
     }
   ],
-  "updated_at": 1787140189684
+  "updated_at": 1787140270903
 }
