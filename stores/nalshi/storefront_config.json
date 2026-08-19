@@ -3,9 +3,9 @@
   "theme_name": "default_indigo",
   "design_tokens": {
     "colors": {
-      "primary": "#059669",
-      "accent": "#f59e0b",
-      "background": "#f0fdf4",
+      "primary": "#4F46E5",
+      "accent": "#14b8a6",
+      "background": "#f8fafc",
       "surface": "#ffffff",
       "card_bg": "#ffffff",
       "text_primary": "#0f172a",
@@ -19,7 +19,7 @@
       "heading_weight": "700"
     },
     "shapes": {
-      "card_radius": "20px",
+      "card_radius": "16px",
       "button_style": "rounded",
       "card_style": "flat"
     }
@@ -93,5 +93,5 @@
       }
     }
   ],
-  "updated_at": 1787091871660
+  "updated_at": 1787137589325
 }
