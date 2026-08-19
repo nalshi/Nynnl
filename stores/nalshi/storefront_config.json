@@ -3,9 +3,9 @@
   "theme_name": "default_indigo",
   "design_tokens": {
     "colors": {
-      "primary": "#d97706",
-      "accent": "#fbbf24",
-      "background": "#090d16",
+      "primary": "#059669",
+      "accent": "#f59e0b",
+      "background": "#f0fdf4",
       "surface": "#ffffff",
       "card_bg": "#ffffff",
       "text_primary": "#0f172a",
@@ -14,12 +14,12 @@
       "primary_hover": "#4338CA"
     },
     "typography": {
-      "font_family": "Tajawal",
+      "font_family": "Cairo",
       "base_size": "18px",
       "heading_weight": "700"
     },
     "shapes": {
-      "card_radius": "18px",
+      "card_radius": "20px",
       "button_style": "rounded",
       "card_style": "flat"
     }
@@ -93,5 +93,5 @@
       }
     }
   ],
-  "updated_at": 1787138268337
+  "updated_at": 1787138358734
 }
