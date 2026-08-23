@@ -1,19 +1,219 @@
 {
-  "theme_version": "1.0",
+  "theme_version": "3.0",
   "theme_name": "default_indigo",
+  "merchant_username": "",
+  "active_mode": "auto",
+  "store_identity": {
+    "store_name": "",
+    "slogan": "",
+    "welcome_message": "",
+    "currency_symbol": "YER",
+    "announcement_bar": {
+      "enabled": false,
+      "text": "أهلاً بكم في متجرنا! تسوقوا أحدث العروض والمنتجات الحصرية ✨",
+      "bg_color": "#4F46E5",
+      "text_color": "#FFFFFF"
+    }
+  },
+  "modals_customization": {
+    "product_details": {
+      "cta_button_text": "إضافة إلى السلة 🛍️",
+      "border_radius": "24px",
+      "show_stock_badge": true,
+      "show_share_btn": true,
+      "show_delivery_estimate": true
+    },
+    "cart_drawer": {
+      "header_title": "سلة مشترياتي 🛒",
+      "checkout_btn_text": "متابعة الطلب والدفع 🚀",
+      "empty_message": "سلتك فارغة حالياً، تصفح أفضل منتجاتنا وابدأ التسوق!",
+      "show_summary_box": true
+    },
+    "store_info": {
+      "title": "عن المتجر وسياسات الخدمة",
+      "about_text": "متجر رسمي يقدم أجود المنتجات بأفضل الأسعار وأسرع توصيل لباب منزلك.",
+      "delivery_policy": "يتم توصيل كافة الطلبات بشكل آمن ومضمون خلال 24 - 48 ساعة.",
+      "return_policy": "نضمن لك استبدال أو إرجاع المنتج خلال 3 أيام في حال وجود أي ملاحظة."
+    },
+    "order_success": {
+      "title": "تم استلام طلبك بنجاح! 🎉",
+      "subtitle": "شكراً لثقتك بنا، سنقوم بتجهيز وتوصيل طلبك في أقرب وقت.",
+      "whatsapp_btn_text": "تأكيد ومتابعة الطلب بالواتساب 💬"
+    }
+  },
+  "products_settings": {
+    "display_mode": "tabs_by_category",
+    "scroll_direction": "horizontal",
+    "items_per_row": 2,
+    "sort_by": "latest",
+    "grid_columns": 2,
+    "grid_rows": 0,
+    "slider_rows": 1,
+    "card_orientation": "portrait",
+    "card_custom_width": 0,
+    "card_custom_height": 0,
+    "show_stock_badge": true,
+    "show_quick_add": true,
+    "show_discount_badge": true,
+    "show_category_tag": true,
+    "out_of_stock_display": "badge_at_end",
+    "portrait": {
+      "grid_columns": 2,
+      "grid_rows": 0,
+      "scroll_direction": "horizontal",
+      "items_per_row": 2,
+      "slider_rows": 1,
+      "card_orientation": "portrait",
+      "card_custom_width": 0,
+      "card_custom_height": 0
+    },
+    "landscape": {
+      "grid_columns": 3,
+      "grid_rows": 0,
+      "scroll_direction": "horizontal",
+      "items_per_row": 3,
+      "slider_rows": 1,
+      "card_orientation": "landscape",
+      "card_custom_width": 0,
+      "card_custom_height": 0
+    },
+    "category_overrides": {}
+  },
+  "store_messages": {
+    "add_to_cart_success": "تمت إضافة المنتج إلى سلتك بنجاح! 🛍️",
+    "out_of_stock_msg": "عذراً، هذا المنتج غير متوفر حالياً ⚠️",
+    "cart_empty_msg": "سلة مشترياتك فارغة حالياً، استكشف منتجاتنا الرائعة!",
+    "checkout_btn_label": "إتمام الطلب والدفع 🚀",
+    "delivery_code_hint": "سيصلك كود تسليم مكون من 4 أرقام لتأكيد الاستلام 🔒",
+    "search_placeholder": "ابحث عن منتج، فئة، أو ماركة...",
+    "no_search_results": "لم نجد أي منتجات تطابق بحثك 🔍",
+    "filter_all_categories": "جميع المنتجات ✨",
+    "order_success_title": "تم استلام طلبك بنجاح! 🎉",
+    "order_success_msg": "شكراً لثقتك بنا! سنتواصل معك هاتفياً أو عبر واتساب لتأكيد التوصيل.",
+    "order_track_whatsapp": "متابعة الطلب مع المتجر عبر واتساب 💬",
+    "welcome_banner_text": "أهلاً وسهلاً بك في متجرنا الرسمي!",
+    "chatbot_greeting": "أهلاً بك! كيف يمكنني مساعدتك اليوم؟ 🤖",
+    "copied_link_msg": "تم نسخ الرابط بنجاح! 📋"
+  },
+  "light_theme": {
+    "colors": {
+      "primary": "#d97706",
+      "primary_hover": "#4338CA",
+      "accent": "#fbbf24",
+      "bg_body": "#F8FAFC",
+      "bg_card": "#FFFFFF",
+      "bg_surface": "#FFFFFF",
+      "text_main": "#0F172A",
+      "text_muted": "#64748B",
+      "border": "#e2e8f0",
+      "navbar_bg": "#ffffff",
+      "navbar_text": "#0F172A",
+      "bottom_bar_bg": "#FFFFFF",
+      "bottom_bar_active": "#4F46E5",
+      "bottom_bar_inactive": "#94A3B8",
+      "card_bg": "#000000",
+      "card_border": "#E2E8F0",
+      "card_title": "#0F172A",
+      "price_color": "#4F46E5",
+      "old_price_color": "#94A3B8",
+      "badge_bg": "#4F46E5",
+      "badge_text": "#FFFFFF",
+      "section_title": "#0F172A",
+      "category_chip_bg": "#F1F5F9",
+      "category_chip_active": "#4F46E5",
+      "category_chip_text": "#0F172A",
+      "modal_bg": "#FFFFFF",
+      "modal_overlay": "rgba(15, 23, 42, 0.6)",
+      "modal_handle": "#CBD5E1",
+      "btn_primary_bg": "#4F46E5",
+      "btn_primary_text": "#FFFFFF",
+      "chatbot_btn_bg": "#4F46E5",
+      "toast_bg": "#0F172A",
+      "toast_text": "#FFFFFF",
+      "background": "#090d16",
+      "surface": "#ffffff",
+      "text_primary": "#ffffff",
+      "text_secondary": "#ffffff",
+      "footer_bg": "#4d6984"
+    }
+  },
+  "dark_theme": {
+    "colors": {
+      "primary": "#6366F1",
+      "primary_hover": "#4F46E5",
+      "accent": "#2DD4BF",
+      "bg_body": "#0B1120",
+      "bg_card": "#151E2E",
+      "bg_surface": "#1E293B",
+      "text_main": "#F8FAFC",
+      "text_muted": "#94A3B8",
+      "border": "rgba(255, 255, 255, 0.08)",
+      "navbar_bg": "#151E2E",
+      "navbar_text": "#F8FAFC",
+      "bottom_bar_bg": "#151E2E",
+      "bottom_bar_active": "#6366F1",
+      "bottom_bar_inactive": "#64748B",
+      "card_bg": "#151E2E",
+      "card_border": "rgba(255, 255, 255, 0.08)",
+      "card_title": "#F8FAFC",
+      "price_color": "#818CF8",
+      "old_price_color": "#64748B",
+      "badge_bg": "#6366F1",
+      "badge_text": "#FFFFFF",
+      "section_title": "#F8FAFC",
+      "category_chip_bg": "#1E293B",
+      "category_chip_active": "#6366F1",
+      "category_chip_text": "#F8FAFC",
+      "modal_bg": "#151E2E",
+      "modal_overlay": "rgba(0, 0, 0, 0.8)",
+      "modal_handle": "#475569",
+      "btn_primary_bg": "#6366F1",
+      "btn_primary_text": "#FFFFFF",
+      "chatbot_btn_bg": "#6366F1",
+      "toast_bg": "#1E293B",
+      "toast_text": "#F8FAFC"
+    }
+  },
   "design_tokens": {
     "colors": {
       "primary": "#d97706",
+      "primary_hover": "#4338CA",
       "accent": "#fbbf24",
-      "background": "#090d16",
-      "surface": "#ffffff",
-      "card_bg": "#000000",
-      "text_primary": "#ffffff",
-      "text_secondary": "#ffffff",
+      "bg_body": "#F8FAFC",
+      "bg_card": "#FFFFFF",
+      "bg_surface": "#FFFFFF",
+      "text_main": "#0F172A",
+      "text_muted": "#64748B",
       "border": "#e2e8f0",
       "navbar_bg": "#ffffff",
-      "footer_bg": "#4d6984",
-      "primary_hover": "#4338CA"
+      "navbar_text": "#0F172A",
+      "bottom_bar_bg": "#FFFFFF",
+      "bottom_bar_active": "#4F46E5",
+      "bottom_bar_inactive": "#94A3B8",
+      "card_bg": "#000000",
+      "card_border": "#E2E8F0",
+      "card_title": "#0F172A",
+      "price_color": "#4F46E5",
+      "old_price_color": "#94A3B8",
+      "badge_bg": "#4F46E5",
+      "badge_text": "#FFFFFF",
+      "section_title": "#0F172A",
+      "category_chip_bg": "#F1F5F9",
+      "category_chip_active": "#4F46E5",
+      "category_chip_text": "#0F172A",
+      "modal_bg": "#FFFFFF",
+      "modal_overlay": "rgba(15, 23, 42, 0.6)",
+      "modal_handle": "#CBD5E1",
+      "btn_primary_bg": "#4F46E5",
+      "btn_primary_text": "#FFFFFF",
+      "chatbot_btn_bg": "#4F46E5",
+      "toast_bg": "#0F172A",
+      "toast_text": "#FFFFFF",
+      "background": "#090d16",
+      "surface": "#ffffff",
+      "text_primary": "#ffffff",
+      "text_secondary": "#ffffff",
+      "footer_bg": "#4d6984"
     },
     "typography": {
       "font_family": "Tajawal",
@@ -22,10 +222,55 @@
     },
     "shapes": {
       "card_radius": "18px",
+      "button_radius": "12px",
       "button_style": "rounded",
       "card_style": "flat",
       "navbar_style": "gradient",
       "section_spacing": "wide"
+    }
+  },
+  "typography": {
+    "font_family": "Tajawal",
+    "base_size": "14px",
+    "heading_weight": "700",
+    "headings": {
+      "h1_size": "2rem",
+      "h2_size": "1.5rem",
+      "h3_size": "1.2rem",
+      "product_title_size": "1rem",
+      "price_size": "1.15rem"
+    }
+  },
+  "shapes": {
+    "card_radius": "18px",
+    "button_radius": "12px",
+    "button_style": "rounded",
+    "card_style": "flat",
+    "navbar_style": "gradient",
+    "section_spacing": "wide"
+  },
+  "animations": {
+    "card_hover": "lift",
+    "enable_page_transitions": true
+  },
+  "marketing": {
+    "flash_sale": {
+      "enabled": false,
+      "title": "عروض حصرية مؤقتة 🔥 ينتهي العرض خلال:",
+      "end_time": "2026-12-31T23:59:59",
+      "bg_color": "#E11D48",
+      "text_color": "#FFFFFF"
+    },
+    "free_shipping_bar": {
+      "enabled": true,
+      "threshold": 10000,
+      "message": "شحن مجاني للطلبات فوق 10,000 ريال 🚚"
+    },
+    "whatsapp_floating": {
+      "enabled": true,
+      "phone": "",
+      "message": "أهلاً، أود الاستفسار عن منتجاتكم",
+      "position": "left"
     }
   },
   "footer_text": "",
@@ -98,5 +343,5 @@
       }
     }
   ],
-  "updated_at": 1787140290094
+  "updated_at": 1787513384849
 }
