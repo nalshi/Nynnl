@@ -1,5 +1,5 @@
 {
-  "_version": 1788013713062,
+  "_version": 1788044098254,
   "data": {
     "id": "90001",
     "merchant_id": "90001",
@@ -872,9 +872,9 @@
           }
         },
         "shapes": {
-          "card_radius": "12px",
-          "button_radius": "14px",
-          "button_style": "rounded",
+          "card_radius": "28px",
+          "button_radius": "9999px",
+          "button_style": "pill",
           "card_style": "elevated",
           "navbar_style": "solid",
           "section_spacing": "normal"
