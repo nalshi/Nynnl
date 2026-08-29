@@ -1,5 +1,5 @@
 {
-  "_version": 1787942268510,
+  "_version": 1788013699049,
   "data": {
     "id": "90001",
     "merchant_id": "90001",
@@ -560,19 +560,19 @@
             "style": "circle_icon",
             "text": "أضف للسلة",
             "show_text": false,
-            "icon": "fa-shopping-basket",
+            "icon": "fa-shopping-bag",
             "action_animation": "glow"
           },
           "portrait": {
-            "scroll_direction": "vertical",
+            "scroll_direction": "horizontal",
             "grid_columns": 2,
             "grid_rows": 0,
             "slider_rows": 1,
             "card_orientation": "portrait",
             "card_style": "magazine",
-            "card_custom_width": 0,
-            "card_custom_height": 0,
-            "img_custom_height": 0,
+            "card_custom_width": 155,
+            "card_custom_height": 260,
+            "img_custom_height": 230,
             "card_density": "standard",
             "show_badges": true,
             "show_quick_add": true,
@@ -581,8 +581,8 @@
             "show_currency": true
           },
           "landscape": {
-            "scroll_direction": "horizontal",
-            "grid_columns": 4,
+            "scroll_direction": "vertical",
+            "grid_columns": 5,
             "grid_rows": 0,
             "slider_rows": 1,
             "card_orientation": "portrait",
@@ -597,7 +597,8 @@
             "show_old_price": true,
             "show_currency": true
           },
-          "category_overrides": {}
+          "category_overrides": {},
+          "scroll_direction": "horizontal"
         },
         "messages": {
           "search_placeholder": "ابحث عن المنتجات أو الماركات...",
@@ -862,7 +863,7 @@
           "base_size_mobile": "15px",
           "base_size_desktop": "17px",
           "heading_weight": "700",
-          "heading_size_mobile": "1.15rem",
+          "heading_size_mobile": "1.35rem",
           "heading_size_desktop": "1.45rem",
           "price_size_mobile": "1.1rem",
           "price_size_desktop": "1.25rem",
