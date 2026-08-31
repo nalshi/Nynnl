@@ -4,14 +4,14 @@
   "theme_name": "warm_mocha",
   "default_theme_mode": "dark",
   "store_identity": {
-    "store_name": "متجري الإلكتروني",
+    "store_name": "AN",
     "slogan": "وجهتك الأولى لأرقى المنتجات والخدمات",
     "welcome_message": "أهلاً بكم في متجرنا! نتمنى لكم تجربة تسوق ممتعة.",
     "currency_symbol": "YER",
     "logo": "",
     "favicon": "",
     "announcement_bar": {
-      "enabled": true,
+      "enabled": false,
       "text": "🎉 عروض حصرية وتوصيل سريع لكافة المناطق!",
       "bg_color": "#000000",
       "text_color": "#FFFFFF"
