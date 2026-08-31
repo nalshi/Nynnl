@@ -32,19 +32,19 @@
       "style": "circle_icon",
       "text": "أضف للسلة",
       "show_text": false,
-      "icon": "fa-shopping-bag",
+      "icon": "fa-shopping-basket",
       "action_animation": "glow"
     },
     "portrait": {
-      "scroll_direction": "vertical",
+      "scroll_direction": "horizontal",
       "grid_columns": 2,
       "grid_rows": 0,
       "slider_rows": 1,
-      "card_orientation": "landscape",
+      "card_orientation": "portrait",
       "card_style": "magazine",
-      "card_custom_width": 155,
-      "card_custom_height": 260,
-      "img_custom_height": 230,
+      "card_custom_width": 165,
+      "card_custom_height": 290,
+      "img_custom_height": 120,
       "card_density": "standard",
       "show_badges": true,
       "show_quick_add": true,
@@ -70,7 +70,8 @@
       "show_currency": true
     },
     "category_overrides": {},
-    "scroll_direction": "horizontal"
+    "scroll_direction": "horizontal",
+    "card_orientation": "portrait"
   },
   "messages": {
     "search_placeholder": "ابحث عن المنتجات أو الماركات...",
@@ -84,75 +85,44 @@
   },
   "layout_blocks": [
     {
-      "id": "b_hero",
-      "type": "hero",
-      "title": "أهلاً بكم في متجرنا",
-      "subtitle": "أفضل المنتجات بأعلى جودة وأسرع توصيل",
+      "id": "block_banner_1",
+      "type": "banner",
+      "title": "soooooooooooooon",
+      "subtitle": "legend stor",
       "style": "classic",
       "visible": true,
       "order": 1,
       "settings": {
-        "show_cta": true,
-        "cta_text": "تسوق الآن",
-        "cta_link": "#products",
-        "hero_mobile_height": 0
+        "banner_height": 90,
+        "cta_text": ""
       }
     },
     {
-      "id": "b_categories",
-      "type": "categories",
-      "title": "التصنيفات المميزة",
-      "subtitle": "",
-      "style": "bubbles",
-      "visible": true,
-      "order": 2,
-      "settings": {
-        "show_icons": true,
-        "categories_style": "grid_matrix",
-        "style": "grid",
-        "grid_columns": 2,
-        "icon_size": "small"
-      }
-    },
-    {
-      "id": "b_products",
+      "id": "block_prod_1",
       "type": "products",
-      "title": "أحدث المنتجات",
+      "title": "أكثر المنتجات",
       "subtitle": "",
       "style": "classic_grid",
       "visible": true,
-      "order": 3,
+      "order": 2,
       "settings": {
-        "items_count": 12,
-        "show_badge": true
+        "limit": 14
       }
     },
     {
-      "id": "b_features",
-      "type": "features",
-      "title": "لماذا تختارنا؟",
+      "id": "block_cat_1",
+      "type": "categories",
+      "title": "تصفح حسب الفئة",
       "subtitle": "",
-      "style": "badges_row",
-      "visible": true,
-      "order": 4,
+      "style": "bubbles",
+      "visible": false,
+      "order": 3,
       "settings": {
-        "items": [
-          {
-            "icon": "truck",
-            "title": "توصيل سريع",
-            "desc": "لباب بيتك بأمان"
-          },
-          {
-            "icon": "shield-check",
-            "title": "ضمان الجودة",
-            "desc": "منتجات أصلية 100%"
-          },
-          {
-            "icon": "headset",
-            "title": "دعم متواصل",
-            "desc": "خدمة عملاء على مدار الساعة"
-          }
-        ]
+        "layout": "horizontal",
+        "categories_style": "grid_matrix",
+        "style": "grid",
+        "grid_columns": 3,
+        "icon_size": "small"
       }
     }
   ],
@@ -367,7 +337,7 @@
     "whatsapp_floating": {
       "enabled": true,
       "phone": "",
-      "position": "left"
+      "position": "right"
     }
   },
   "updated_at": 1787936388824
