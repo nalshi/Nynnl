@@ -1,5 +1,5 @@
 {
-  "_version": 1788273283544,
+  "_version": 1788273307997,
   "data": {
     "id": "90001",
     "merchant_id": "90001",
@@ -530,7 +530,7 @@
         "version": "4.0",
         "theme_version": "4.0",
         "theme_name": "warm_mocha",
-        "default_theme_mode": "dark",
+        "default_theme_mode": "auto",
         "store_identity": {
           "store_name": "AN",
           "slogan": "وجهتك الأولى لأرقى المنتجات والخدمات",
