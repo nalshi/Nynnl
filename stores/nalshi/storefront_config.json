@@ -346,35 +346,35 @@
         {
           "id": "home",
           "label": "الرئيسية",
-          "icon": "fa-seedling",
+          "icon": "fa-store",
           "visible": true,
           "order": 1
         },
         {
           "id": "search",
-          "label": "تصفح",
+          "label": "استعراض",
           "icon": "fa-magnifying-glass",
           "visible": true,
           "order": 2
         },
         {
           "id": "orders",
-          "label": "طلبات",
-          "icon": "fa-truck-fast",
+          "label": "طلباتي",
+          "icon": "fa-box",
           "visible": true,
           "order": 3
         },
         {
           "id": "favorites",
-          "label": "مفضلة",
-          "icon": "fa-sparkles",
+          "label": "المفضلة",
+          "icon": "fa-star",
           "visible": false,
           "order": 4
         },
         {
           "id": "cart",
           "label": "السلة",
-          "icon": "fa-basket-shopping",
+          "icon": "fa-shopping-bag",
           "visible": true,
           "order": 5
         }
