@@ -340,5 +340,53 @@
       "position": "right"
     }
   },
+  "navigation_settings": {
+    "bottom_bar": {
+      "items": [
+        {
+          "id": "home",
+          "label": "الرئيسية",
+          "icon": "fa-seedling",
+          "visible": true,
+          "order": 1
+        },
+        {
+          "id": "search",
+          "label": "تصفح",
+          "icon": "fa-magnifying-glass",
+          "visible": true,
+          "order": 2
+        },
+        {
+          "id": "orders",
+          "label": "طلبات",
+          "icon": "fa-truck-fast",
+          "visible": true,
+          "order": 3
+        },
+        {
+          "id": "favorites",
+          "label": "مفضلة",
+          "icon": "fa-sparkles",
+          "visible": false,
+          "order": 4
+        },
+        {
+          "id": "cart",
+          "label": "السلة",
+          "icon": "fa-basket-shopping",
+          "visible": true,
+          "order": 5
+        }
+      ]
+    },
+    "top_bar": {
+      "show_logo_icon": true,
+      "logo_icon": "fa-store",
+      "show_dark_mode_btn": false,
+      "show_profile_btn": true,
+      "show_search_btn": true
+    }
+  },
   "updated_at": 1787936388824
 }
