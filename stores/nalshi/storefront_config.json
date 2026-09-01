@@ -129,7 +129,7 @@
   "modals_customization": {
     "product_details": {
       "cta_button_text": "إضافة إلى السلة 🛍️",
-      "border_radius": "24px"
+      "border_radius": "32px"
     },
     "cart_drawer": {
       "header_title": "سلة مشترياتي 🛒",
@@ -307,11 +307,11 @@
   "typography": {
     "font_family": "Tajawal",
     "base_size": "16px",
-    "base_size_mobile": "15px",
+    "base_size_mobile": "16px",
     "base_size_desktop": "17px",
-    "heading_weight": "700",
-    "heading_size_mobile": "1.35rem",
-    "heading_size_desktop": "1.45rem",
+    "heading_weight": "900",
+    "heading_size_mobile": "1.00rem",
+    "heading_size_desktop": "1.05rem",
     "price_size_mobile": "1.1rem",
     "price_size_desktop": "1.25rem",
     "headings": {
@@ -331,13 +331,13 @@
   },
   "marketing": {
     "free_shipping_bar": {
-      "enabled": false,
+      "enabled": true,
       "message": "🚚 شحن مجاني للطلبات فوق 10,000 ريال!"
     },
     "whatsapp_floating": {
-      "enabled": true,
+      "enabled": false,
       "phone": "",
-      "position": "right"
+      "position": "left"
     }
   },
   "navigation_settings": {
