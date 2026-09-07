@@ -348,21 +348,21 @@
       "items": [
         {
           "id": "home",
-          "label": "الرئيسية",
+          "label": ".",
           "icon": "fa-seedling",
           "visible": true,
           "order": 1
         },
         {
           "id": "search",
-          "label": "بحث",
+          "label": ".",
           "icon": "fa-magnifying-glass",
           "visible": true,
           "order": 2
         },
         {
           "id": "orders",
-          "label": "طلباتي",
+          "label": ".",
           "icon": "fa-truck-fast",
           "visible": true,
           "order": 3
@@ -376,7 +376,7 @@
         },
         {
           "id": "cart",
-          "label": "السلة",
+          "label": ".",
           "icon": "fa-basket-shopping",
           "visible": true,
           "order": 5
