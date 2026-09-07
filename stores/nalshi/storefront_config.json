@@ -1,4 +1,7 @@
 {
+  "store_messages": {
+    "search_placeholder": "وووو"
+  },
   "version": "4.0",
   "theme_version": "4.0",
   "theme_name": "warm_mocha",
@@ -74,7 +77,7 @@
     "card_orientation": "portrait"
   },
   "messages": {
-    "search_placeholder": "ابحث عن المنتجات أو الماركات...",
+    "search_placeholder": "وووو",
     "empty_cart_title": "سلة المشتريات فارغة 🛒",
     "empty_cart_desc": "لم تقم بإضافة أي منتجات للسلة بعد، تصفح المتجر الآن!",
     "order_success_title": "تم استلام طلبك بنجاح! 🎉",
@@ -352,14 +355,14 @@
         },
         {
           "id": "search",
-          "label": "تصفح",
+          "label": "بحث",
           "icon": "fa-magnifying-glass",
           "visible": true,
           "order": 2
         },
         {
           "id": "orders",
-          "label": "طلبات",
+          "label": "طلباتي",
           "icon": "fa-truck-fast",
           "visible": true,
           "order": 3
