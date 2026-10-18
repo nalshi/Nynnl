@@ -1,5 +1,5 @@
 {
-  "_version": 1792366531215,
+  "_version": 1792366593991,
   "data": {
     "id": "90001",
     "merchant_id": "90001",
@@ -589,7 +589,7 @@
         "version": "4.0",
         "theme_version": "4.0",
         "theme_name": "emerald_royal",
-        "default_theme_mode": "light",
+        "default_theme_mode": "dark",
         "store_identity": {
           "store_name": "hhhhh",
           "slogan": "اهليين بكم..ةةةةةة",
@@ -1075,7 +1075,7 @@
             "show_search_btn": true
           }
         },
-        "updated_at": 1792366530797
+        "updated_at": 1792366593584
       }
     }
   }

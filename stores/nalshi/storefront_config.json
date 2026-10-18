@@ -10,7 +10,7 @@
   "version": "4.0",
   "theme_version": "4.0",
   "theme_name": "emerald_royal",
-  "default_theme_mode": "light",
+  "default_theme_mode": "dark",
   "store_identity": {
     "store_name": "hhhhh",
     "slogan": "اهليين بكم..ةةةةةة",
@@ -496,5 +496,5 @@
       "show_search_btn": true
     }
   },
-  "updated_at": 1792366530797
+  "updated_at": 1792366593584
 }
