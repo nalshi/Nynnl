@@ -10,7 +10,7 @@
   "version": "4.0",
   "theme_version": "4.0",
   "theme_name": "amber_gold",
-  "default_theme_mode": "dark",
+  "default_theme_mode": "light",
   "store_identity": {
     "store_name": "hhhhh",
     "slogan": "اهليين بكم..ةةةةةة",
@@ -496,5 +496,5 @@
       "show_search_btn": true
     }
   },
-  "updated_at": 1792363874670
+  "updated_at": 1792364090587
 }
