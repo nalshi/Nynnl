@@ -1,5 +1,5 @@
 {
-  "_version": 1792368404028,
+  "_version": 1792368463234,
   "data": {
     "id": "90001",
     "merchant_id": "90001",
@@ -1084,7 +1084,7 @@
             "navbar_style": "floating"
           }
         },
-        "updated_at": 1792368403621
+        "updated_at": 1792368462816
       }
     }
   }
