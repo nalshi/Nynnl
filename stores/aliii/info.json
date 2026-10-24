@@ -1,5 +1,5 @@
 {
-  "_version": 1792867318676,
+  "_version": 1792867398250,
   "data": {
     "id": "60001",
     "merchant_id": "60001",
@@ -1014,7 +1014,7 @@
           },
           "top_bar": {
             "show_logo_icon": true,
-            "logo_icon": "fa-tag",
+            "logo_icon": "fa-shopping-bag",
             "show_dark_mode_btn": true,
             "show_profile_btn": true,
             "show_search_btn": true,
