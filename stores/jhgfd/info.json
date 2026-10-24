@@ -1,5 +1,5 @@
 {
-  "_version": 1792867261616,
+  "_version": 1792867269029,
   "data": {
     "id": "270001",
     "merchant_id": "270001",
@@ -737,7 +737,7 @@
           },
           "top_bar": {
             "show_logo_icon": true,
-            "logo_icon": "fa-shopping-bag",
+            "logo_icon": "fa-gem",
             "show_dark_mode_btn": true,
             "show_profile_btn": true,
             "show_search_btn": true,
