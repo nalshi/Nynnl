@@ -25,6 +25,7 @@
     "welcome_message": "أهلاً بكم في متجرنا! نتمنى لكم تجربة تسوق ممتعة.",
     "currency_symbol": "YER",
     "logo": "",
+    "logo_url": "",
     "favicon": "",
     "announcement_bar": {
       "enabled": true,
@@ -498,7 +499,7 @@
     },
     "top_bar": {
       "show_logo_icon": true,
-      "logo_icon": "fa-crown",
+      "logo_icon": "fa-shopping-bag",
       "show_dark_mode_btn": true,
       "show_profile_btn": true,
       "show_search_btn": true,
