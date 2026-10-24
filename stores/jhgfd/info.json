@@ -1,5 +1,5 @@
 {
-  "_version": 1792867269029,
+  "_version": 1792875268718,
   "data": {
     "id": "270001",
     "merchant_id": "270001",
@@ -262,8 +262,8 @@
           "slogan": "وجهتك الأولى لأرقى المنتجات والخدمات",
           "welcome_message": "أهلاً بكم في متجرنا! نتمنى لكم تجربة تسوق ممتعة.",
           "currency_symbol": "YER",
-          "logo": "",
-          "logo_url": "",
+          "logo": "https://cdn.jsdelivr.net/gh/nalshi/Nynnl@7347f03800562378aaa7981fc67201ec33945413/images/jhgfd/store-logo-b36b45b458da5ef9641e9f038edba22c500c581f81cf9342339ee129f8fbf7e4.webp",
+          "logo_url": "https://cdn.jsdelivr.net/gh/nalshi/Nynnl@7347f03800562378aaa7981fc67201ec33945413/images/jhgfd/store-logo-b36b45b458da5ef9641e9f038edba22c500c581f81cf9342339ee129f8fbf7e4.webp",
           "favicon": "",
           "announcement_bar": {
             "enabled": true,
