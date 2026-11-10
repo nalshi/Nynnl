@@ -24,8 +24,8 @@
     "slogan": "اهليين بكم..ةةةةةة",
     "welcome_message": "أهلاً بكم في متجرنا! نتمنى لكم تجربة تسوق ممتعة.",
     "currency_symbol": "YER",
-    "logo": "",
-    "logo_url": "",
+    "logo": "https://cdn.jsdelivr.net/gh/nalshi/Nynnl@bdca71a2c5aa71342a5dd09a7118972a353dfa0b/images/nalshi/store-logo-558793a180e004fa0cfb5a704dc14d2ba1e88a9e449c6b0628f8b86c3b652c49.webp",
+    "logo_url": "https://cdn.jsdelivr.net/gh/nalshi/Nynnl@bdca71a2c5aa71342a5dd09a7118972a353dfa0b/images/nalshi/store-logo-558793a180e004fa0cfb5a704dc14d2ba1e88a9e449c6b0628f8b86c3b652c49.webp",
     "favicon": "",
     "announcement_bar": {
       "enabled": true,
